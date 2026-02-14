@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<items count="441" generatedAt="2026-02-14T13:20:07.659Z">
+<items count="441" generatedAt="2026-02-14T14:08:35.536Z">
   <item looktype="6495" name="Abominatio's Skin" sell="70" type="none">
     <droppedBy>
       <monster looktype="6659" name="Abominatio"/>
@@ -33,8 +33,8 @@
       <monster isBoss="true" looktype="0" name="The Wisper"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 4</container>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
+      <container>Bag of Valentine's Day</container>
     </containedIn>
   </item>
   <item looktype="6581" name="Adventurer coat" sell="2000" type="armour" vocation="wizard">
@@ -44,26 +44,26 @@
       <monster isBoss="true" looktype="0" name="The Wisper"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 4</container>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
+      <container>Bag of Valentine's Day</container>
     </containedIn>
   </item>
   <item looktype="2573" name="Amulet of earth" sell="56" type="chain">
     <defences energy_def="20" level="79"/>
     <containedIn>
-      <container>Unknown Box 20</container>
-      <container>Unknown Box 3</container>
-      <container>Unknown Box 5</container>
-      <container>Unknown Box 7</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Orthoma</container>
+      <container>Bag of Tazmania</container>
+      <container>Bag of Yabura</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="5166" name="Amulet of snow" sell="78" type="chain">
     <defences ice_def="20" level="79"/>
     <containedIn>
-      <container>Unknown Box 3</container>
-      <container>Unknown Box 5</container>
-      <container>Unknown Box 7</container>
+      <container>Bag of Orthoma</container>
+      <container>Bag of Tazmania</container>
+      <container>Bag of Yabura</container>
     </containedIn>
   </item>
   <item looktype="5316" name="Ancient Skin" sell="1000" type="none">
@@ -88,7 +88,7 @@
   <item looktype="5285" name="Archon ring" type="ring">
     <defences energy_def="14" fire_def="14" hit_def="14" holy_def="14" ice_def="14" level="99"/>
     <containedIn>
-      <container>Unknown Box 8</container>
+      <container>Bag of Gorgoros</container>
     </containedIn>
   </item>
   <item looktype="5139" name="Arctic spike" sell="18" type="weapon" vocation="warrior">
@@ -169,9 +169,9 @@
   </item>
   <item looktype="8462" name="Attack Vigor" type="egg">
     <containedIn>
-      <container>Unknown Box 11</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 22</container>
+      <container>Bag of Halloween</container>
+      <container>Dungeon Bag - Orthoma</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="2562" name="Axe" sell="15" type="weapon" vocation="warrior">
@@ -284,8 +284,8 @@
   <item looktype="6462" name="Black belt" sell="44" type="legs" vocation="wizard">
     <defences energy_def="5" hit_def="5" holy_def="14" level="34"/>
     <containedIn>
-      <container>Unknown Box 4</container>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
+      <container>Bag of Valentine's Day</container>
     </containedIn>
   </item>
   <item looktype="2566" name="Blazing crystal" sell="4" type="weapon" vocation="wizard">
@@ -315,7 +315,7 @@
   <item looktype="5202" name="Blessed brooch" sell="45" type="chain">
     <defences hit_def="10" holy_def="10" level="49"/>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="6504" name="Blessed greatstaff" sell="65" type="weapon" vocation="wizard">
@@ -331,8 +331,8 @@
       <monster isBoss="true" looktype="5384" name="ProtoFang"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 21</container>
-      <container>Unknown Box 22</container>
+      <container>Dungeon Bag - Orthoma</container>
+      <container>Dungeon Bag - Yabura</container>
     </containedIn>
   </item>
   <item looktype="2584" name="Blue defroster" type="none">
@@ -354,7 +354,7 @@
   <item looktype="5203" name="Bobble hat" sell="55" type="helmet" vocation="wizard">
     <defences ice_def="15" level="44"/>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="6444" name="Bommelsword" sell="67" type="weapon" vocation="warrior">
@@ -391,8 +391,8 @@
       <monster isBoss="true" looktype="0" name="Myst"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 21</container>
-      <container>Unknown Box 22</container>
+      <container>Dungeon Bag - Orthoma</container>
+      <container>Dungeon Bag - Yabura</container>
     </containedIn>
   </item>
   <item looktype="6513" name="Broodmother ring" sell="44" type="ring">
@@ -421,7 +421,7 @@
   </item>
   <item looktype="5558" name="Cerberus mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 11</container>
+      <container>Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5178" name="Ceremonial rod" sell="33" type="weapon" vocation="wizard">
@@ -441,15 +441,15 @@
   <item looktype="6574" name="Chain of force" type="chain">
     <defences hit_def="20" level="79"/>
     <containedIn>
-      <container>Unknown Box 3</container>
-      <container>Unknown Box 5</container>
-      <container>Unknown Box 7</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Orthoma</container>
+      <container>Bag of Tazmania</container>
+      <container>Bag of Yabura</container>
     </containedIn>
   </item>
   <item looktype="5558" name="Chaleton mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 11</container>
+      <container>Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="6484" name="Chastity legs" sell="37" type="legs" vocation="warrior">
@@ -470,7 +470,7 @@
   </item>
   <item looktype="5558" name="Chicken mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
     </containedIn>
   </item>
   <item looktype="5224" name="Chili stick" sell="1" type="weapon" vocation="wizard">
@@ -567,7 +567,7 @@
       <monster isBoss="true" looktype="0" name="Myst"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 21</container>
+      <container>Dungeon Bag - Yabura</container>
     </containedIn>
   </item>
   <item looktype="5210" name="Crown armour" sell="58" type="armour" vocation="warrior">
@@ -604,7 +604,7 @@
       <monster isBoss="true" looktype="6663" name="Orc General"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="5263" name="Crushing staff" sell="45" type="weapon" vocation="wizard">
@@ -623,7 +623,7 @@
       <monster looktype="5379" name="Yeti"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="5520" name="Crystal cloak" sell="2000" type="armour" vocation="wizard">
@@ -654,7 +654,7 @@
       <monster isBoss="true" looktype="0" name="The Wisper"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
     </containedIn>
   </item>
   <item looktype="5170" name="Crystal ring" sell="48" type="ring">
@@ -681,13 +681,13 @@
   </item>
   <item looktype="5558" name="Cultist mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 13</container>
+      <container>Christmas Gift</container>
     </containedIn>
   </item>
   <item looktype="5558" name="Cupid mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 15</container>
-      <container>Unknown Box 4</container>
+      <container>Bag of Valentine's Day</container>
+      <container>Bag of Valentine's Day Master</container>
     </containedIn>
   </item>
   <item looktype="5553" name="Curse of Ashmor" type="weapon" vocation="wizard">
@@ -711,7 +711,7 @@
   </item>
   <item looktype="5280" name="Cyclops Pet" type="addpet">
     <containedIn>
-      <container>Unknown Box 10</container>
+      <container>Bag of Coliseum</container>
     </containedIn>
   </item>
   <item looktype="2595" name="Cyclops Skin" type="none">
@@ -721,7 +721,7 @@
   </item>
   <item looktype="5558" name="Dark mage mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 10</container>
+      <container>Bag of Coliseum</container>
     </containedIn>
   </item>
   <item looktype="5522" name="Deepfrozen hood" type="helmet" vocation="wizard">
@@ -730,8 +730,8 @@
       <monster isBoss="true" looktype="5636" name="Odon"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 15</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Valentine's Day Master</container>
     </containedIn>
   </item>
   <item looktype="5521" name="Deepfrozen pants" type="legs" vocation="wizard">
@@ -748,14 +748,14 @@
   </item>
   <item looktype="8460" name="Defense Vigor" type="egg">
     <containedIn>
-      <container>Unknown Box 22</container>
+      <container>Dungeon Bag - Orthoma</container>
     </containedIn>
   </item>
   <item looktype="5508" name="Demonic cloak" type="armour" vocation="wizard">
     <defences fire_def="43" holy_def="21" level="79"/>
     <containedIn>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Gorgoros</container>
     </containedIn>
   </item>
   <item looktype="5512" name="Demonic Ring" sell="77" type="ring">
@@ -764,35 +764,35 @@
       <monster looktype="5899" name="Bonevolcan"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 15</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Valentine's Day Master</container>
     </containedIn>
   </item>
   <item looktype="5511" name="Demonic shield" type="shield" vocation="wizard">
     <defences fire_def="27" holy_def="13" level="79"/>
     <containedIn>
-      <container>Unknown Box 14</container>
+      <container>Bag of Coliseum Master</container>
     </containedIn>
   </item>
   <item looktype="5509" name="Demonic trousers" type="legs" vocation="wizard">
     <defences fire_def="32" holy_def="16" level="79"/>
     <containedIn>
-      <container>Unknown Box 8</container>
+      <container>Bag of Gorgoros</container>
     </containedIn>
   </item>
   <item looktype="5531" name="Divine Amulet" sell="56" type="chain">
     <defences holy_def="20" level="79"/>
     <containedIn>
-      <container>Unknown Box 3</container>
-      <container>Unknown Box 5</container>
-      <container>Unknown Box 7</container>
+      <container>Bag of Orthoma</container>
+      <container>Bag of Tazmania</container>
+      <container>Bag of Yabura</container>
     </containedIn>
   </item>
   <item looktype="5527" name="Divine greaves" type="legs" vocation="warrior">
     <defences energy_def="13" holy_def="27" level="79"/>
     <containedIn>
-      <container>Unknown Box 7</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Orthoma</container>
     </containedIn>
   </item>
   <item looktype="5566" name="Divine health potion" type="potion">
@@ -814,10 +814,10 @@
   <item looktype="5528" name="Divine helmet" type="helmet" vocation="warrior">
     <defences energy_def="10" holy_def="21" level="79"/>
     <containedIn>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 15</container>
-      <container>Unknown Box 7</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Orthoma</container>
+      <container>Bag of Valentine's Day Master</container>
     </containedIn>
   </item>
   <item looktype="5573" name="Divine mana potion" type="potion">
@@ -836,10 +836,10 @@
   <item looktype="5529" name="Divine protector" type="shield" vocation="warrior">
     <defences energy_def="10" holy_def="21" level="79"/>
     <containedIn>
-      <container>Unknown Box 10</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 15</container>
+      <container>Bag of Coliseum</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Valentine's Day Master</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5552" name="Divine twinblade" sell="1000" type="weapon" vocation="warrior">
@@ -853,7 +853,7 @@
       <monster isBoss="true" looktype="6660" name="Warer"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="5553" name="Divine twinstaff" sell="1000" type="weapon" vocation="wizard">
@@ -867,7 +867,7 @@
       <monster isBoss="true" looktype="6660" name="Warer"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="2599" name="Dragon Candle" type="script">
@@ -922,11 +922,11 @@
       <monster isBoss="true" looktype="6660" name="Warer"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 3</container>
-      <container>Unknown Box 4</container>
-      <container>Unknown Box 5</container>
-      <container>Unknown Box 6</container>
-      <container>Unknown Box 7</container>
+      <container>Bag of Dragon Rutting</container>
+      <container>Bag of Orthoma</container>
+      <container>Bag of Tazmania</container>
+      <container>Bag of Valentine's Day</container>
+      <container>Bag of Yabura</container>
     </containedIn>
   </item>
   <item looktype="6501" name="Edge of storm" sell="65" type="weapon" vocation="warrior">
@@ -953,9 +953,9 @@
       <monster looktype="6663" name="Worc"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 4</container>
-      <container>Unknown Box 5</container>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
+      <container>Bag of Valentine's Day</container>
+      <container>Bag of Yabura</container>
     </containedIn>
   </item>
   <item looktype="5598" name="Elder mana potion" type="potion">
@@ -976,8 +976,8 @@
       <monster looktype="6663" name="Worc"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 4</container>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
+      <container>Bag of Valentine's Day</container>
     </containedIn>
   </item>
   <item looktype="5597" name="Elder might potion" type="potion">
@@ -994,10 +994,10 @@
       <monster looktype="5899" name="Volcanus"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 21</container>
-      <container>Unknown Box 4</container>
-      <container>Unknown Box 5</container>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
+      <container>Bag of Valentine's Day</container>
+      <container>Bag of Yabura</container>
+      <container>Dungeon Bag - Yabura</container>
     </containedIn>
   </item>
   <item looktype="5262" name="Elder staff" sell="55" type="weapon" vocation="wizard">
@@ -1009,7 +1009,7 @@
   <item looktype="5181" name="Ember rune" sell="98" type="weapon" vocation="wizard">
     <attacks fire_attack="1-100" level="36" mana="9"/>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="6584" name="Emerald" sell="450" type="none">
@@ -1027,22 +1027,22 @@
   </item>
   <item looktype="8484" name="Emoji Black Cat" sell="5000" type="emoji">
     <containedIn>
-      <container>Unknown Box 11</container>
+      <container>Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="8484" name="Emoji Cute" sell="5000" type="emoji">
     <containedIn>
-      <container>Unknown Box 13</container>
+      <container>Christmas Gift</container>
     </containedIn>
   </item>
   <item looktype="8484" name="Emoji Pumpkin" sell="5000" type="emoji">
     <containedIn>
-      <container>Unknown Box 11</container>
+      <container>Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="8484" name="Emoji Vampire" sell="5000" type="emoji">
     <containedIn>
-      <container>Unknown Box 11</container>
+      <container>Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5127" name="Energy blade" sell="48" type="weapon" vocation="warrior">
@@ -1071,7 +1071,7 @@
       <monster looktype="5892" name="Aural"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="5144" name="Energy Stone" type="script">
@@ -1124,8 +1124,9 @@
       <monster isBoss="true" looktype="0" name="Myst"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 22</container>
-      <container>Unknown Box 9</container>
+      <container>Bag of Ghulmor</container>
+      <container>Bag of Lucifero</container>
+      <container>Dungeon Bag - Orthoma</container>
     </containedIn>
   </item>
   <item looktype="6587" name="Etheric ore" sell="350" type="none">
@@ -1267,7 +1268,7 @@
   </item>
   <item looktype="5558" name="Fire drake mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
     </containedIn>
   </item>
   <item looktype="5168" name="Fire ring" sell="106" type="ring">
@@ -1343,28 +1344,28 @@
       <monster looktype="6913" name="Mutant"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 15</container>
-      <container>Unknown Box 3</container>
-      <container>Unknown Box 7</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Orthoma</container>
+      <container>Bag of Tazmania</container>
+      <container>Bag of Valentine's Day Master</container>
     </containedIn>
   </item>
   <item looktype="6578" name="Forcebreak guards" type="legs" vocation="warrior">
     <defences hit_def="27" holy_def="13" level="79"/>
     <containedIn>
-      <container>Unknown Box 10</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 14</container>
+      <container>Bag of Coliseum</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="6577" name="Forcedeflect pants" type="legs" vocation="wizard">
     <defences hit_def="32" holy_def="16" level="79"/>
     <containedIn>
-      <container>Unknown Box 10</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 15</container>
+      <container>Bag of Coliseum</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Valentine's Day Master</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5435" name="Fortified legs" sell="24" type="legs" vocation="warrior">
@@ -1377,7 +1378,8 @@
   </item>
   <item looktype="8449" name="Fragment of Power" sell="10000" type="none">
     <containedIn>
-      <container>Unknown Box 9</container>
+      <container>Bag of Ghulmor</container>
+      <container>Bag of Lucifero</container>
     </containedIn>
   </item>
   <item looktype="5500" name="Freezer planks" sell="20" type="shield" vocation="wizard">
@@ -1412,7 +1414,7 @@
       <monster isBoss="true" looktype="5889" name="The Frog"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 13</container>
+      <container>Christmas Gift</container>
     </containedIn>
   </item>
   <item looktype="6433" name="Frost helmet" sell="34" type="helmet" vocation="warrior">
@@ -1453,8 +1455,8 @@
       <monster isBoss="true" looktype="5636" name="Odon"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 15</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Valentine's Day Master</container>
     </containedIn>
   </item>
   <item looktype="5516" name="Frostscale helmet" type="helmet" vocation="warrior">
@@ -1478,8 +1480,8 @@
       <monster looktype="6913" name="Mutant"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 7</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Orthoma</container>
     </containedIn>
   </item>
   <item looktype="6471" name="Frozarium" sell="67" type="weapon" vocation="warrior">
@@ -1543,8 +1545,8 @@
   </item>
   <item looktype="5280" name="Ghost Pet" type="addpet">
     <containedIn>
-      <container>Unknown Box 11</container>
-      <container>Unknown Box 12</container>
+      <container>Bag of Halloween</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5551" name="Gift of Nivalis" type="weapon" vocation="wizard">
@@ -1586,7 +1588,7 @@
       <monster looktype="5638" name="Dragon"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 3</container>
+      <container>Bag of Tazmania</container>
     </containedIn>
   </item>
   <item looktype="8477" name="Gold Stone" sell="3000" type="none">
@@ -1641,7 +1643,7 @@
   <item looktype="5171" name="Griffin shield" sell="38" type="shield" vocation="warrior">
     <defences fire_def="10" hit_def="10" level="36"/>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="6468" name="Gurumistick" sell="67" type="weapon" vocation="warrior">
@@ -1684,22 +1686,22 @@
   <item looktype="5502" name="Hellfire breastplate" type="armour" vocation="warrior">
     <defences fire_def="37" holy_def="18" level="79"/>
     <containedIn>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 15</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Valentine's Day Master</container>
     </containedIn>
   </item>
   <item looktype="5505" name="Hellfire bulwark" type="shield" vocation="warrior">
     <defences fire_def="21" holy_def="10" level="79"/>
     <containedIn>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 15</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Valentine's Day Master</container>
     </containedIn>
   </item>
   <item looktype="5503" name="Hellfire legplates" type="legs" vocation="warrior">
     <defences fire_def="27" holy_def="13" level="79"/>
     <containedIn>
-      <container>Unknown Box 8</container>
+      <container>Bag of Gorgoros</container>
     </containedIn>
   </item>
   <item looktype="5196" name="Hex shield" sell="32" type="shield" vocation="wizard">
@@ -1709,7 +1711,7 @@
       <monster isBoss="true" looktype="6663" name="Orc General"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="2569" name="Holy discus" sell="36" type="weapon" vocation="wizard">
@@ -1745,7 +1747,7 @@
       <monster isBoss="true" looktype="5124" name="King Bat"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="5558" name="Hornet mask" sell="550" type="mask">
@@ -1772,7 +1774,7 @@
   <item looktype="5172" name="Ice shield" sell="44" type="shield" vocation="warrior">
     <defences hit_def="5" ice_def="15" level="55"/>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="6488" name="Incensor" sell="49" type="weapon" vocation="warrior">
@@ -1792,7 +1794,7 @@
   <item looktype="5201" name="Jade ring" sell="37" type="ring">
     <defences hit_def="5" holy_def="10" level="34"/>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="2596" name="Jewel of EP" type="script">
@@ -1819,24 +1821,24 @@
       <monster isBoss="true" looktype="0" name="Myst"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 10</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 20</container>
-      <container>Unknown Box 21</container>
-      <container>Unknown Box 22</container>
+      <container>Bag of Coliseum</container>
+      <container>Dungeon Bag - Aurea</container>
+      <container>Dungeon Bag - Orthoma</container>
+      <container>Dungeon Bag - Yabura</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="2596" name="Jewel of EP" type="script">
     <containedIn>
-      <container>Unknown Box 11</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 13</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Halloween</container>
+      <container>Christmas Gift</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="2596" name="Jewel of EP" type="script">
     <containedIn>
-      <container>Unknown Box 3</container>
+      <container>Bag of Tazmania</container>
     </containedIn>
   </item>
   <item looktype="2600" name="Jug" sell="5" type="none">
@@ -1869,7 +1871,7 @@
   </item>
   <item looktype="6467" name="Large Dungeon Ring" type="ring">
     <containedIn>
-      <container>Unknown Box 22</container>
+      <container>Dungeon Bag - Orthoma</container>
     </containedIn>
   </item>
   <item looktype="2571" name="Leather legs" sell="25" type="legs" vocation="warrior">
@@ -2069,8 +2071,8 @@
   <item looktype="6461" name="Lined cloth pants" sell="35" type="legs" vocation="wizard">
     <defences hit_def="5" ice_def="12" level="26"/>
     <containedIn>
-      <container>Unknown Box 4</container>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
+      <container>Bag of Valentine's Day</container>
     </containedIn>
   </item>
   <item looktype="5217" name="Little sword" sell="1" type="weapon" vocation="warrior">
@@ -2082,7 +2084,7 @@
   </item>
   <item looktype="5558" name="Lizardman mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 4</container>
+      <container>Bag of Valentine's Day</container>
     </containedIn>
   </item>
   <item looktype="6495" name="Lizards Skin" type="none">
@@ -2105,8 +2107,8 @@
       <monster isBoss="true" looktype="5899" name="Insane"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 21</container>
-      <container>Unknown Box 22</container>
+      <container>Dungeon Bag - Orthoma</container>
+      <container>Dungeon Bag - Yabura</container>
     </containedIn>
   </item>
   <item looktype="2564" name="Mace" sell="10" type="weapon" vocation="warrior">
@@ -2244,9 +2246,9 @@
   </item>
   <item looktype="5468" name="Medium Dungeon Ring" type="ring">
     <containedIn>
-      <container>Unknown Box 10</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 21</container>
+      <container>Bag of Coliseum</container>
+      <container>Dungeon Bag - Yabura</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5218" name="Melee mallet" sell="3" type="weapon" vocation="warrior">
@@ -2335,8 +2337,8 @@
       <monster isBoss="true" looktype="5892" name="NanoWasp"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 21</container>
-      <container>Unknown Box 22</container>
+      <container>Dungeon Bag - Orthoma</container>
+      <container>Dungeon Bag - Yabura</container>
     </containedIn>
   </item>
   <item looktype="5584" name="Miracle herb" type="potion" vocation="wizard">
@@ -2513,7 +2515,7 @@
   </item>
   <item looktype="5558" name="Orc mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 4</container>
+      <container>Bag of Valentine's Day</container>
     </containedIn>
   </item>
   <item looktype="6520" name="Ornate battle stick" sell="36" type="weapon" vocation="wizard">
@@ -2524,18 +2526,19 @@
   </item>
   <item looktype="5668" name="Orthoma Fragment" sell="10000" type="none">
     <containedIn>
-      <container>Unknown Box 22</container>
-      <container>Unknown Box 9</container>
+      <container>Bag of Ghulmor</container>
+      <container>Bag of Lucifero</container>
+      <container>Dungeon Bag - Orthoma</container>
     </containedIn>
   </item>
   <item looktype="5280" name="Outfit Scroll" type="addoutfit">
     <containedIn>
-      <container>Unknown Box 13</container>
+      <container>Christmas Gift</container>
     </containedIn>
   </item>
   <item looktype="5280" name="Outfit Scroll" type="addoutfit">
     <containedIn>
-      <container>Unknown Box 13</container>
+      <container>Christmas Gift</container>
     </containedIn>
   </item>
   <item looktype="5280" name="Outfit Scroll" type="addoutfit">
@@ -2550,7 +2553,7 @@
       <monster isBoss="true" looktype="0" name="The Wisper"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
     </containedIn>
   </item>
   <item looktype="5508" name="Phoenix cloak" sell="2000" type="armour" vocation="wizard">
@@ -2562,7 +2565,7 @@
   </item>
   <item looktype="5595" name="Phoenix Feather" sell="1000" type="none">
     <containedIn>
-      <container>Unknown Box 22</container>
+      <container>Dungeon Bag - Orthoma</container>
     </containedIn>
   </item>
   <item looktype="5670" name="Piece of Ethereal Shards" sell="2000" type="none">
@@ -2570,17 +2573,17 @@
       <monster isBoss="true" looktype="0" name="Myst"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 10</container>
-      <container>Unknown Box 21</container>
-      <container>Unknown Box 22</container>
-      <container>Unknown Box 5</container>
+      <container>Bag of Coliseum</container>
+      <container>Bag of Yabura</container>
+      <container>Dungeon Bag - Orthoma</container>
+      <container>Dungeon Bag - Yabura</container>
     </containedIn>
   </item>
   <item looktype="8468" name="Piece of Pizza" sell="45" type="potion">
     <consumable hp="350" mp="350"/>
     <containedIn>
-      <container>Unknown Box 4</container>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
+      <container>Bag of Valentine's Day</container>
     </containedIn>
   </item>
   <item looktype="5236" name="Pirate headband" sell="45" type="helmet" vocation="wizard">
@@ -2598,11 +2601,11 @@
   <item looktype="2582" name="Power amulet" sell="56" type="chain">
     <defences hit_def="20" level="79"/>
     <containedIn>
-      <container>Unknown Box 20</container>
-      <container>Unknown Box 3</container>
-      <container>Unknown Box 5</container>
-      <container>Unknown Box 7</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Orthoma</container>
+      <container>Bag of Tazmania</container>
+      <container>Bag of Yabura</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="2583" name="Power ring" sell="29" type="ring">
@@ -2623,8 +2626,8 @@
   <item looktype="2602" name="Pumpkin" sell="5" type="potion">
     <consumable hp="50" mp="50"/>
     <containedIn>
-      <container>Unknown Box 10</container>
-      <container>Unknown Box 12</container>
+      <container>Bag of Coliseum</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="8486" name="Pumpkin Juice" sell="1000" type="none">
@@ -2657,9 +2660,9 @@
   <item looktype="8461" name="Regeneration Vigor" type="egg">
     <consumable regen="3"/>
     <containedIn>
-      <container>Unknown Box 11</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 22</container>
+      <container>Bag of Halloween</container>
+      <container>Dungeon Bag - Orthoma</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="2599" name="Ritual Candle" type="none">
@@ -2678,7 +2681,7 @@
   <item looktype="2580" name="Robe legs" sell="37" type="legs" vocation="wizard">
     <defences fire_def="15" hit_def="5" level="35"/>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="2579" name="Robes" sell="46" type="armour" vocation="wizard">
@@ -2690,7 +2693,7 @@
       <monster looktype="5125" name="Witch"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="6437" name="Royal neck cooler" sell="64" type="chain">
@@ -2796,31 +2799,31 @@
   <item looktype="5534" name="Sanctification hood" type="helmet" vocation="wizard">
     <defences energy_def="13" holy_def="27" level="79"/>
     <containedIn>
-      <container>Unknown Box 7</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Orthoma</container>
     </containedIn>
   </item>
   <item looktype="5533" name="Sanctification legs" type="legs" vocation="wizard">
     <defences energy_def="16" holy_def="32" level="79"/>
     <containedIn>
-      <container>Unknown Box 7</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Orthoma</container>
     </containedIn>
   </item>
   <item looktype="5536" name="Sanctification Ring" sell="77" type="ring">
     <defences holy_def="20" level="79"/>
     <containedIn>
-      <container>Unknown Box 3</container>
-      <container>Unknown Box 5</container>
+      <container>Bag of Tazmania</container>
+      <container>Bag of Yabura</container>
     </containedIn>
   </item>
   <item looktype="5535" name="Sanctification ward" type="shield" vocation="wizard">
     <defences energy_def="13" holy_def="27" level="79"/>
     <containedIn>
-      <container>Unknown Box 10</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 15</container>
+      <container>Bag of Coliseum</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Valentine's Day Master</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="2598" name="Sapphire" sell="450" type="none">
@@ -2854,7 +2857,7 @@
   </item>
   <item looktype="5558" name="Scorpion mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 10</container>
+      <container>Bag of Coliseum</container>
     </containedIn>
   </item>
   <item looktype="2592" name="Seashell" type="none">
@@ -2867,7 +2870,7 @@
   </item>
   <item looktype="5558" name="Shadow mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 11</container>
+      <container>Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5250" name="Shadow's Bones" type="none">
@@ -2887,7 +2890,7 @@
       <monster isBoss="true" looktype="6660" name="Warer"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="6457" name="Shaolin headbelt" sell="43" type="helmet" vocation="wizard">
@@ -3001,13 +3004,13 @@
       <monster isBoss="true" looktype="6914" name="Silver Stone"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 5</container>
+      <container>Bag of Yabura</container>
     </containedIn>
   </item>
   <item looktype="5280" name="Skelpirate Pet" type="addpet">
     <containedIn>
-      <container>Unknown Box 10</container>
-      <container>Unknown Box 12</container>
+      <container>Bag of Coliseum</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5248" name="Skull ring" sell="78" type="ring">
@@ -3028,7 +3031,7 @@
   </item>
   <item looktype="5464" name="Small Dungeon Ring" type="ring">
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="5562" name="Small health potion" sell="90" type="potion">
@@ -3225,7 +3228,7 @@
       <monster looktype="5637" name="Cyclops"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="5223" name="Spark stick" sell="42" type="weapon" vocation="wizard">
@@ -3242,8 +3245,8 @@
   </item>
   <item looktype="8487" name="Spell book" sell="4" type="book">
     <containedIn>
-      <container>Unknown Box 11</container>
-      <container>Unknown Box 12</container>
+      <container>Bag of Halloween</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5385" name="Spell student hood" sell="28" type="helmet" vocation="wizard">
@@ -3312,7 +3315,7 @@
       <monster isBoss="true" looktype="0" name="The Miner"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="6479" name="Splatter helmet" sell="40" type="helmet" vocation="warrior">
@@ -3354,7 +3357,7 @@
       <monster isBoss="true" looktype="6663" name="Orc General"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="5199" name="Steel chain" sell="43" type="chain">
@@ -3364,7 +3367,7 @@
       <monster looktype="5644" name="Krakomin"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="6545" name="Storm singer" sell="169" type="weapon" vocation="wizard">
@@ -3383,7 +3386,7 @@
       <monster looktype="6913" name="Mutant"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 7</container>
+      <container>Bag of Orthoma</container>
     </containedIn>
   </item>
   <item looktype="2561" name="Sword" sell="56" type="weapon" vocation="warrior">
@@ -3410,12 +3413,13 @@
   <item looktype="5162" name="Talisman" sell="68" type="chain">
     <defences fire_def="20" level="79"/>
     <containedIn>
-      <container>Unknown Box 3</container>
+      <container>Bag of Tazmania</container>
     </containedIn>
   </item>
   <item looktype="5694" name="Tazmania Fragment" sell="10000" type="none">
     <containedIn>
-      <container>Unknown Box 9</container>
+      <container>Bag of Ghulmor</container>
+      <container>Bag of Lucifero</container>
     </containedIn>
   </item>
   <item looktype="5544" name="Tempest cape" sell="2000" type="armour" vocation="wizard">
@@ -3432,7 +3436,7 @@
       <monster isBoss="true" looktype="0" name="The Wisper"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
     </containedIn>
   </item>
   <item looktype="5179" name="Tempest rod" sell="112" type="weapon" vocation="wizard">
@@ -3441,7 +3445,7 @@
       <monster isBoss="true" looktype="0" name="Bragnak"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="5556" name="Thunder clap mace" type="weapon" vocation="warrior">
@@ -3465,7 +3469,7 @@
       <monster looktype="5895" name="Goldminer"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 20</container>
+      <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
   <item looktype="5247" name="Tide evoker" sell="45" type="weapon" vocation="wizard">
@@ -3483,21 +3487,21 @@
   <item looktype="5547" name="To-maga aegis" type="shield" vocation="wizard">
     <defences energy_def="27" ice_def="13" level="79"/>
     <containedIn>
-      <container>Unknown Box 10</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 15</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Coliseum</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Valentine's Day Master</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5541" name="To-sabaki deflector" type="shield" vocation="warrior">
     <defences energy_def="21" ice_def="10" level="79"/>
     <containedIn>
-      <container>Unknown Box 10</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 14</container>
-      <container>Unknown Box 15</container>
-      <container>Unknown Box 8</container>
+      <container>Bag of Coliseum</container>
+      <container>Bag of Coliseum Master</container>
+      <container>Bag of Gorgoros</container>
+      <container>Bag of Valentine's Day Master</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5542" name="To-sabaki Ring" sell="77" type="ring">
@@ -3509,7 +3513,7 @@
       <monster looktype="6913" name="Mutant"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 7</container>
+      <container>Bag of Orthoma</container>
     </containedIn>
   </item>
   <item looktype="2603" name="Topaz" sell="450" type="none">
@@ -3580,20 +3584,20 @@
   </item>
   <item looktype="5558" name="Vampire mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 11</container>
+      <container>Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5280" name="Vampire Pet" type="addpet">
     <containedIn>
-      <container>Unknown Box 11</container>
-      <container>Unknown Box 12</container>
+      <container>Bag of Halloween</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="8488" name="Vampirism Vigor" type="egg">
     <containedIn>
-      <container>Unknown Box 11</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 13</container>
+      <container>Bag of Halloween</container>
+      <container>Christmas Gift</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5552" name="Voidcutter" type="weapon" vocation="warrior">
@@ -3617,12 +3621,12 @@
   <item looktype="5233" name="Voodoo doll" sell="100" type="weapon" vocation="all">
     <attacks hit_attack="1-1" level="1"/>
     <containedIn>
-      <container>Unknown Box 21</container>
+      <container>Dungeon Bag - Yabura</container>
     </containedIn>
   </item>
   <item looktype="5558" name="Walrus mask" sell="550" type="mask">
     <containedIn>
-      <container>Unknown Box 13</container>
+      <container>Christmas Gift</container>
     </containedIn>
   </item>
   <item looktype="5135" name="War hammer" sell="28" type="weapon" vocation="warrior">
@@ -3658,11 +3662,12 @@
       <monster isBoss="true" looktype="0" name="Myst"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 10</container>
-      <container>Unknown Box 12</container>
-      <container>Unknown Box 21</container>
-      <container>Unknown Box 22</container>
-      <container>Unknown Box 9</container>
+      <container>Bag of Coliseum</container>
+      <container>Bag of Ghulmor</container>
+      <container>Bag of Lucifero</container>
+      <container>Dungeon Bag - Orthoma</container>
+      <container>Dungeon Bag - Yabura</container>
+      <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5231" name="White pearl" sell="55" type="none">
@@ -3699,7 +3704,7 @@
       <monster isBoss="true" looktype="6660" name="Warer"/>
     </droppedBy>
     <containedIn>
-      <container>Unknown Box 6</container>
+      <container>Bag of Dragon Rutting</container>
     </containedIn>
   </item>
   <item looktype="5254" name="Yellow dragon egg" type="egg">
