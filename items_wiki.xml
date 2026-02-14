@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<items count="441" generatedAt="2026-02-14T14:08:35.536Z">
+<items count="436" generatedAt="2026-02-14T14:30:28.287Z">
   <item looktype="6495" name="Abominatio's Skin" sell="70" type="none">
     <droppedBy>
       <monster looktype="6659" name="Abominatio"/>
@@ -2392,42 +2392,6 @@
       <monster isBoss="true" looktype="0" name="GM-Doro"/>
     </droppedBy>
   </item>
-  <item looktype="2591" name="Mushroom" type="none">
-    <mapSpawn>
-      <loc>31867,31992,7</loc>
-      <loc>31874,31973,7</loc>
-      <loc>31880,32005,7</loc>
-      <loc>31887,32016,7</loc>
-      <loc>31897,31991,7</loc>
-      <loc>31901,31972,7</loc>
-      <loc>31903,31936,7</loc>
-      <loc>31903,31949,7</loc>
-      <loc>31916,31990,7</loc>
-      <loc>31918,31945,7</loc>
-      <loc>31918,31964,7</loc>
-      <loc>31919,32006,7</loc>
-      <loc>31922,31936,7</loc>
-      <loc>31925,32065,7</loc>
-      <loc>31930,31909,7</loc>
-      <loc>31933,31959,7</loc>
-      <loc>31934,32030,7</loc>
-      <loc>31935,31923,7</loc>
-      <loc>31935,32016,7</loc>
-      <loc>31937,31981,7</loc>
-      <loc>31939,31943,7</loc>
-      <loc>31939,32007,7</loc>
-      <loc>31941,31900,7</loc>
-      <loc>31942,31992,7</loc>
-      <loc>31946,31964,7</loc>
-      <loc>31946,32040,7</loc>
-      <loc>31955,31922,7</loc>
-      <loc>31955,31947,7</loc>
-      <loc>31963,31903,7</loc>
-      <loc>31974,31911,7</loc>
-      <loc>31974,31948,7</loc>
-      <loc>31977,31934,7</loc>
-    </mapSpawn>
-  </item>
   <item looktype="6519" name="Mutilator" type="weapon" vocation="warrior">
     <attacks hit_attack="20-205" level="99"/>
     <droppedBy>
@@ -2591,12 +2555,6 @@
     <droppedBy>
       <monster looktype="6148" name="Capitain"/>
     </droppedBy>
-  </item>
-  <item looktype="6413" name="Plasma armour" sell="93" type="armour" vocation="warrior">
-    <defences energy_def="24" level="48"/>
-    <mapSpawn>
-      <loc>31968,31937,10</loc>
-    </mapSpawn>
   </item>
   <item looktype="2582" name="Power amulet" sell="56" type="chain">
     <defences hit_def="20" level="79"/>
@@ -2859,14 +2817,6 @@
     <containedIn>
       <container>Bag of Coliseum</container>
     </containedIn>
-  </item>
-  <item looktype="2592" name="Seashell" type="none">
-    <mapSpawn>
-      <loc>32003,32086,8</loc>
-      <loc>32018,32092,7</loc>
-      <loc>32026,32081,7</loc>
-      <loc>32026,32082,8</loc>
-    </mapSpawn>
   </item>
   <item looktype="5558" name="Shadow mask" sell="550" type="mask">
     <containedIn>
@@ -3565,17 +3515,6 @@
     <droppedBy>
       <monster isBoss="true" looktype="5640" name="The Twishade"/>
     </droppedBy>
-  </item>
-  <item looktype="8458" name="unk" type="none">
-    <mapSpawn>
-      <loc>31966,31999,7</loc>
-      <loc>32052,32303,7</loc>
-    </mapSpawn>
-  </item>
-  <item looktype="8474" name="unk" type="none">
-    <mapSpawn>
-      <loc>31942,32231,7</loc>
-    </mapSpawn>
   </item>
   <item looktype="5419" name="unknown_ring_heart3" type="none">
     <droppedBy>
