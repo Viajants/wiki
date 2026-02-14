@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<monsters count="415" expRate="35" generatedAt="2026-02-14T15:32:04.624Z">
+<monsters count="415" expRate="35" generatedAt="2026-02-14T17:47:15.913Z">
   <monster element="hit" hp="29" looktype="2565" name="Bug" xp="35">
     <attacks>
       <e>hit</e>

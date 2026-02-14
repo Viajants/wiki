@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<items count="604" generatedAt="2026-02-14T17:21:26.224Z">
+<items count="604" generatedAt="2026-02-14T17:47:16.026Z">
   <item looktype="6495" name="Abominatio's Skin" sell="70" type="none">
     <droppedBy>
       <monster looktype="6659" name="Abominatio"/>
@@ -29,8 +29,8 @@
   <item looktype="6582" name="Adventurer armour" sell="2000" type="armour" vocation="warrior">
     <defences hit_def="30" level="65"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crepper"/>
-      <monster isBoss="true" looktype="0" name="The Wisper"/>
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
     </droppedBy>
     <containedIn>
       <container>Bag of Dragon Rutting</container>
@@ -40,8 +40,8 @@
   <item looktype="6581" name="Adventurer coat" sell="2000" type="armour" vocation="wizard">
     <defences hit_def="35" level="65"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crepper"/>
-      <monster isBoss="true" looktype="0" name="The Wisper"/>
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
     </droppedBy>
     <containedIn>
       <container>Bag of Dragon Rutting</container>
@@ -245,14 +245,14 @@
       <monster looktype="5387" name="Chicken"/>
       <monster looktype="5387" name="Phorus"/>
       <monster looktype="5387" name="Terrorbird"/>
-      <monster isBoss="true" looktype="0" name="The Fanatic"/>
+      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
     </droppedBy>
   </item>
   <item looktype="5479" name="Armoured shield" sell="42" type="shield" vocation="wizard">
     <defences hit_def="15" level="42"/>
     <droppedBy>
       <monster looktype="6153" name="Cult Tutor"/>
-      <monster isBoss="true" looktype="0" name="The Fanatic"/>
+      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
     </droppedBy>
   </item>
   <item looktype="5398" name="Armoured shirt" sell="124" type="armour" vocation="wizard">
@@ -373,14 +373,14 @@
   </item>
   <item looktype="5276" name="Bag of Ghulmor" type="bag">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Mutabour"/>
+      <monster isBoss="true" looktype="6153" name="Mutabour"/>
     </droppedBy>
   </item>
   <item looktype="5276" name="Bag of Gorgoros" type="bag">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Kyklopes"/>
-      <monster isBoss="true" looktype="0" name="Medusa"/>
-      <monster isBoss="true" looktype="0" name="Tauragor"/>
+      <monster isBoss="true" looktype="6657" name="Kyklopes"/>
+      <monster isBoss="true" looktype="5131" name="Medusa"/>
+      <monster isBoss="true" looktype="6658" name="Tauragor"/>
     </droppedBy>
   </item>
   <item looktype="5276" name="Bag of Halloween" type="bag">
@@ -391,22 +391,22 @@
   </item>
   <item looktype="5276" name="Bag of Lucifero" type="bag">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Lucifero"/>
+      <monster isBoss="true" looktype="2561" name="Lucifero"/>
     </droppedBy>
   </item>
   <item looktype="5277" name="Bag of Orthoma" type="bag">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Mutanty"/>
+      <monster isBoss="true" looktype="6913" name="Mutanty"/>
     </droppedBy>
   </item>
   <item looktype="2601" name="Bag of Tazmania" type="bag">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Tazmania"/>
+      <monster isBoss="true" looktype="6659" name="Tazmania"/>
     </droppedBy>
   </item>
   <item looktype="8478" name="Bag of Valentine's Day" type="bag">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="The Cupid"/>
+      <monster isBoss="true" looktype="8450" name="The Cupid"/>
     </droppedBy>
     <questReward>
       <quest>NPC Valepid</quest>
@@ -414,7 +414,7 @@
   </item>
   <item looktype="8478" name="Bag of Valentine's Day Master" type="bag">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Cupid Master"/>
+      <monster isBoss="true" looktype="8450" name="Cupid Master"/>
     </droppedBy>
   </item>
   <item looktype="5276" name="Bag of Weapons" type="none">
@@ -424,7 +424,7 @@
   </item>
   <item looktype="5278" name="Bag of Yabura" type="bag">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="King Demon"/>
+      <monster isBoss="true" looktype="5639" name="King Demon"/>
     </droppedBy>
   </item>
   <item looktype="5391" name="Basting hood" sell="42" type="helmet" vocation="wizard">
@@ -546,13 +546,13 @@
   <item looktype="6504" name="Blessed greatstaff" sell="65" type="weapon" vocation="wizard">
     <attacks holy_attack="1-142" level="48" mana="14"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Gaspar"/>
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
     </droppedBy>
   </item>
   <item looktype="5314" name="Blood of Cain" sell="666" type="script">
     <droppedBy>
       <monster isBoss="true" looktype="5126" name="BioGhoul"/>
-      <monster isBoss="true" looktype="0" name="Myst"/>
+      <monster isBoss="true" looktype="6411" name="Myst"/>
       <monster isBoss="true" looktype="5384" name="ProtoFang"/>
     </droppedBy>
     <soldBy>
@@ -599,7 +599,7 @@
   <item looktype="6444" name="Bommelsword" sell="67" type="weapon" vocation="warrior">
     <attacks fire_attack="5-43" level="22"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Baby Drake"/>
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
       <monster looktype="6404" name="Primeguard"/>
       <monster looktype="6404" name="Recruit"/>
       <monster looktype="6404" name="Tempguard"/>
@@ -650,7 +650,7 @@
   <item looktype="2572" name="Brass helmet" sell="46" type="helmet" vocation="warrior">
     <defences fire_def="5" hit_def="9" level="29"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Baby Drake"/>
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
       <monster looktype="5891" name="Bokk"/>
       <monster looktype="5891" name="Ibex"/>
       <monster looktype="5891" name="Markhor"/>
@@ -670,7 +670,7 @@
   <item looktype="5316" name="Brinefiend Roots" sell="250" type="none">
     <droppedBy>
       <monster looktype="6150" name="Brinefiend"/>
-      <monster isBoss="true" looktype="0" name="Myst"/>
+      <monster isBoss="true" looktype="6411" name="Myst"/>
     </droppedBy>
     <containedIn>
       <container>Dungeon Bag - Orthoma</container>
@@ -686,7 +686,7 @@
   <item looktype="6571" name="Brute Force" sell="1000" type="weapon" vocation="warrior">
     <attacks hit_attack="15-170" level="79"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Ghoranus"/>
+      <monster isBoss="true" looktype="6913" name="Ghoranus"/>
     </droppedBy>
   </item>
   <item looktype="6518" name="Burning blade" sell="34" type="weapon" vocation="warrior">
@@ -745,7 +745,7 @@
   <item looktype="5178" name="Ceremonial rod" sell="33" type="weapon" vocation="wizard">
     <attacks hit_attack="1-105" holy_attack="1-15" level="38" mana="11"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="The Bug"/>
+      <monster isBoss="true" looktype="2565" name="The Bug"/>
     </droppedBy>
   </item>
   <item looktype="5445" name="Chain helmet" sell="36" type="helmet" vocation="warrior">
@@ -846,14 +846,14 @@
   <item looktype="6516" name="Claymore of damn" type="weapon" vocation="warrior">
     <attacks hit_attack="2-20" holy_attack="70-160" level="111"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Demunus"/>
-      <monster isBoss="true" looktype="0" name="Kul'Krak'u"/>
+      <monster isBoss="true" looktype="5644" name="Demunus"/>
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
     </droppedBy>
   </item>
   <item looktype="5269" name="Coldshadow armour" sell="75" type="armour" vocation="warrior">
     <defences hit_def="8" ice_def="14" level="47"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Gaspar"/>
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
       <monster isBoss="true" looktype="5898" name="Little Drake"/>
     </droppedBy>
   </item>
@@ -923,13 +923,13 @@
     <attacks fire_attack="60-233" level="99" mana="23"/>
     <droppedBy>
       <monster looktype="5639" name="Demon Lord"/>
-      <monster isBoss="true" looktype="0" name="The Miner"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
     </droppedBy>
   </item>
   <item looktype="5239" name="Corsair tricorn" sell="44" type="helmet" vocation="warrior">
     <defences energy_def="12" hit_def="5" ice_def="12" level="41"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Bragnak"/>
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
       <monster looktype="6148" name="Capitain"/>
     </droppedBy>
   </item>
@@ -944,7 +944,7 @@
   </item>
   <item looktype="6500" name="Creature Tracker" sell="300" type="script">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Myst"/>
+      <monster isBoss="true" looktype="6411" name="Myst"/>
     </droppedBy>
     <questReward>
       <quest>NPC Warking</quest>
@@ -974,10 +974,10 @@
   <item looktype="5191" name="Crusader helmet" sell="66" type="helmet" vocation="warrior">
     <defences holy_def="15" level="52"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Apprentice"/>
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
       <monster isBoss="true" looktype="5377" name="Big Zombie"/>
       <monster isBoss="true" looktype="5124" name="King Bat"/>
-      <monster isBoss="true" looktype="0" name="The Miner"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
     </droppedBy>
   </item>
   <item looktype="5195" name="Crusader shield" sell="93" type="shield" vocation="warrior">
@@ -1013,15 +1013,15 @@
     <defences ice_def="35" level="65"/>
     <droppedBy>
       <monster isBoss="true" looktype="5377" name="Big Zombie"/>
-      <monster isBoss="true" looktype="0" name="Crepper"/>
-      <monster isBoss="true" looktype="0" name="The Wisper"/>
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
     </droppedBy>
   </item>
   <item looktype="5554" name="Crystal cutter" type="weapon" vocation="warrior">
     <attacks ice_attack="20-205" level="99"/>
     <droppedBy>
       <monster looktype="6154" name="Hell Guard"/>
-      <monster isBoss="true" looktype="0" name="Shellborn"/>
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
     </droppedBy>
   </item>
   <item looktype="2598" name="Crystal eye" type="none">
@@ -1033,8 +1033,8 @@
     <defences ice_def="30" level="65"/>
     <droppedBy>
       <monster isBoss="true" looktype="5377" name="Big Zombie"/>
-      <monster isBoss="true" looktype="0" name="Crepper"/>
-      <monster isBoss="true" looktype="0" name="The Wisper"/>
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
     </droppedBy>
     <containedIn>
       <container>Bag of Dragon Rutting</container>
@@ -1081,8 +1081,8 @@
   <item looktype="5553" name="Curse of Ashmor" type="weapon" vocation="wizard">
     <attacks holy_attack="18-175" level="74" mana="18"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Chilong"/>
-      <monster isBoss="true" looktype="0" name="Ghostnon"/>
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
+      <monster isBoss="true" looktype="5126" name="Ghostnon"/>
     </droppedBy>
   </item>
   <item looktype="6521" name="Curved reaver" sell="36" type="weapon" vocation="warrior">
@@ -1103,7 +1103,7 @@
   <item looktype="6547" name="Cutting leafes" sell="56" type="weapon" vocation="warrior">
     <attacks holy_attack="1-102" level="44"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Gaspar"/>
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
     </droppedBy>
   </item>
   <item looktype="5280" name="Cyclops Pet" type="addpet">
@@ -1460,18 +1460,18 @@
   <item looktype="5559" name="Dul'mar" sell="1000" type="weapon" vocation="warrior">
     <attacks fire_attack="15-170" level="79"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Chilong"/>
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
       <monster isBoss="true" looktype="6659" name="Creature"/>
-      <monster isBoss="true" looktype="0" name="Crystally"/>
+      <monster isBoss="true" looktype="5641" name="Crystally"/>
       <monster isBoss="true" looktype="6154" name="FluxGolem"/>
-      <monster isBoss="true" looktype="0" name="Ghoranus"/>
-      <monster isBoss="true" looktype="0" name="Ghostnon"/>
-      <monster isBoss="true" looktype="0" name="Kul'Krak'u"/>
-      <monster isBoss="true" looktype="0" name="Myst"/>
+      <monster isBoss="true" looktype="6913" name="Ghoranus"/>
+      <monster isBoss="true" looktype="5126" name="Ghostnon"/>
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
+      <monster isBoss="true" looktype="6411" name="Myst"/>
       <monster isBoss="true" looktype="5892" name="NanoWasp"/>
-      <monster isBoss="true" looktype="0" name="Shellborn"/>
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
       <monster isBoss="true" looktype="6913" name="Taxader"/>
-      <monster isBoss="true" looktype="0" name="The Fouldrake"/>
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
       <monster isBoss="true" looktype="5642" name="VoltHound"/>
       <monster isBoss="true" looktype="6660" name="Warer"/>
     </droppedBy>
@@ -1486,7 +1486,7 @@
   <item looktype="6501" name="Edge of storm" sell="65" type="weapon" vocation="warrior">
     <attacks energy_attack="1-113" level="49"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Bragnak"/>
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
     </droppedBy>
   </item>
   <item looktype="5679" name="Eggs" sell="8" type="potion">
@@ -1787,12 +1787,12 @@
   <item looktype="5550" name="Eternal Winter" type="weapon" vocation="warrior">
     <attacks ice_attack="14-161" level="74"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crystally"/>
+      <monster isBoss="true" looktype="5641" name="Crystally"/>
     </droppedBy>
   </item>
   <item looktype="5675" name="Ethereal Shards" sell="5000" type="none">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Myst"/>
+      <monster isBoss="true" looktype="6411" name="Myst"/>
     </droppedBy>
     <questReward>
       <quest>NPC Rajahao</quest>
@@ -1943,7 +1943,7 @@
     <attacks fire_attack="20-205" level="99"/>
     <droppedBy>
       <monster looktype="5639" name="Demon Lord"/>
-      <monster isBoss="true" looktype="0" name="The Miner"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
     </droppedBy>
   </item>
   <item looktype="5565" name="Fine health potion" type="potion">
@@ -2040,7 +2040,7 @@
   <item looktype="5174" name="Fire rod" sell="83" type="weapon" vocation="wizard">
     <attacks fire_attack="1-82" level="28" mana="8"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Baby Drake"/>
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
     </droppedBy>
     <soldBy>
       <shop>Sacred Yabura (408 gp) [31977,32223,7]</shop>
@@ -2222,7 +2222,7 @@
       <monster looktype="5124" name="Giant Bat"/>
       <monster looktype="5124" name="Little Bat"/>
       <monster looktype="5121" name="Skeleton"/>
-      <monster isBoss="true" looktype="0" name="The Fouldrake"/>
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
       <monster looktype="5124" name="Vamp Bat"/>
     </droppedBy>
   </item>
@@ -2261,19 +2261,19 @@
   <item looktype="6433" name="Frost helmet" sell="34" type="helmet" vocation="warrior">
     <defences hit_def="5" ice_def="20" level="70"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Ghostnon"/>
+      <monster isBoss="true" looktype="5126" name="Ghostnon"/>
     </droppedBy>
   </item>
   <item looktype="6436" name="Frost hood" sell="43" type="helmet" vocation="wizard">
     <defences hit_def="5" ice_def="22" level="62"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Ghostnon"/>
+      <monster isBoss="true" looktype="5126" name="Ghostnon"/>
     </droppedBy>
   </item>
   <item looktype="6502" name="Frost smasher" sell="65" type="weapon" vocation="warrior">
     <attacks ice_attack="1-108" level="47"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="The Fanatic"/>
+      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
     </droppedBy>
   </item>
   <item looktype="5121" name="Frostbringer" sell="10" type="weapon" vocation="warrior">
@@ -2350,7 +2350,7 @@
   <item looktype="5498" name="Frozen shield" sell="60" type="shield" vocation="warrior">
     <defences hit_def="6" ice_def="18" level="55"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="The Fouldrake"/>
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
     </droppedBy>
   </item>
   <item looktype="6469" name="Fugazor" sell="55" type="weapon" vocation="warrior">
@@ -2362,7 +2362,7 @@
   <item looktype="5204" name="Fur gloves" sell="33" type="ring">
     <defences ice_def="10" level="34"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="The Bug"/>
+      <monster isBoss="true" looktype="2565" name="The Bug"/>
     </droppedBy>
   </item>
   <item looktype="5388" name="Fur-lined cap" sell="33" type="helmet" vocation="wizard">
@@ -2416,7 +2416,7 @@
   <item looktype="5551" name="Gift of Nivalis" type="weapon" vocation="wizard">
     <attacks ice_attack="18-175" level="74" mana="18"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crystally"/>
+      <monster isBoss="true" looktype="5641" name="Crystally"/>
     </droppedBy>
   </item>
   <item looktype="2584" name="Girtonyclerine" type="none">
@@ -2629,7 +2629,7 @@
   <item looktype="5176" name="Hallowed sword" sell="40" type="weapon" vocation="warrior">
     <attacks hit_attack="1-70" holy_attack="1-15" level="38"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="The Bug"/>
+      <monster isBoss="true" looktype="2565" name="The Bug"/>
     </droppedBy>
   </item>
   <item looktype="6485" name="Hardwater ring" sell="77" type="ring">
@@ -2753,10 +2753,10 @@
   <item looktype="5192" name="Holy hat" sell="45" type="helmet" vocation="wizard">
     <defences holy_def="15" level="44"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Apprentice"/>
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
       <monster isBoss="true" looktype="5377" name="Big Zombie"/>
       <monster isBoss="true" looktype="5124" name="King Bat"/>
-      <monster isBoss="true" looktype="0" name="The Miner"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
     </droppedBy>
   </item>
   <item looktype="5124" name="Holy lance" sell="38" type="weapon" vocation="warrior">
@@ -2911,26 +2911,26 @@
   </item>
   <item looktype="2596" name="Jewel of EP" type="script">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Baby Drake"/>
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
     </droppedBy>
   </item>
   <item looktype="2596" name="Jewel of EP" type="script">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Bragnak"/>
-      <monster isBoss="true" looktype="0" name="The Miner"/>
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
     </droppedBy>
   </item>
   <item looktype="2596" name="Jewel of EP" type="script">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crepper"/>
-      <monster isBoss="true" looktype="0" name="The Wisper"/>
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
     </droppedBy>
   </item>
   <item looktype="2596" name="Jewel of EP" type="script">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Demunus"/>
-      <monster isBoss="true" looktype="0" name="Kul'Krak'u"/>
-      <monster isBoss="true" looktype="0" name="Myst"/>
+      <monster isBoss="true" looktype="5644" name="Demunus"/>
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
+      <monster isBoss="true" looktype="6411" name="Myst"/>
     </droppedBy>
     <containedIn>
       <container>Bag of Coliseum</container>
@@ -3181,7 +3181,7 @@
   <item looktype="6572" name="Leveller" sell="1000" type="weapon" vocation="wizard">
     <attacks hit_attack="19-185" level="79" mana="19"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Ghoranus"/>
+      <monster isBoss="true" looktype="6913" name="Ghoranus"/>
     </droppedBy>
   </item>
   <item looktype="5409" name="Light armour" sell="6" type="armour" vocation="warrior">
@@ -3245,7 +3245,7 @@
       <monster looktype="6155" name="Bermouth"/>
       <monster isBoss="true" looktype="6659" name="Creature"/>
       <monster isBoss="true" looktype="6154" name="FluxGolem"/>
-      <monster isBoss="true" looktype="0" name="Shellborn"/>
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
       <monster isBoss="true" looktype="6913" name="Taxader"/>
       <monster isBoss="true" looktype="5642" name="VoltHound"/>
       <monster isBoss="true" looktype="6660" name="Warer"/>
@@ -3255,7 +3255,7 @@
   <item looktype="6544" name="Lightning Fang" type="weapon" vocation="warrior">
     <attacks energy_attack="14-161" level="74"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crystally"/>
+      <monster isBoss="true" looktype="5641" name="Crystally"/>
     </droppedBy>
   </item>
   <item looktype="6461" name="Lined cloth pants" sell="35" type="legs" vocation="wizard">
@@ -3312,7 +3312,7 @@
   <item looktype="5151" name="Mad mage's rod" sell="68" type="weapon" vocation="wizard">
     <attacks hit_attack="1-30" ice_attack="1-125" level="42" mana="12"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="The Fanatic"/>
+      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
     </droppedBy>
   </item>
   <item looktype="5222" name="Magic root" sell="26" type="weapon" vocation="wizard">
@@ -3351,17 +3351,17 @@
       <monster looktype="5892" name="Aural"/>
       <monster looktype="5894" name="Blaze Master"/>
       <monster looktype="5639" name="Demon"/>
-      <monster isBoss="true" looktype="0" name="GM-Doro"/>
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
     </droppedBy>
   </item>
   <item looktype="5193" name="Magma crown" sell="57" type="helmet" vocation="warrior">
     <defences hit_def="5" holy_def="15" level="52"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Apprentice"/>
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
       <monster isBoss="true" looktype="5124" name="King Bat"/>
       <monster looktype="5123" name="Mummy"/>
       <monster looktype="5123" name="Rottummy"/>
-      <monster isBoss="true" looktype="0" name="The Miner"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
     </droppedBy>
   </item>
   <item looktype="5497" name="Magma headpiece" sell="60" type="helmet" vocation="wizard">
@@ -3524,7 +3524,7 @@
   <item looktype="6539" name="Meteor Mace" type="weapon" vocation="warrior">
     <attacks fire_attack="14-161" level="74"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Ghoranus"/>
+      <monster isBoss="true" looktype="6913" name="Ghoranus"/>
     </droppedBy>
   </item>
   <item looktype="2600" name="Milk" sell="5" type="potion">
@@ -3650,27 +3650,27 @@
   <item looktype="5461" name="Monter helmet" sell="57" type="helmet" vocation="warrior">
     <defences hit_def="15" level="52"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Apprentice"/>
-      <monster isBoss="true" looktype="0" name="GM-Doro"/>
-      <monster isBoss="true" looktype="0" name="The Miner"/>
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
     </droppedBy>
   </item>
   <item looktype="5464" name="Monter ring" sell="57" type="ring">
     <defences hit_def="15" level="56"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="GM-Doro"/>
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
     </droppedBy>
   </item>
   <item looktype="5462" name="Monter shield" sell="57" type="shield" vocation="warrior">
     <defences hit_def="18" level="55"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="GM-Doro"/>
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
     </droppedBy>
   </item>
   <item looktype="5480" name="Monter shield" sell="32" type="shield" vocation="wizard">
     <defences hit_def="18" level="55"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="GM-Doro"/>
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
     </droppedBy>
   </item>
   <item looktype="8470" name="Mutabour Reaper" type="weapon" vocation="warrior">
@@ -3737,8 +3737,8 @@
     <attacks hit_attack="20-205" level="99"/>
     <droppedBy>
       <monster looktype="5899" name="Bonecanus"/>
-      <monster isBoss="true" looktype="0" name="Demunus"/>
-      <monster isBoss="true" looktype="0" name="Kul'Krak'u"/>
+      <monster isBoss="true" looktype="5644" name="Demunus"/>
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
       <monster looktype="6918" name="Wisperfire"/>
     </droppedBy>
   </item>
@@ -3810,7 +3810,7 @@
     <attacks ice_attack="60-233" level="99" mana="23"/>
     <droppedBy>
       <monster looktype="6154" name="Hell Guard"/>
-      <monster isBoss="true" looktype="0" name="Shellborn"/>
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
     </droppedBy>
   </item>
   <item looktype="6405" name="Onyx" sell="450" type="none">
@@ -3915,8 +3915,8 @@
   <item looktype="5502" name="Phoenix breastplate" sell="2000" type="armour" vocation="warrior">
     <defences fire_def="30" level="65"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crepper"/>
-      <monster isBoss="true" looktype="0" name="The Wisper"/>
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
     </droppedBy>
     <containedIn>
       <container>Bag of Dragon Rutting</container>
@@ -3925,8 +3925,8 @@
   <item looktype="5508" name="Phoenix cloak" sell="2000" type="armour" vocation="wizard">
     <defences fire_def="35" level="65"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crepper"/>
-      <monster isBoss="true" looktype="0" name="The Wisper"/>
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
     </droppedBy>
   </item>
   <item looktype="5595" name="Phoenix Feather" sell="1000" type="none">
@@ -3952,7 +3952,7 @@
   </item>
   <item looktype="5670" name="Piece of Ethereal Shards" sell="2000" type="none">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Myst"/>
+      <monster isBoss="true" looktype="6411" name="Myst"/>
     </droppedBy>
     <containedIn>
       <container>Bag of Coliseum</container>
@@ -4036,7 +4036,7 @@
   </item>
   <item looktype="8486" name="Pumpkin Juice" sell="1000" type="none">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Nekrion"/>
+      <monster isBoss="true" looktype="5636" name="Nekrion"/>
     </droppedBy>
     <questReward>
       <quest>NPC Suqueiro</quest>
@@ -4235,7 +4235,7 @@
   <item looktype="2579" name="Robes" sell="46" type="armour" vocation="wizard">
     <defences hit_def="5" ice_def="24" level="41"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Gaspar"/>
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
       <monster looktype="5125" name="Stormey"/>
       <monster looktype="5125" name="Thunderey"/>
       <monster looktype="5125" name="Witch"/>
@@ -4255,7 +4255,7 @@
     <droppedBy>
       <monster looktype="5642" name="Cerberus"/>
       <monster looktype="5640" name="Master Twishade"/>
-      <monster isBoss="true" looktype="0" name="The Fouldrake"/>
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
     </droppedBy>
   </item>
   <item looktype="2597" name="Ruby" sell="450" type="none">
@@ -4283,7 +4283,7 @@
   <item looktype="6538" name="Ruby staff" type="weapon" vocation="wizard">
     <attacks fire_attack="18-175" level="74" mana="18"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Ghoranus"/>
+      <monster isBoss="true" looktype="6913" name="Ghoranus"/>
     </droppedBy>
   </item>
   <item looktype="5142" name="Rune of winter" sell="38" type="weapon" vocation="wizard">
@@ -4417,8 +4417,8 @@
   <item looktype="6515" name="Scepter of damn" type="weapon" vocation="wizard">
     <attacks hit_attack="4-34" holy_attack="75-215" level="111" mana="25"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Demunus"/>
-      <monster isBoss="true" looktype="0" name="Kul'Krak'u"/>
+      <monster isBoss="true" looktype="5644" name="Demunus"/>
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
     </droppedBy>
   </item>
   <item looktype="6417" name="Scepter of fire" sell="223" type="weapon" vocation="wizard">
@@ -4427,7 +4427,7 @@
       <monster looktype="5892" name="Aural"/>
       <monster looktype="5894" name="Blaze Master"/>
       <monster looktype="5639" name="Demon"/>
-      <monster isBoss="true" looktype="0" name="GM-Doro"/>
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
     </droppedBy>
   </item>
   <item looktype="5558" name="Scorpion mask" sell="550" type="mask">
@@ -4508,7 +4508,7 @@
   <item looktype="6457" name="Shaolin headbelt" sell="43" type="helmet" vocation="wizard">
     <defences energy_def="15" hit_def="10" level="44"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Bragnak"/>
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
       <monster looktype="6401" name="Rishombie"/>
     </droppedBy>
   </item>
@@ -4537,7 +4537,7 @@
       <monster looktype="5386" name="Alligator"/>
       <monster looktype="5386" name="Crocodile"/>
       <monster looktype="5638" name="Dragon"/>
-      <monster isBoss="true" looktype="0" name="The Fouldrake"/>
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
     </droppedBy>
   </item>
   <item looktype="6405" name="Shimmering onyx" type="none">
@@ -4572,14 +4572,14 @@
   <item looktype="6454" name="Shogun armour" sell="53" type="armour" vocation="warrior">
     <defences energy_def="10" hit_def="20" level="39"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Chilong"/>
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
       <monster looktype="6401" name="Rishombie"/>
     </droppedBy>
   </item>
   <item looktype="6453" name="Shogun helmet" sell="63" type="helmet" vocation="warrior">
     <defences energy_def="15" hit_def="7" level="52"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Chilong"/>
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
       <monster looktype="6401" name="Rishombie"/>
     </droppedBy>
   </item>
@@ -4587,13 +4587,13 @@
     <defences energy_def="10" hit_def="15" level="40"/>
     <droppedBy>
       <monster looktype="6403" name="Assasin"/>
-      <monster isBoss="true" looktype="0" name="Chilong"/>
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
     </droppedBy>
   </item>
   <item looktype="6456" name="Shogun shield" sell="43" type="shield" vocation="warrior">
     <defences hit_def="5" ice_def="10" level="36"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Chilong"/>
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
     </droppedBy>
   </item>
   <item looktype="5123" name="Short sword" sell="18" type="weapon" vocation="warrior">
@@ -5060,7 +5060,7 @@
     <defences hit_def="10" level="25"/>
     <droppedBy>
       <monster looktype="5130" name="Angrax"/>
-      <monster isBoss="true" looktype="0" name="Baby Drake"/>
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
       <monster looktype="5130" name="Cultist"/>
       <monster looktype="5130" name="Cultix"/>
     </droppedBy>
@@ -5130,9 +5130,9 @@
     <droppedBy>
       <monster looktype="6412" name="Blackdrake"/>
       <monster looktype="6412" name="Chaodrake"/>
-      <monster isBoss="true" looktype="0" name="Demunus"/>
+      <monster isBoss="true" looktype="5644" name="Demunus"/>
       <monster looktype="6412" name="Fouldrake"/>
-      <monster isBoss="true" looktype="0" name="Kul'Krak'u"/>
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
     </droppedBy>
   </item>
   <item looktype="5300" name="Spiritslayer" type="weapon" vocation="warrior">
@@ -5168,10 +5168,10 @@
   <item looktype="5183" name="Spiritual amulet" sell="33" type="chain">
     <defences holy_def="10" level="49"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Apprentice"/>
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
       <monster isBoss="true" looktype="5377" name="Big Zombie"/>
       <monster isBoss="true" looktype="5124" name="King Bat"/>
-      <monster isBoss="true" looktype="0" name="The Miner"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
     </droppedBy>
     <containedIn>
       <container>Dungeon Bag - Aurea</container>
@@ -5209,8 +5209,8 @@
     <attacks hit_attack="60-233" level="99" mana="23"/>
     <droppedBy>
       <monster looktype="5899" name="Bonecanus"/>
-      <monster isBoss="true" looktype="0" name="Demunus"/>
-      <monster isBoss="true" looktype="0" name="Kul'Krak'u"/>
+      <monster isBoss="true" looktype="5644" name="Demunus"/>
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
       <monster looktype="6918" name="Wisperfire"/>
     </droppedBy>
   </item>
@@ -5238,7 +5238,7 @@
   <item looktype="6545" name="Storm singer" sell="169" type="weapon" vocation="wizard">
     <attacks energy_attack="18-175" level="74" mana="18"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crystally"/>
+      <monster isBoss="true" looktype="5641" name="Crystally"/>
     </droppedBy>
   </item>
   <item looktype="6589" name="Storming ore" sell="370" type="none">
@@ -5347,15 +5347,15 @@
   <item looktype="5544" name="Tempest cape" sell="2000" type="armour" vocation="wizard">
     <defences energy_def="35" level="65"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crepper"/>
-      <monster isBoss="true" looktype="0" name="The Wisper"/>
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
     </droppedBy>
   </item>
   <item looktype="5538" name="Tempest harness" sell="2000" type="armour" vocation="warrior">
     <defences energy_def="30" level="65"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crepper"/>
-      <monster isBoss="true" looktype="0" name="The Wisper"/>
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
     </droppedBy>
     <containedIn>
       <container>Bag of Dragon Rutting</container>
@@ -5364,7 +5364,7 @@
   <item looktype="5179" name="Tempest rod" sell="112" type="weapon" vocation="wizard">
     <attacks energy_attack="1-150" hit_attack="1-5" level="44" mana="14"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Bragnak"/>
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
     </droppedBy>
     <containedIn>
       <container>Dungeon Bag - Aurea</container>
@@ -5377,7 +5377,7 @@
       <monster looktype="6155" name="Bermouth"/>
       <monster isBoss="true" looktype="6659" name="Creature"/>
       <monster isBoss="true" looktype="6154" name="FluxGolem"/>
-      <monster isBoss="true" looktype="0" name="Shellborn"/>
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
       <monster isBoss="true" looktype="6913" name="Taxader"/>
       <monster isBoss="true" looktype="5642" name="VoltHound"/>
       <monster isBoss="true" looktype="6660" name="Warer"/>
@@ -5600,14 +5600,14 @@
   <item looktype="5552" name="Voidcutter" type="weapon" vocation="warrior">
     <attacks holy_attack="14-161" level="74"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Chilong"/>
-      <monster isBoss="true" looktype="0" name="Ghostnon"/>
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
+      <monster isBoss="true" looktype="5126" name="Ghostnon"/>
     </droppedBy>
   </item>
   <item looktype="5175" name="Volcanic axe" sell="45" type="weapon" vocation="warrior">
     <attacks fire_attack="1-65" hit_attack="1-20" level="37"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="The Bug"/>
+      <monster isBoss="true" looktype="2565" name="The Bug"/>
     </droppedBy>
   </item>
   <item looktype="6568" name="Volcanic Dragon Bones" type="none">
@@ -5640,17 +5640,17 @@
   <item looktype="5532" name="Warden cloak" sell="2000" type="armour" vocation="wizard">
     <defences holy_def="35" level="65"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crepper"/>
-      <monster isBoss="true" looktype="0" name="The Fouldrake"/>
-      <monster isBoss="true" looktype="0" name="The Wisper"/>
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
     </droppedBy>
   </item>
   <item looktype="5526" name="Warden cuirass" sell="2000" type="armour" vocation="warrior">
     <defences holy_def="30" level="65"/>
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Crepper"/>
-      <monster isBoss="true" looktype="0" name="The Fouldrake"/>
-      <monster isBoss="true" looktype="0" name="The Wisper"/>
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
     </droppedBy>
   </item>
   <item looktype="5490" name="Warrior dress" sell="20" type="armour" vocation="warrior">
@@ -5661,12 +5661,12 @@
   </item>
   <item looktype="2595" name="Warwood" type="none">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="King Warlord"/>
+      <monster isBoss="true" looktype="6405" name="King Warlord"/>
     </droppedBy>
   </item>
   <item looktype="5672" name="Weapon Shard" sell="7000" type="none">
     <droppedBy>
-      <monster isBoss="true" looktype="0" name="Myst"/>
+      <monster isBoss="true" looktype="6411" name="Myst"/>
     </droppedBy>
     <containedIn>
       <container>Bag of Coliseum</container>
