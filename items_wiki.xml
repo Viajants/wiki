@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<items count="436" generatedAt="2026-02-14T14:30:28.287Z">
+<items count="604" generatedAt="2026-02-14T15:32:04.767Z">
   <item looktype="6495" name="Abominatio's Skin" sell="70" type="none">
     <droppedBy>
       <monster looktype="6659" name="Abominatio"/>
@@ -48,6 +48,12 @@
       <container>Bag of Valentine's Day</container>
     </containedIn>
   </item>
+  <item looktype="5295" name="Agonizer" type="weapon" vocation="wizard">
+    <attacks hit_attack="84-380" level="149" mana="42"/>
+    <questReward>
+      <quest>NPC Rodiney</quest>
+    </questReward>
+  </item>
   <item looktype="2573" name="Amulet of earth" sell="56" type="chain">
     <defences energy_def="20" level="79"/>
     <containedIn>
@@ -65,6 +71,16 @@
       <container>Bag of Tazmania</container>
       <container>Bag of Yabura</container>
     </containedIn>
+  </item>
+  <item looktype="5280" name="Ancient Cyclop Writings" sell="2000" type="none">
+    <questReward>
+      <quest>NPC Lizcolect</quest>
+    </questReward>
+  </item>
+  <item looktype="5280" name="Ancient Lizard Writings" sell="2000" type="none">
+    <questReward>
+      <quest>NPC Cycolect</quest>
+    </questReward>
   </item>
   <item looktype="5316" name="Ancient Skin" sell="1000" type="none">
     <droppedBy>
@@ -85,6 +101,33 @@
       <monster isBoss="true" looktype="5635" name="The Miner"/>
     </droppedBy>
   </item>
+  <item looktype="5594" name="Apocalypse" type="weapon" vocation="wizard">
+    <attacks fire_attack="50-271" ice_attack="50-271" level="129" mana="28"/>
+    <questReward>
+      <quest>NPC Elder</quest>
+    </questReward>
+  </item>
+  <item looktype="5382" name="Apprentice bonnet" sell="11" type="helmet" vocation="wizard">
+    <defences hit_def="3" level="5"/>
+    <soldBy>
+      <shop>Sam's Armoury (72 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5381" name="Apprentice legs" sell="10" type="legs" vocation="wizard">
+    <defences hit_def="4" level="4"/>
+    <soldBy>
+      <shop>Sam's Armoury (68 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5380" name="Apprentice shirt" sell="23" type="armour" vocation="wizard">
+    <defences hit_def="5" level="6"/>
+    <soldBy>
+      <shop>Sam's Armoury (156 gp) [31954,31984,7]</shop>
+    </soldBy>
+    <questReward>
+      <quest>NPC Lupy</quest>
+    </questReward>
+  </item>
   <item looktype="5285" name="Archon ring" type="ring">
     <defences energy_def="14" fire_def="14" hit_def="14" holy_def="14" ice_def="14" level="99"/>
     <containedIn>
@@ -97,6 +140,10 @@
       <monster looktype="5640" name="Haunter"/>
       <monster looktype="5640" name="Shadow"/>
     </droppedBy>
+    <soldBy>
+      <shop>Ghulmor Others (650 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (650 gp) [31985,31990,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5452" name="Armoured amulet" sell="54" type="chain">
     <defences hit_def="9" level="45"/>
@@ -167,6 +214,18 @@
       <monster looktype="5890" name="Gremlin"/>
     </droppedBy>
   </item>
+  <item looktype="8479" name="Astral Blade" type="weapon" vocation="warrior">
+    <attacks hit_attack="25-223" holy_attack="25-223" level="129"/>
+    <questReward>
+      <quest>NPC Eldyrhit</quest>
+    </questReward>
+  </item>
+  <item looktype="8480" name="Astral Scepter" type="weapon" vocation="wizard">
+    <attacks hit_attack="50-271" holy_attack="50-271" level="129" mana="28"/>
+    <questReward>
+      <quest>NPC Eldyrhit</quest>
+    </questReward>
+  </item>
   <item looktype="8462" name="Attack Vigor" type="egg">
     <containedIn>
       <container>Bag of Halloween</container>
@@ -191,6 +250,11 @@
       <monster isBoss="true" looktype="5641" name="Gladinus"/>
     </droppedBy>
   </item>
+  <item looktype="2601" name="Bag of Dragon Rutting" type="bag">
+    <questReward>
+      <quest>NPC Haz</quest>
+    </questReward>
+  </item>
   <item looktype="5276" name="Bag of Ghulmor" type="bag">
     <droppedBy>
       <monster isBoss="true" looktype="0" name="Mutabour"/>
@@ -202,6 +266,12 @@
       <monster isBoss="true" looktype="0" name="Medusa"/>
       <monster isBoss="true" looktype="0" name="Tauragor"/>
     </droppedBy>
+  </item>
+  <item looktype="5276" name="Bag of Halloween" type="bag">
+    <questReward>
+      <quest>NPC Hallow</quest>
+      <quest>NPC Tique</quest>
+    </questReward>
   </item>
   <item looktype="5276" name="Bag of Lucifero" type="bag">
     <droppedBy>
@@ -222,11 +292,19 @@
     <droppedBy>
       <monster isBoss="true" looktype="0" name="The Cupid"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Valepid</quest>
+    </questReward>
   </item>
   <item looktype="8478" name="Bag of Valentine's Day Master" type="bag">
     <droppedBy>
       <monster isBoss="true" looktype="0" name="Cupid Master"/>
     </droppedBy>
+  </item>
+  <item looktype="5276" name="Bag of Weapons" type="none">
+    <questReward>
+      <quest>NPC Golzan</quest>
+    </questReward>
   </item>
   <item looktype="5278" name="Bag of Yabura" type="bag">
     <droppedBy>
@@ -238,7 +316,6 @@
     <droppedBy>
       <monster looktype="5382" name="Frost Bear"/>
       <monster looktype="5382" name="Icy Bear"/>
-      <monster looktype="5382" name="Polar Bear"/>
     </droppedBy>
   </item>
   <item looktype="5477" name="Basting shield" sell="44" type="shield" vocation="wizard">
@@ -261,11 +338,21 @@
       <monster looktype="5377" name="Zompforp"/>
     </droppedBy>
   </item>
+  <item looktype="5280" name="Bat Pet" type="addpet">
+    <soldBy>
+      <shop>Wharpets (25000 gp) [31947,32019,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="6495" name="Bat skin" type="none">
     <droppedBy>
       <monster looktype="5124" name="Bat"/>
       <monster looktype="5124" name="Little Bat"/>
     </droppedBy>
+  </item>
+  <item looktype="5143" name="Bat stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5457" name="Battle amulet" sell="34" type="chain">
     <defences hit_def="10" level="49"/>
@@ -281,12 +368,34 @@
       <monster looktype="2571" name="Scorpiant"/>
     </droppedBy>
   </item>
+  <item looktype="5400" name="Battlemage armour" sell="45" type="armour" vocation="wizard">
+    <defences hit_def="27" level="47"/>
+    <soldBy>
+      <shop>Harrf's Hunting Shop (550 gp) [32840,32022,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5401" name="Battlemage legs" sell="47" type="legs" vocation="wizard">
+    <defences hit_def="20" level="46"/>
+    <soldBy>
+      <shop>Harrf's Hunting Shop (450 gp) [32840,32022,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5147" name="Behemoth stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="6462" name="Black belt" sell="44" type="legs" vocation="wizard">
     <defences energy_def="5" hit_def="5" holy_def="14" level="34"/>
     <containedIn>
       <container>Bag of Dragon Rutting</container>
       <container>Bag of Valentine's Day</container>
     </containedIn>
+  </item>
+  <item looktype="5147" name="Blackdemon stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (500 gp) [31942,32020,7]</shop>
+    </soldBy>
   </item>
   <item looktype="2566" name="Blazing crystal" sell="4" type="weapon" vocation="wizard">
     <attacks fire_attack="1-18" level="4" mana="2"/>
@@ -330,10 +439,24 @@
       <monster isBoss="true" looktype="0" name="Myst"/>
       <monster isBoss="true" looktype="5384" name="ProtoFang"/>
     </droppedBy>
+    <soldBy>
+      <shop>Ghulmor Others (15000 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (15000 gp) [31985,31990,7]</shop>
+    </soldBy>
     <containedIn>
       <container>Dungeon Bag - Orthoma</container>
       <container>Dungeon Bag - Yabura</container>
     </containedIn>
+  </item>
+  <item looktype="5280" name="Bloodfly Pet" type="addpet">
+    <soldBy>
+      <shop>Wharpets (55000 gp) [31947,32019,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5144" name="Bloodfly stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
+    </soldBy>
   </item>
   <item looktype="2584" name="Blue defroster" type="none">
     <droppedBy>
@@ -368,11 +491,21 @@
       <monster looktype="6405" name="Wardy"/>
     </droppedBy>
   </item>
+  <item looktype="6540" name="Bonecaster" type="weapon" vocation="wizard">
+    <attacks holy_attack="70-281" level="119" mana="28"/>
+    <questReward>
+      <quest>NPC Ceara</quest>
+    </questReward>
+  </item>
   <item looktype="6474" name="Branding stamp" sell="49" type="weapon" vocation="wizard">
     <attacks hit_attack="1-20" ice_attack="1-20" level="12" mana="3"/>
     <droppedBy>
       <monster looktype="5126" name="Restless"/>
     </droppedBy>
+    <soldBy>
+      <shop>Ghulmor Others (230 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (230 gp) [31985,31990,7]</shop>
+    </soldBy>
   </item>
   <item looktype="2572" name="Brass helmet" sell="46" type="helmet" vocation="warrior">
     <defences fire_def="5" hit_def="9" level="29"/>
@@ -384,6 +517,15 @@
       <monster looktype="6405" name="Shogun"/>
       <monster looktype="6405" name="Wiashi"/>
     </droppedBy>
+    <soldBy>
+      <shop>Meepo Yabura (308 gp) [32051,32295,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5157" name="Brass legs" sell="38" type="legs" vocation="warrior">
+    <defences fire_def="5" hit_def="12" level="32"/>
+    <soldBy>
+      <shop>Meepo Yabura (372 gp) [32051,32295,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5316" name="Brinefiend Roots" sell="250" type="none">
     <droppedBy>
@@ -412,6 +554,12 @@
     <droppedBy>
       <monster looktype="6664" name="Werewolf Master"/>
     </droppedBy>
+  </item>
+  <item looktype="5600" name="Cataclysm" type="weapon" vocation="wizard">
+    <attacks energy_attack="50-271" holy_attack="50-271" level="129" mana="28"/>
+    <questReward>
+      <quest>NPC Eldyr</quest>
+    </questReward>
   </item>
   <item looktype="6536" name="Cell key" sell="10" type="none">
     <droppedBy>
@@ -479,6 +627,27 @@
       <monster looktype="2565" name="Bug"/>
       <monster isBoss="true" looktype="2565" name="The Bug"/>
     </droppedBy>
+    <soldBy>
+      <shop>Events Store (8 gp) [31944,31990,7]</shop>
+      <shop>Wizard Zoran (8 gp) [31945,31983,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="8489" name="Christmas Gift" type="bag">
+    <questReward>
+      <quest>NPC Cassio</quest>
+      <quest>NPC Noel</quest>
+    </questReward>
+  </item>
+  <item looktype="2565" name="Christmas Spirit Wand" type="script">
+    <questReward>
+      <quest>NPC Cassio</quest>
+    </questReward>
+  </item>
+  <item looktype="5587" name="Claw of doom" type="weapon" vocation="wizard">
+    <attacks hit_attack="70-281" level="119" mana="28"/>
+    <questReward>
+      <quest>NPC Ceara</quest>
+    </questReward>
   </item>
   <item looktype="6516" name="Claymore of damn" type="weapon" vocation="warrior">
     <attacks hit_attack="2-20" holy_attack="70-160" level="111"/>
@@ -513,6 +682,9 @@
       <monster isBoss="true" looktype="5898" name="Little Drake"/>
       <monster looktype="5640" name="Twishade"/>
     </droppedBy>
+    <soldBy>
+      <shop>Harrf's Hunting Shop (870 gp) [32840,32022,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5270" name="Coldshadow legs" sell="65" type="legs" vocation="warrior">
     <defences hit_def="5" ice_def="15" level="46"/>
@@ -538,6 +710,20 @@
     <droppedBy>
       <monster isBoss="true" looktype="5387" name="The Chicken"/>
     </droppedBy>
+    <soldBy>
+      <shop>Harrf's Hunting Shop (408 gp) [32840,32022,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5278" name="Common feed" sell="10" type="petfeed">
+    <soldBy>
+      <shop>Buzz Potions (70 gp) [31904,31823,7]</shop>
+      <shop>Colossea Potions (70 gp) [32067,32135,7]</shop>
+      <shop>Melbano Potions (70 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (70 gp) [32008,32456,7]</shop>
+      <shop>Pets Arinar (70 gp) [32142,32073,7]</shop>
+      <shop>Rur's Tazmania (70 gp) [32496,32505,7]</shop>
+      <shop>Whizpets (70 gp) [31946,32024,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5590" name="Conflagrator" type="weapon" vocation="wizard">
     <attacks fire_attack="60-233" level="99" mana="23"/>
@@ -566,6 +752,9 @@
     <droppedBy>
       <monster isBoss="true" looktype="0" name="Myst"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Warking</quest>
+    </questReward>
     <containedIn>
       <container>Dungeon Bag - Yabura</container>
     </containedIn>
@@ -690,6 +879,11 @@
       <container>Bag of Valentine's Day Master</container>
     </containedIn>
   </item>
+  <item looktype="5214" name="Cupid's Heart" type="none">
+    <questReward>
+      <quest>NPC Valentina</quest>
+    </questReward>
+  </item>
   <item looktype="5553" name="Curse of Ashmor" type="weapon" vocation="wizard">
     <attacks holy_attack="18-175" level="74" mana="18"/>
     <droppedBy>
@@ -702,6 +896,15 @@
     <droppedBy>
       <monster looktype="6401" name="Farmzombie"/>
     </droppedBy>
+  </item>
+  <item looktype="2562" name="Cutting axe" type="axe">
+    <soldBy>
+      <shop>Ghulmor Others (200 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (200 gp) [31985,31990,7]</shop>
+    </soldBy>
+    <questReward>
+      <quest>NPC Golzan</quest>
+    </questReward>
   </item>
   <item looktype="6547" name="Cutting leafes" sell="56" type="weapon" vocation="warrior">
     <attacks holy_attack="1-102" level="44"/>
@@ -719,16 +922,30 @@
       <monster looktype="5637" name="Pillarclop"/>
     </droppedBy>
   </item>
+  <item looktype="5142" name="Cyclops stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="5558" name="Dark mage mask" sell="550" type="mask">
     <containedIn>
       <container>Bag of Coliseum</container>
     </containedIn>
+  </item>
+  <item looktype="6542" name="Deep freeze" type="weapon" vocation="warrior">
+    <attacks ice_attack="45-225" level="119"/>
+    <questReward>
+      <quest>NPC Ceara</quest>
+    </questReward>
   </item>
   <item looktype="5522" name="Deepfrozen hood" type="helmet" vocation="wizard">
     <defences hit_def="13" ice_def="27" level="79"/>
     <droppedBy>
       <monster isBoss="true" looktype="5636" name="Odon"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Dingin</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum Master</container>
       <container>Bag of Valentine's Day Master</container>
@@ -739,24 +956,50 @@
     <droppedBy>
       <monster isBoss="true" looktype="5636" name="Odon"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Dingin</quest>
+    </questReward>
+  </item>
+  <item looktype="5520" name="Deepfrozen robe" type="armour" vocation="wizard">
+    <defences hit_def="21" ice_def="43" level="79"/>
+    <questReward>
+      <quest>NPC Dingin</quest>
+    </questReward>
   </item>
   <item looktype="5523" name="Deepfrozen shield" type="shield" vocation="wizard">
     <defences hit_def="13" ice_def="27" level="79"/>
     <droppedBy>
       <monster isBoss="true" looktype="5636" name="Odon"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Dingin</quest>
+    </questReward>
   </item>
   <item looktype="8460" name="Defense Vigor" type="egg">
     <containedIn>
       <container>Dungeon Bag - Orthoma</container>
     </containedIn>
   </item>
+  <item looktype="5147" name="Demon stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="5508" name="Demonic cloak" type="armour" vocation="wizard">
     <defences fire_def="43" holy_def="21" level="79"/>
+    <questReward>
+      <quest>NPC Quick</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum Master</container>
       <container>Bag of Gorgoros</container>
     </containedIn>
+  </item>
+  <item looktype="5510" name="Demonic hood" type="helmet" vocation="wizard">
+    <defences fire_def="27" holy_def="13" level="79"/>
+    <questReward>
+      <quest>NPC Quick</quest>
+    </questReward>
   </item>
   <item looktype="5512" name="Demonic Ring" sell="77" type="ring">
     <defences fire_def="22" holy_def="7" level="79"/>
@@ -770,15 +1013,27 @@
   </item>
   <item looktype="5511" name="Demonic shield" type="shield" vocation="wizard">
     <defences fire_def="27" holy_def="13" level="79"/>
+    <questReward>
+      <quest>NPC Quick</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum Master</container>
     </containedIn>
   </item>
   <item looktype="5509" name="Demonic trousers" type="legs" vocation="wizard">
     <defences fire_def="32" holy_def="16" level="79"/>
+    <questReward>
+      <quest>NPC Quick</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Gorgoros</container>
     </containedIn>
+  </item>
+  <item looktype="5592" name="Devourer of souls" type="weapon" vocation="warrior">
+    <attacks holy_attack="45-225" level="119"/>
+    <questReward>
+      <quest>NPC Ceara</quest>
+    </questReward>
   </item>
   <item looktype="5531" name="Divine Amulet" sell="56" type="chain">
     <defences holy_def="20" level="79"/>
@@ -788,8 +1043,17 @@
       <container>Bag of Yabura</container>
     </containedIn>
   </item>
+  <item looktype="5526" name="Divine cuirass" type="armour" vocation="warrior">
+    <defences energy_def="18" holy_def="37" level="79"/>
+    <questReward>
+      <quest>NPC Dugysoul</quest>
+    </questReward>
+  </item>
   <item looktype="5527" name="Divine greaves" type="legs" vocation="warrior">
     <defences energy_def="13" holy_def="27" level="79"/>
+    <questReward>
+      <quest>NPC Dugysoul</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Gorgoros</container>
       <container>Bag of Orthoma</container>
@@ -810,9 +1074,25 @@
       <monster looktype="6151" name="Levitacle"/>
       <monster isBoss="true" looktype="6659" name="Tazmania"/>
     </droppedBy>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (1400 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (1400 gp) [31904,31823,7]</shop>
+      <shop>Castle Rock Potions (1400 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (1400 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (1400 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (1400 gp) [32280,32205,7]</shop>
+      <shop>Melbano Potions (1400 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (1400 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (1400 gp) [31987,32082,7]</shop>
+      <shop>Rur's Tazmania (1800 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (1400 gp) [31968,32254,13]</shop>
+    </soldBy>
   </item>
   <item looktype="5528" name="Divine helmet" type="helmet" vocation="warrior">
     <defences energy_def="10" holy_def="21" level="79"/>
+    <questReward>
+      <quest>NPC Dugysoul</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum Master</container>
       <container>Bag of Gorgoros</container>
@@ -832,9 +1112,25 @@
       <monster looktype="6151" name="Levitacle"/>
       <monster isBoss="true" looktype="6659" name="Tazmania"/>
     </droppedBy>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (900 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (900 gp) [31904,31823,7]</shop>
+      <shop>Castle Rock Potions (900 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (900 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (900 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (900 gp) [32280,32205,7]</shop>
+      <shop>Melbano Potions (900 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (900 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (900 gp) [31987,32082,7]</shop>
+      <shop>Rur's Tazmania (1200 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (900 gp) [31968,32254,13]</shop>
+    </soldBy>
   </item>
   <item looktype="5529" name="Divine protector" type="shield" vocation="warrior">
     <defences energy_def="10" holy_def="21" level="79"/>
+    <questReward>
+      <quest>NPC Dugysoul</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum</container>
       <container>Bag of Coliseum Master</container>
@@ -903,6 +1199,22 @@
       <monster looktype="5898" name="Fire Drake"/>
     </droppedBy>
   </item>
+  <item looktype="5280" name="Drakewhelp Pet" type="addpet">
+    <questReward>
+      <quest>NPC Hazel</quest>
+    </questReward>
+  </item>
+  <item looktype="2569" name="Drakewhelp stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (500 gp) [31942,32020,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5156" name="Dress" sell="28" type="armour" vocation="wizard">
+    <defences energy_def="15" hit_def="5" level="22"/>
+    <soldBy>
+      <shop>Sacred Yabura (800 gp) [31977,32223,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="5559" name="Dul'mar" sell="1000" type="weapon" vocation="warrior">
     <attacks fire_attack="15-170" level="79"/>
     <droppedBy>
@@ -935,6 +1247,13 @@
       <monster isBoss="true" looktype="0" name="Bragnak"/>
     </droppedBy>
   </item>
+  <item looktype="5679" name="Eggs" sell="8" type="potion">
+    <consumable hp="50"/>
+    <soldBy>
+      <shop>Essential Supplies (50 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (35 gp) [31957,31984,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="5596" name="Elder health potion" type="potion">
     <consumable hp="3200"/>
     <droppedBy>
@@ -952,6 +1271,19 @@
       <monster looktype="5899" name="Volcanus"/>
       <monster looktype="6663" name="Worc"/>
     </droppedBy>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (1560 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (1560 gp) [31904,31823,7]</shop>
+      <shop>Castle Rock Potions (1560 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (1560 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (1560 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (1560 gp) [32280,32205,7]</shop>
+      <shop>Melbano Potions (1560 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (1560 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (1560 gp) [31987,32082,7]</shop>
+      <shop>Rur's Tazmania (2000 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (1560 gp) [31968,32254,13]</shop>
+    </soldBy>
     <containedIn>
       <container>Bag of Dragon Rutting</container>
       <container>Bag of Valentine's Day</container>
@@ -975,6 +1307,19 @@
       <monster looktype="5899" name="Volcanus"/>
       <monster looktype="6663" name="Worc"/>
     </droppedBy>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (1120 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (1120 gp) [31904,31823,7]</shop>
+      <shop>Castle Rock Potions (1120 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (1120 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (1120 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (1120 gp) [32280,32205,7]</shop>
+      <shop>Melbano Potions (1120 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (1120 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (1120 gp) [31987,32082,7]</shop>
+      <shop>Rur's Tazmania (1500 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (1120 gp) [31968,32254,13]</shop>
+    </soldBy>
     <containedIn>
       <container>Bag of Dragon Rutting</container>
       <container>Bag of Valentine's Day</container>
@@ -1006,6 +1351,12 @@
       <monster isBoss="true" looktype="5123" name="Tutankhamn"/>
     </droppedBy>
   </item>
+  <item looktype="5303" name="Elmsfire" type="weapon" vocation="wizard">
+    <attacks energy_attack="84-380" level="149" mana="42"/>
+    <questReward>
+      <quest>NPC Rodiney</quest>
+    </questReward>
+  </item>
   <item looktype="5181" name="Ember rune" sell="98" type="weapon" vocation="wizard">
     <attacks fire_attack="1-100" level="36" mana="9"/>
     <containedIn>
@@ -1024,8 +1375,14 @@
       <monster looktype="5634" name="Troll"/>
       <monster looktype="5634" name="Trollsmash"/>
     </droppedBy>
+    <soldBy>
+      <shop>Mine Shop (2250 gp) [31891,31968,8]</shop>
+    </soldBy>
   </item>
   <item looktype="8484" name="Emoji Black Cat" sell="5000" type="emoji">
+    <questReward>
+      <quest>NPC Hallow</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Halloween</container>
     </containedIn>
@@ -1044,6 +1401,11 @@
     <containedIn>
       <container>Bag of Halloween</container>
     </containedIn>
+  </item>
+  <item looktype="8472" name="Empty Chalice" type="script">
+    <questReward>
+      <quest>NPC Patolino</quest>
+    </questReward>
   </item>
   <item looktype="5127" name="Energy blade" sell="48" type="weapon" vocation="warrior">
     <attacks energy_attack="1-62" level="30"/>
@@ -1074,6 +1436,13 @@
       <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
+  <item looktype="5145" name="Energy rune" sell="23" type="weapon" vocation="wizard">
+    <attacks energy_attack="1-58" level="19" mana="6"/>
+    <soldBy>
+      <shop>Ghulmor Others (270 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (270 gp) [31985,31990,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="5144" name="Energy Stone" type="script">
     <droppedBy>
       <monster looktype="5387" name="Tyrannix"/>
@@ -1084,6 +1453,9 @@
     <droppedBy>
       <monster looktype="6405" name="Wiashi"/>
     </droppedBy>
+    <soldBy>
+      <shop>Meepo Yabura (336 gp) [32051,32295,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5441" name="Enlighted necklace" sell="33" type="chain">
     <defences hit_def="7" level="31"/>
@@ -1112,6 +1484,15 @@
     <droppedBy>
       <monster looktype="6405" name="Shogun"/>
     </droppedBy>
+    <soldBy>
+      <shop>Meepo Yabura (460 gp) [32051,32295,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5297" name="Eternal Flame" type="weapon" vocation="wizard">
+    <attacks fire_attack="84-380" level="149" mana="42"/>
+    <questReward>
+      <quest>NPC Rodiney</quest>
+    </questReward>
   </item>
   <item looktype="5550" name="Eternal Winter" type="weapon" vocation="warrior">
     <attacks ice_attack="14-161" level="74"/>
@@ -1123,6 +1504,9 @@
     <droppedBy>
       <monster isBoss="true" looktype="0" name="Myst"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Rajahao</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Ghulmor</container>
       <container>Bag of Lucifero</container>
@@ -1143,10 +1527,27 @@
       <monster looktype="6663" name="Worc"/>
     </droppedBy>
   </item>
+  <item looktype="5299" name="Everfrost" type="weapon" vocation="wizard">
+    <attacks ice_attack="84-380" level="149" mana="42"/>
+    <questReward>
+      <quest>NPC Rodiney</quest>
+    </questReward>
+  </item>
   <item looktype="5558" name="Evilare mask" sell="550" type="mask">
     <droppedBy>
       <monster isBoss="true" looktype="5384" name="ProtoFang"/>
     </droppedBy>
+  </item>
+  <item looktype="5276" name="Excellent feed" sell="10" type="petfeed">
+    <soldBy>
+      <shop>Buzz Potions (250 gp) [31904,31823,7]</shop>
+      <shop>Colossea Potions (250 gp) [32067,32135,7]</shop>
+      <shop>Melbano Potions (250 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (250 gp) [32008,32456,7]</shop>
+      <shop>Pets Arinar (250 gp) [32142,32073,7]</shop>
+      <shop>Rur's Tazmania (250 gp) [32496,32505,7]</shop>
+      <shop>Whizpets (250 gp) [31946,32024,7]</shop>
+    </soldBy>
   </item>
   <item looktype="2596" name="Eye of Dragon" type="script">
     <droppedBy>
@@ -1162,6 +1563,12 @@
       <monster looktype="6405" name="Warden"/>
       <monster looktype="6405" name="Wardy"/>
     </droppedBy>
+  </item>
+  <item looktype="6555" name="Faraday shield" sell="36" type="shield" vocation="wizard">
+    <defences energy_def="12" hit_def="12" level="31"/>
+    <soldBy>
+      <shop>Meepo Yabura (328 gp) [32051,32295,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6554" name="Faraday skirt" sell="56" type="legs" vocation="wizard">
     <defences energy_def="12" hit_def="10" level="27"/>
@@ -1188,6 +1595,12 @@
       <monster looktype="5380" name="Sabrecat"/>
       <monster looktype="5380" name="Scratchy"/>
     </droppedBy>
+  </item>
+  <item looktype="5426" name="Field greaves" sell="12" type="legs" vocation="warrior">
+    <defences hit_def="7" level="13"/>
+    <questReward>
+      <quest>NPC Roberth</quest>
+    </questReward>
   </item>
   <item looktype="5431" name="Field helmet" sell="34" type="helmet" vocation="warrior">
     <defences hit_def="7" level="18"/>
@@ -1236,6 +1649,19 @@
       <monster looktype="2566" name="Saurial"/>
       <monster isBoss="true" looktype="6150" name="Shellborn"/>
     </droppedBy>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (1090 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (1090 gp) [31904,31823,7]</shop>
+      <shop>Castle Rock Potions (1090 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (1090 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (1090 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (1090 gp) [32280,32205,7]</shop>
+      <shop>Melbano Potions (1090 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (1090 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (1090 gp) [31987,32082,7]</shop>
+      <shop>Rur's Tazmania (1400 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (1090 gp) [31968,32254,13]</shop>
+    </soldBy>
   </item>
   <item looktype="5572" name="Fine mana potion" type="potion">
     <consumable mp="1050"/>
@@ -1251,6 +1677,19 @@
       <monster looktype="2566" name="Saurial"/>
       <monster isBoss="true" looktype="6150" name="Shellborn"/>
     </droppedBy>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (720 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (720 gp) [31904,31823,7]</shop>
+      <shop>Castle Rock Potions (720 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (720 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (720 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (720 gp) [32280,32205,7]</shop>
+      <shop>Melbano Potions (720 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (720 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (720 gp) [31987,32082,7]</shop>
+      <shop>Rur's Tazmania (960 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (720 gp) [31968,32254,13]</shop>
+    </soldBy>
   </item>
   <item looktype="5579" name="Fine might potion" type="potion">
     <consumable hp="1250" mp="1050"/>
@@ -1259,6 +1698,13 @@
       <monster looktype="6412" name="Fouldrake"/>
       <monster looktype="2566" name="Saurial"/>
     </droppedBy>
+  </item>
+  <item looktype="6446" name="Fire bo" sell="117" type="weapon" vocation="wizard">
+    <attacks fire_attack="10-105" hit_attack="1-40" level="47" mana="14"/>
+    <soldBy>
+      <shop>Harrf's Hunting Shop (535 gp) [32840,32022,7]</shop>
+      <shop>Meepo Yabura (535 gp) [32051,32295,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5147" name="Fire discus" sell="25" type="weapon" vocation="wizard">
     <attacks fire_attack="1-54" level="18" mana="6"/>
@@ -1282,6 +1728,9 @@
     <droppedBy>
       <monster isBoss="true" looktype="0" name="Baby Drake"/>
     </droppedBy>
+    <soldBy>
+      <shop>Sacred Yabura (408 gp) [31977,32223,7]</shop>
+    </soldBy>
   </item>
   <item looktype="2568" name="Fire rune" sell="44" type="weapon" vocation="wizard">
     <attacks fire_attack="1-34" level="10" mana="3"/>
@@ -1292,6 +1741,21 @@
       <monster looktype="2567" name="Tarantula"/>
       <monster looktype="2567" name="Widow"/>
     </droppedBy>
+    <soldBy>
+      <shop>Wizard Zoran (204 gp) [31945,31983,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="6534" name="Fishing rod" type="fishing">
+    <soldBy>
+      <shop>Ghulmor Others (500 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (500 gp) [31985,31990,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="8452" name="Fishing Rod" sell="50" type="fishing">
+    <soldBy>
+      <shop>Ghulmor Others (1500 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (1500 gp) [31985,31990,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5129" name="Flame spear" sell="8" type="weapon" vocation="warrior">
     <attacks fire_attack="1-15" hit_attack="1-4" level="6"/>
@@ -1305,6 +1769,10 @@
     <droppedBy>
       <monster looktype="5121" name="Skeleton"/>
     </droppedBy>
+    <soldBy>
+      <shop>Ghulmor Others (204 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (204 gp) [31985,31990,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6475" name="Flogging rune" sell="56" type="weapon" vocation="wizard">
     <attacks hit_attack="1-48" level="15" mana="6"/>
@@ -1315,6 +1783,9 @@
       <monster looktype="5891" name="Markhor"/>
       <monster looktype="2572" name="Rabid Bear"/>
     </droppedBy>
+    <soldBy>
+      <shop>Wizard Zoran (268 gp) [31945,31983,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5436" name="Focus helmet" sell="34" type="helmet" vocation="warrior">
     <defences hit_def="8" level="24"/>
@@ -1334,6 +1805,12 @@
       <monster looktype="6405" name="Wardy"/>
     </droppedBy>
   </item>
+  <item looktype="6528" name="Focus staff" sell="36" type="weapon" vocation="wizard">
+    <attacks holy_attack="1-83" level="27" mana="8"/>
+    <soldBy>
+      <shop>Sacred Yabura (400 gp) [31977,32223,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="6573" name="Forcebender ring" type="ring">
     <defences hit_def="25" level="79"/>
     <droppedBy>
@@ -1351,16 +1828,58 @@
       <container>Bag of Valentine's Day Master</container>
     </containedIn>
   </item>
+  <item looktype="6576" name="Forcebreak barrier" type="shield" vocation="warrior">
+    <defences hit_def="21" holy_def="10" level="79"/>
+    <questReward>
+      <quest>NPC Warzero</quest>
+    </questReward>
+  </item>
   <item looktype="6578" name="Forcebreak guards" type="legs" vocation="warrior">
     <defences hit_def="27" holy_def="13" level="79"/>
+    <questReward>
+      <quest>NPC Warzero</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum</container>
       <container>Bag of Coliseum Master</container>
       <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
+  <item looktype="6580" name="Forcebreak helmet" type="helmet" vocation="warrior">
+    <defences hit_def="21" holy_def="10" level="79"/>
+    <questReward>
+      <quest>NPC Warzero</quest>
+    </questReward>
+  </item>
+  <item looktype="6582" name="Forcebreak plate" type="armour" vocation="warrior">
+    <defences hit_def="37" holy_def="18" level="79"/>
+    <questReward>
+      <quest>NPC Warzero</quest>
+    </questReward>
+  </item>
+  <item looktype="6581" name="Forcedeflect coat" type="armour" vocation="wizard">
+    <defences hit_def="43" holy_def="21" level="79"/>
+    <questReward>
+      <quest>NPC Warzero</quest>
+    </questReward>
+  </item>
+  <item looktype="6579" name="Forcedeflect dulban" type="helmet" vocation="wizard">
+    <defences hit_def="27" holy_def="13" level="79"/>
+    <questReward>
+      <quest>NPC Warzero</quest>
+    </questReward>
+  </item>
+  <item looktype="6575" name="Forcedeflect glove" type="shield" vocation="wizard">
+    <defences hit_def="27" holy_def="13" level="79"/>
+    <questReward>
+      <quest>NPC Warzero</quest>
+    </questReward>
+  </item>
   <item looktype="6577" name="Forcedeflect pants" type="legs" vocation="wizard">
     <defences hit_def="32" holy_def="16" level="79"/>
+    <questReward>
+      <quest>NPC Warzero</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum</container>
       <container>Bag of Coliseum Master</container>
@@ -1401,6 +1920,9 @@
       <monster looktype="5122" name="Orc Leader"/>
       <monster looktype="5122" name="Orc Raider"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Golzan</quest>
+    </questReward>
   </item>
   <item looktype="5499" name="Freezer shield" sell="60" type="shield" vocation="warrior">
     <defences hit_def="5" ice_def="5" level="15"/>
@@ -1416,6 +1938,11 @@
     <containedIn>
       <container>Christmas Gift</container>
     </containedIn>
+  </item>
+  <item looktype="5150" name="Frog stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6433" name="Frost helmet" sell="34" type="helmet" vocation="warrior">
     <defences hit_def="5" ice_def="20" level="70"/>
@@ -1454,22 +1981,37 @@
     <droppedBy>
       <monster isBoss="true" looktype="5636" name="Odon"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Dingin</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum Master</container>
       <container>Bag of Valentine's Day Master</container>
     </containedIn>
+  </item>
+  <item looktype="5514" name="Frostscale harness" type="armour" vocation="warrior">
+    <defences hit_def="18" ice_def="37" level="79"/>
+    <questReward>
+      <quest>NPC Dingin</quest>
+    </questReward>
   </item>
   <item looktype="5516" name="Frostscale helmet" type="helmet" vocation="warrior">
     <defences hit_def="10" ice_def="21" level="79"/>
     <droppedBy>
       <monster isBoss="true" looktype="5636" name="Odon"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Dingin</quest>
+    </questReward>
   </item>
   <item looktype="5515" name="Frostscale legplates" type="legs" vocation="warrior">
     <defences hit_def="13" ice_def="27" level="79"/>
     <droppedBy>
       <monster isBoss="true" looktype="5636" name="Odon"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Dingin</quest>
+    </questReward>
   </item>
   <item looktype="5518" name="Frostscale Ring" sell="77" type="ring">
     <defences hit_def="7" ice_def="22" level="79"/>
@@ -1544,10 +2086,18 @@
     </droppedBy>
   </item>
   <item looktype="5280" name="Ghost Pet" type="addpet">
+    <soldBy>
+      <shop>Wharpets (45000 gp) [31947,32019,7]</shop>
+    </soldBy>
     <containedIn>
       <container>Bag of Halloween</container>
       <container>Especial Bag of Halloween</container>
     </containedIn>
+  </item>
+  <item looktype="5150" name="Ghost stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5551" name="Gift of Nivalis" type="weapon" vocation="wizard">
     <attacks ice_attack="18-175" level="74" mana="18"/>
@@ -1560,12 +2110,30 @@
       <monster looktype="5379" name="Young Yeti"/>
     </droppedBy>
   </item>
+  <item looktype="5298" name="Glaciator" type="weapon" vocation="warrior">
+    <attacks ice_attack="61-320" level="149"/>
+    <questReward>
+      <quest>NPC Rodiney</quest>
+    </questReward>
+  </item>
   <item looktype="5164" name="Glacier chain" sell="48" type="chain">
     <defences hit_def="5" ice_def="10" level="49"/>
     <droppedBy>
       <monster looktype="6154" name="Construc"/>
       <monster looktype="6154" name="Construct"/>
     </droppedBy>
+  </item>
+  <item looktype="5456" name="Gladiator helmet" sell="54" type="helmet" vocation="warrior">
+    <defences hit_def="13" level="47"/>
+    <soldBy>
+      <shop>Harrf's Hunting Shop (410 gp) [32840,32022,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5455" name="Gladiator legs" sell="54" type="legs" vocation="warrior">
+    <defences hit_def="17" level="46"/>
+    <soldBy>
+      <shop>Harrf's Hunting Shop (450 gp) [32840,32022,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5188" name="Glove of eternity" sell="154" type="weapon" vocation="wizard">
     <attacks hit_attack="1-25" holy_attack="1-40" ice_attack="1-130" level="69" mana="17"/>
@@ -1614,6 +2182,29 @@
       <monster isBoss="true" looktype="6660" name="Warer"/>
     </droppedBy>
   </item>
+  <item looktype="5279" name="Good feed" sell="10" type="petfeed">
+    <soldBy>
+      <shop>Buzz Potions (150 gp) [31904,31823,7]</shop>
+      <shop>Colossea Potions (150 gp) [32067,32135,7]</shop>
+      <shop>Melbano Potions (150 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (150 gp) [32008,32456,7]</shop>
+      <shop>Pets Arinar (150 gp) [32142,32073,7]</shop>
+      <shop>Rur's Tazmania (150 gp) [32496,32505,7]</shop>
+      <shop>Whizpets (150 gp) [31946,32024,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5481" name="Governor armour" sell="32" type="armour" vocation="warrior">
+    <defences fire_def="13" hit_def="5" level="22"/>
+    <soldBy>
+      <shop>Sacred Yabura (800 gp) [31977,32223,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5154" name="Gown" sell="71" type="armour" vocation="wizard">
+    <defences fire_def="15" hit_def="5" level="22"/>
+    <soldBy>
+      <shop>Sacred Yabura (800 gp) [31977,32223,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="5563" name="Great health potion" type="potion">
     <consumable hp="800"/>
     <droppedBy>
@@ -1625,6 +2216,19 @@
       <monster looktype="5388" name="Ninjana"/>
       <monster looktype="5387" name="Tyrannix"/>
     </droppedBy>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (590 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (590 gp) [31904,31823,7]</shop>
+      <shop>Castle Rock Potions (590 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (590 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (590 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (590 gp) [32280,32205,7]</shop>
+      <shop>Melbano Potions (590 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (590 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (590 gp) [31987,32082,7]</shop>
+      <shop>Rur's Tazmania (760 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (590 gp) [31968,32254,13]</shop>
+    </soldBy>
   </item>
   <item looktype="5570" name="Great mana potion" type="potion">
     <consumable mp="750"/>
@@ -1634,14 +2238,42 @@
       <monster looktype="6412" name="Fouldrake"/>
       <monster looktype="5388" name="Ninjana"/>
     </droppedBy>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (430 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (430 gp) [31904,31823,7]</shop>
+      <shop>Castle Rock Potions (430 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (430 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (430 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (430 gp) [32280,32205,7]</shop>
+      <shop>Melbano Potions (430 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (430 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (430 gp) [31987,32082,7]</shop>
+      <shop>Rur's Tazmania (570 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (430 gp) [31968,32254,13]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5583" name="Great ramen" type="potion" vocation="warrior">
+    <consumable hp="1350" mp="350"/>
+    <questReward>
+      <quest>NPC Shadows</quest>
+    </questReward>
   </item>
   <item looktype="5253" name="Green dragon egg" type="egg">
     <droppedBy>
       <monster looktype="8452" name="Eggosaurus"/>
     </droppedBy>
   </item>
+  <item looktype="5496" name="Griffin axe shield" sell="63" type="shield" vocation="wizard">
+    <defences hit_def="13" level="33"/>
+    <soldBy>
+      <shop>Meepo Yabura (750 gp) [32051,32295,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="5171" name="Griffin shield" sell="38" type="shield" vocation="warrior">
     <defences fire_def="10" hit_def="10" level="36"/>
+    <soldBy>
+      <shop>Meepo Yabura (750 gp) [32051,32295,7]</shop>
+    </soldBy>
     <containedIn>
       <container>Dungeon Bag - Aurea</container>
     </containedIn>
@@ -1651,6 +2283,10 @@
     <droppedBy>
       <monster looktype="2572" name="Killer Bear"/>
     </droppedBy>
+    <soldBy>
+      <shop>Ghulmor Others (575 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (575 gp) [31985,31990,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5176" name="Hallowed sword" sell="40" type="weapon" vocation="warrior">
     <attacks hit_attack="1-70" holy_attack="1-15" level="38"/>
@@ -1682,9 +2318,27 @@
       <monster looktype="5380" name="Redeath"/>
       <monster looktype="5123" name="Rottummy"/>
     </droppedBy>
+    <soldBy>
+      <shop>Essential Supplies (575 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (400 gp) [31957,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5147" name="Hell Guard stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5296" name="Hellblade" type="weapon" vocation="warrior">
+    <attacks fire_attack="61-320" level="149"/>
+    <questReward>
+      <quest>NPC Rodiney</quest>
+    </questReward>
   </item>
   <item looktype="5502" name="Hellfire breastplate" type="armour" vocation="warrior">
     <defences fire_def="37" holy_def="18" level="79"/>
+    <questReward>
+      <quest>NPC Quick</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum Master</container>
       <container>Bag of Gorgoros</container>
@@ -1693,13 +2347,25 @@
   </item>
   <item looktype="5505" name="Hellfire bulwark" type="shield" vocation="warrior">
     <defences fire_def="21" holy_def="10" level="79"/>
+    <questReward>
+      <quest>NPC Quick</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum Master</container>
       <container>Bag of Valentine's Day Master</container>
     </containedIn>
   </item>
+  <item looktype="5504" name="Hellfire helmet" type="helmet" vocation="warrior">
+    <defences fire_def="21" holy_def="10" level="79"/>
+    <questReward>
+      <quest>NPC Quick</quest>
+    </questReward>
+  </item>
   <item looktype="5503" name="Hellfire legplates" type="legs" vocation="warrior">
     <defences fire_def="27" holy_def="13" level="79"/>
+    <questReward>
+      <quest>NPC Quick</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Gorgoros</container>
     </containedIn>
@@ -1755,6 +2421,27 @@
       <monster isBoss="true" looktype="5384" name="ProtoFang"/>
     </droppedBy>
   </item>
+  <item looktype="5280" name="Hornet Pet" type="addpet">
+    <soldBy>
+      <shop>Wharpets (25000 gp) [31947,32019,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5181" name="Hornet stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5226" name="Hunter Tracker" type="script">
+    <questReward>
+      <quest>NPC Baltharoth</quest>
+    </questReward>
+  </item>
+  <item looktype="6543" name="Ice age" type="weapon" vocation="wizard">
+    <attacks ice_attack="70-281" level="119" mana="28"/>
+    <questReward>
+      <quest>NPC Ceara</quest>
+    </questReward>
+  </item>
   <item looktype="5149" name="Ice discus" sell="38" type="weapon" vocation="wizard">
     <attacks ice_attack="1-114" level="40" mana="11"/>
     <droppedBy>
@@ -1777,6 +2464,15 @@
       <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
+  <item looktype="6523" name="Ice spiked mace" sell="36" type="weapon" vocation="warrior">
+    <attacks ice_attack="1-66" level="30"/>
+    <soldBy>
+      <shop>Sacred Yabura (408 gp) [31977,32223,7]</shop>
+    </soldBy>
+    <questReward>
+      <quest>NPC Golzan</quest>
+    </questReward>
+  </item>
   <item looktype="6488" name="Incensor" sell="49" type="weapon" vocation="warrior">
     <attacks fire_attack="1-32" level="12"/>
     <droppedBy>
@@ -1790,6 +2486,12 @@
     <droppedBy>
       <monster looktype="6664" name="Werewolf Master"/>
     </droppedBy>
+  </item>
+  <item looktype="5301" name="Interceptor" type="weapon" vocation="wizard">
+    <attacks holy_attack="84-380" level="149" mana="42"/>
+    <questReward>
+      <quest>NPC Rodiney</quest>
+    </questReward>
   </item>
   <item looktype="5201" name="Jade ring" sell="37" type="ring">
     <defences hit_def="5" holy_def="10" level="34"/>
@@ -1851,6 +2553,13 @@
       <monster looktype="6409" name="Kappa"/>
     </droppedBy>
   </item>
+  <item looktype="6445" name="Katana" sell="117" type="weapon" vocation="warrior">
+    <attacks hit_attack="10-100" level="47"/>
+    <soldBy>
+      <shop>Harrf's Hunting Shop (535 gp) [32840,32022,7]</shop>
+      <shop>Meepo Yabura (535 gp) [32051,32295,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="5207" name="King's cloak" sell="44" type="armour" vocation="wizard">
     <defences fire_def="30" hit_def="10" level="51"/>
     <droppedBy>
@@ -1869,10 +2578,27 @@
       <monster looktype="5387" name="Tyrannix"/>
     </droppedBy>
   </item>
+  <item looktype="5148" name="Krakomin stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="6467" name="Large Dungeon Ring" type="ring">
     <containedIn>
       <container>Dungeon Bag - Orthoma</container>
     </containedIn>
+  </item>
+  <item looktype="5153" name="Leather armour" sell="63" type="armour" vocation="warrior">
+    <defences energy_def="10" hit_def="10" level="18"/>
+    <soldBy>
+      <shop>Sam's Armoury (350 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5427" name="Leather headcap" sell="14" type="helmet" vocation="warrior">
+    <defences hit_def="5" level="14"/>
+    <questReward>
+      <quest>NPC Bamfred</quest>
+    </questReward>
   </item>
   <item looktype="2571" name="Leather legs" sell="25" type="legs" vocation="warrior">
     <defences energy_def="8" hit_def="8" level="19"/>
@@ -1936,7 +2662,6 @@
       <monster looktype="5122" name="Orc Leader"/>
       <monster looktype="5122" name="Orc Raider"/>
       <monster looktype="6402" name="Peasant"/>
-      <monster looktype="5382" name="Polar Bear"/>
       <monster looktype="6404" name="Primeguard"/>
       <monster looktype="2572" name="Rabid Bear"/>
       <monster looktype="5126" name="Restless"/>
@@ -1960,6 +2685,10 @@
       <monster looktype="5381" name="Zottel"/>
       <monster looktype="5381" name="Zuppel"/>
     </droppedBy>
+    <soldBy>
+      <shop>Essential Supplies (215 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (150 gp) [31957,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5568" name="Lesser mana potion" sell="38" type="potion">
     <consumable mp="300"/>
@@ -2011,7 +2740,6 @@
       <monster looktype="5122" name="Orc Leader"/>
       <monster looktype="5122" name="Orc Raider"/>
       <monster looktype="6402" name="Peasant"/>
-      <monster looktype="5382" name="Polar Bear"/>
       <monster looktype="6404" name="Primeguard"/>
       <monster looktype="2572" name="Rabid Bear"/>
       <monster looktype="5126" name="Restless"/>
@@ -2035,12 +2763,64 @@
       <monster looktype="5381" name="Zottel"/>
       <monster looktype="5381" name="Zuppel"/>
     </droppedBy>
+    <soldBy>
+      <shop>Essential Supplies (150 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (100 gp) [31957,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6572" name="Leveller" sell="1000" type="weapon" vocation="wizard">
     <attacks hit_attack="19-185" level="79" mana="19"/>
     <droppedBy>
       <monster isBoss="true" looktype="0" name="Ghoranus"/>
     </droppedBy>
+  </item>
+  <item looktype="5409" name="Light armour" sell="6" type="armour" vocation="warrior">
+    <defences hit_def="2" level="2"/>
+    <soldBy>
+      <shop>Sam's Armoury (40 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5379" name="Light cap" sell="2" type="helmet" vocation="wizard">
+    <defences hit_def="2" level="1"/>
+    <soldBy>
+      <shop>Sam's Armoury (12 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5411" name="Light headcap" sell="2" type="helmet" vocation="warrior">
+    <defences hit_def="1" level="1"/>
+    <soldBy>
+      <shop>Sam's Armoury (12 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5410" name="Light leather legs" sell="1" type="legs" vocation="warrior">
+    <defences hit_def="2" level="0"/>
+    <soldBy>
+      <shop>Sam's Armoury (4 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5378" name="Light legs" sell="1" type="legs" vocation="wizard">
+    <defences hit_def="2" level="0"/>
+    <soldBy>
+      <shop>Sam's Armoury (4 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5475" name="Light magic shield" sell="6" type="shield" vocation="wizard">
+    <defences hit_def="2" level="3"/>
+    <soldBy>
+      <shop>Sam's Armoury (36 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5412" name="Light shield" sell="6" type="shield" vocation="warrior">
+    <defences hit_def="1" level="3"/>
+    <soldBy>
+      <shop>Sam's Armoury (36 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5377" name="Light shirt" sell="6" type="armour" vocation="wizard">
+    <defences hit_def="3" level="2"/>
+    <soldBy>
+      <shop>Sam's Armoury (40 gp) [31954,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6409" name="Lightbender" sell="53" type="weapon" vocation="warrior">
     <attacks energy_attack="1-95" hit_attack="1-30" holy_attack="1-15" level="59"/>
@@ -2133,6 +2913,16 @@
       <monster looktype="2570" name="Ooze"/>
       <monster looktype="2571" name="Scorpion"/>
     </droppedBy>
+    <soldBy>
+      <shop>Ghulmor Others (167 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (167 gp) [31985,31990,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5495" name="Magic shield" sell="104" type="shield" vocation="wizard">
+    <defences hit_def="22" level="63"/>
+    <soldBy>
+      <shop>Sam's Armoury (588 gp) [31954,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5221" name="Magic spoon" sell="23" type="weapon" vocation="wizard">
     <attacks hit_attack="1-24" level="6" mana="3"/>
@@ -2141,6 +2931,9 @@
       <monster looktype="2570" name="Slime"/>
       <monster looktype="2569" name="Wolf"/>
     </droppedBy>
+    <soldBy>
+      <shop>Wizard Zoran (156 gp) [31945,31983,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6419" name="Magma axe" sell="223" type="weapon" vocation="warrior">
     <attacks fire_attack="25-100" hit_attack="1-35" level="74"/>
@@ -2182,6 +2975,19 @@
       <monster looktype="6918" name="Wisperfire"/>
       <monster looktype="6917" name="Wisperice"/>
     </droppedBy>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (820 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (820 gp) [31904,31823,7]</shop>
+      <shop>Castle Rock Potions (820 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (820 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (820 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (820 gp) [32280,32205,7]</shop>
+      <shop>Melbano Potions (820 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (820 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (820 gp) [31987,32082,7]</shop>
+      <shop>Rur's Tazmania (1050 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (820 gp) [31968,32254,13]</shop>
+    </soldBy>
   </item>
   <item looktype="5571" name="Major mana potion" type="potion">
     <consumable mp="900"/>
@@ -2195,6 +3001,19 @@
       <monster looktype="6918" name="Wisperfire"/>
       <monster looktype="6917" name="Wisperice"/>
     </droppedBy>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (560 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (560 gp) [31904,31823,7]</shop>
+      <shop>Castle Rock Potions (560 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (560 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (560 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (560 gp) [32280,32205,7]</shop>
+      <shop>Melbano Potions (560 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (560 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (560 gp) [31987,32082,7]</shop>
+      <shop>Rur's Tazmania (750 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (560 gp) [31968,32254,13]</shop>
+    </soldBy>
   </item>
   <item looktype="5578" name="Major might potion" type="potion">
     <consumable hp="1000" mp="900"/>
@@ -2203,6 +3022,12 @@
       <monster looktype="6401" name="Chaombie"/>
       <monster looktype="6401" name="Chaomby"/>
     </droppedBy>
+  </item>
+  <item looktype="6440" name="Mana banana" sell="69" type="potion">
+    <consumable hp="350" mp="400"/>
+    <questReward>
+      <quest>NPC Shadows</quest>
+    </questReward>
   </item>
   <item looktype="5574" name="Mana potion" sell="100" type="potion">
     <consumable mp="600"/>
@@ -2223,6 +3048,10 @@
       <monster looktype="5123" name="Rottummy"/>
       <monster looktype="5121" name="Skelenary"/>
     </droppedBy>
+    <soldBy>
+      <shop>Essential Supplies (400 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (260 gp) [31957,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5467" name="Master amulet" sell="57" type="chain">
     <defences hit_def="12" level="61"/>
@@ -2259,6 +3088,12 @@
       <monster looktype="2567" name="Spider"/>
     </droppedBy>
   </item>
+  <item looktype="5420" name="Mercenary armour" sell="47" type="armour" vocation="warrior">
+    <defences hit_def="7" level="11"/>
+    <soldBy>
+      <shop>Sam's Armoury (220 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="5422" name="Mercenary helmet" sell="28" type="helmet" vocation="warrior">
     <defences hit_def="4" level="10"/>
     <droppedBy>
@@ -2266,12 +3101,28 @@
       <monster looktype="2566" name="Lizarogue"/>
       <monster looktype="2566" name="Lizazzin"/>
     </droppedBy>
+    <soldBy>
+      <shop>Sam's Armoury (140 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5423" name="Mercenary shield" sell="31" type="shield" vocation="warrior">
+    <defences hit_def="4" level="12"/>
+    <soldBy>
+      <shop>Sam's Armoury (160 gp) [31954,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6539" name="Meteor Mace" type="weapon" vocation="warrior">
     <attacks fire_attack="14-161" level="74"/>
     <droppedBy>
       <monster isBoss="true" looktype="0" name="Ghoranus"/>
     </droppedBy>
+  </item>
+  <item looktype="2600" name="Milk" sell="5" type="potion">
+    <consumable mp="50"/>
+    <soldBy>
+      <shop>Essential Supplies (20 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (15 gp) [31957,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6529" name="Mind crusher" sell="36" type="weapon" vocation="warrior">
     <attacks holy_attack="4-67" level="30"/>
@@ -2303,6 +3154,10 @@
       <monster isBoss="true" looktype="5889" name="The Frog"/>
       <monster looktype="2569" name="Wolf"/>
     </droppedBy>
+    <soldBy>
+      <shop>Essential Supplies (95 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (65 gp) [31957,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="2584" name="Minor mana potion" sell="16" type="potion">
     <consumable mp="150"/>
@@ -2328,6 +3183,10 @@
       <monster looktype="2569" name="Wolf"/>
       <monster looktype="5377" name="Zompforp"/>
     </droppedBy>
+    <soldBy>
+      <shop>Essential Supplies (65 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (45 gp) [31957,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5690" name="Miracle Drink" sell="50" type="potion">
     <consumable hp="5000" mp="5000"/>
@@ -2348,11 +3207,23 @@
       <monster looktype="5895" name="Goldminer"/>
     </droppedBy>
   </item>
+  <item looktype="2586" name="Miraculous Cure" type="none">
+    <questReward>
+      <quest>NPC Golzan</quest>
+      <quest>NPC Sinew</quest>
+    </questReward>
+  </item>
   <item looktype="6556" name="Mithril amulet" sell="47" type="chain">
     <defences energy_def="7" hit_def="6" level="32"/>
     <droppedBy>
       <monster looktype="6401" name="Farmzombie"/>
     </droppedBy>
+  </item>
+  <item looktype="6551" name="Mithril defender" sell="36" type="shield" vocation="warrior">
+    <defences energy_def="8" hit_def="8" level="31"/>
+    <soldBy>
+      <shop>Meepo Yabura (328 gp) [32051,32295,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6549" name="Mithril helmet" sell="36" type="helmet" vocation="warrior">
     <defences energy_def="8" hit_def="7" level="27"/>
@@ -2392,6 +3263,18 @@
       <monster isBoss="true" looktype="0" name="GM-Doro"/>
     </droppedBy>
   </item>
+  <item looktype="8470" name="Mutabour Reaper" type="weapon" vocation="warrior">
+    <attacks energy_attack="81-319" level="139"/>
+    <questReward>
+      <quest>NPC Sidna</quest>
+    </questReward>
+  </item>
+  <item looktype="8471" name="Mutabour Scepter" type="weapon" vocation="wizard">
+    <attacks energy_attack="91-379" level="139" mana="33"/>
+    <questReward>
+      <quest>NPC Sidna</quest>
+    </questReward>
+  </item>
   <item looktype="6519" name="Mutilator" type="weapon" vocation="warrior">
     <attacks hit_attack="20-205" level="99"/>
     <droppedBy>
@@ -2407,11 +3290,29 @@
       <monster isBoss="true" looktype="5378" name="Gryllo"/>
     </droppedBy>
   </item>
+  <item looktype="5473" name="Night pants" sell="12" type="legs" vocation="wizard">
+    <defences hit_def="8" level="17"/>
+    <questReward>
+      <quest>NPC Roberth</quest>
+    </questReward>
+  </item>
+  <item looktype="5472" name="Night shirt" sell="63" type="armour" vocation="wizard">
+    <defences fire_def="13" hit_def="13" level="18"/>
+    <soldBy>
+      <shop>Sam's Armoury (350 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="6467" name="Ninja ring" sell="50" type="ring">
     <defences hit_def="5" ice_def="15" level="56"/>
     <droppedBy>
       <monster looktype="5388" name="Ninjana"/>
     </droppedBy>
+  </item>
+  <item looktype="5428" name="Nivalian necklace" sell="14" type="chain">
+    <defences energy_def="4" hit_def="4" level="16"/>
+    <questReward>
+      <quest>NPC Maja</quest>
+    </questReward>
   </item>
   <item looktype="5429" name="Nivalian ring" sell="14" type="ring">
     <defences hit_def="5" ice_def="5" level="15"/>
@@ -2463,6 +3364,9 @@
       <monster looktype="5130" name="Cultix"/>
       <monster looktype="5385" name="Skonkey"/>
     </droppedBy>
+    <soldBy>
+      <shop>Mine Shop (2250 gp) [31891,31968,8]</shop>
+    </soldBy>
   </item>
   <item looktype="6460" name="Orange belt" sell="34" type="legs" vocation="wizard">
     <defences energy_def="10" hit_def="7" level="22"/>
@@ -2496,6 +3400,11 @@
     </containedIn>
   </item>
   <item looktype="5280" name="Outfit Scroll" type="addoutfit">
+    <questReward>
+      <quest>NPC Hallow</quest>
+    </questReward>
+  </item>
+  <item looktype="5280" name="Outfit Scroll" type="addoutfit">
     <containedIn>
       <container>Christmas Gift</container>
     </containedIn>
@@ -2509,6 +3418,41 @@
     <droppedBy>
       <monster isBoss="true" looktype="6913" name="Bugs of 2025"/>
     </droppedBy>
+  </item>
+  <item looktype="2590" name="Parchment to Ratovir" type="scroll">
+    <questReward>
+      <quest>NPC Rick</quest>
+    </questReward>
+  </item>
+  <item looktype="2586" name="Pet balm sealed" sell="30" type="petpotion">
+    <soldBy>
+      <shop>Pets Arinar (200 gp) [32142,32073,7]</shop>
+      <shop>Whizpets (200 gp) [31946,32024,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="2586" name="Pet cure sealed" sell="40" type="petpotion">
+    <soldBy>
+      <shop>Pets Arinar (550 gp) [32142,32073,7]</shop>
+      <shop>Whizpets (550 gp) [31946,32024,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="2586" name="Pet elixir sealed" sell="50" type="petpotion">
+    <soldBy>
+      <shop>Pets Arinar (1100 gp) [32142,32073,7]</shop>
+      <shop>Whizpets (1100 gp) [31946,32024,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="2586" name="Pet salve sealed" sell="20" type="petpotion">
+    <soldBy>
+      <shop>Essential Supplies (90 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (90 gp) [31957,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="2586" name="Pet salve sealed" sell="20" type="petpotion">
+    <soldBy>
+      <shop>Pets Arinar (90 gp) [32142,32073,7]</shop>
+      <shop>Whizpets (90 gp) [31946,32024,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5502" name="Phoenix breastplate" sell="2000" type="armour" vocation="warrior">
     <defences fire_def="30" level="65"/>
@@ -2532,6 +3476,22 @@
       <container>Dungeon Bag - Orthoma</container>
     </containedIn>
   </item>
+  <item looktype="5280" name="Phoenix Pet" type="addpet">
+    <questReward>
+      <quest>NPC Asmund</quest>
+    </questReward>
+  </item>
+  <item looktype="5147" name="Phoenix stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (500 gp) [31942,32020,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="6402" name="Pickaxe" sell="13" type="pickaxe">
+    <soldBy>
+      <shop>Mine Shop (50 gp) [31891,31968,8]</shop>
+      <shop>Orcish Goods (50 gp) [31982,31863,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="5670" name="Piece of Ethereal Shards" sell="2000" type="none">
     <droppedBy>
       <monster isBoss="true" looktype="0" name="Myst"/>
@@ -2545,6 +3505,9 @@
   </item>
   <item looktype="8468" name="Piece of Pizza" sell="45" type="potion">
     <consumable hp="350" mp="350"/>
+    <questReward>
+      <quest>NPC Shadows</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Dragon Rutting</container>
       <container>Bag of Valentine's Day</container>
@@ -2555,6 +3518,25 @@
     <droppedBy>
       <monster looktype="6148" name="Capitain"/>
     </droppedBy>
+  </item>
+  <item looktype="5173" name="Plate armour" sell="163" type="armour" vocation="warrior">
+    <defences hit_def="35" level="75"/>
+    <soldBy>
+      <shop>Sam's Armoury (856 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5277" name="Poor feed" sell="10" type="petfeed">
+    <soldBy>
+      <shop>Buzz Potions (30 gp) [31904,31823,7]</shop>
+      <shop>Colossea Potions (30 gp) [32067,32135,7]</shop>
+      <shop>Essential Supplies (30 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (30 gp) [31957,31984,7]</shop>
+      <shop>Melbano Potions (30 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (30 gp) [32008,32456,7]</shop>
+      <shop>Pets Arinar (30 gp) [32142,32073,7]</shop>
+      <shop>Rur's Tazmania (30 gp) [32496,32505,7]</shop>
+      <shop>Whizpets (30 gp) [31946,32024,7]</shop>
+    </soldBy>
   </item>
   <item looktype="2582" name="Power amulet" sell="56" type="chain">
     <defences hit_def="20" level="79"/>
@@ -2573,6 +3555,9 @@
       <monster looktype="5122" name="Orc"/>
       <monster looktype="5122" name="Orc Raider"/>
     </droppedBy>
+    <soldBy>
+      <shop>Sam's Armoury (160 gp) [31954,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5182" name="Priest ring" sell="29" type="ring">
     <defences holy_def="5" level="15"/>
@@ -2580,6 +3565,9 @@
       <monster looktype="2572" name="Bear"/>
       <monster looktype="2572" name="Rabid Bear"/>
     </droppedBy>
+    <soldBy>
+      <shop>Sam's Armoury (160 gp) [31954,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="2602" name="Pumpkin" sell="5" type="potion">
     <consumable hp="50" mp="50"/>
@@ -2592,17 +3580,44 @@
     <droppedBy>
       <monster isBoss="true" looktype="0" name="Nekrion"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Suqueiro</quest>
+    </questReward>
   </item>
   <item looktype="2602" name="Pumpkin of Halloween" sell="500" type="none">
     <droppedBy>
       <monster isBoss="true" looktype="5125" name="Morgana Witch"/>
     </droppedBy>
   </item>
+  <item looktype="5599" name="Purificator" type="weapon" vocation="warrior">
+    <attacks energy_attack="25-223" holy_attack="25-223" level="129"/>
+    <questReward>
+      <quest>NPC Eldyr</quest>
+    </questReward>
+  </item>
   <item looktype="5259" name="Purple dragon egg" type="egg">
     <consumable hp="50" mp="50"/>
     <droppedBy>
       <monster looktype="8452" name="Eggosaurus"/>
     </droppedBy>
+  </item>
+  <item looktype="6527" name="Raging thunder" type="weapon" vocation="wizard">
+    <attacks energy_attack="70-281" level="119" mana="28"/>
+    <questReward>
+      <quest>NPC Ceara</quest>
+    </questReward>
+  </item>
+  <item looktype="5593" name="Reaper of worlds" type="weapon" vocation="warrior">
+    <attacks fire_attack="25-223" ice_attack="25-223" level="129"/>
+    <questReward>
+      <quest>NPC Elder</quest>
+    </questReward>
+  </item>
+  <item looktype="6541" name="Reapers claw" type="weapon" vocation="warrior">
+    <attacks hit_attack="45-225" level="119"/>
+    <questReward>
+      <quest>NPC Ceara</quest>
+    </questReward>
   </item>
   <item looktype="2587" name="Red defroster" type="none">
     <droppedBy>
@@ -2622,6 +3637,11 @@
       <container>Dungeon Bag - Orthoma</container>
       <container>Especial Bag of Halloween</container>
     </containedIn>
+  </item>
+  <item looktype="5315" name="Relic of Power" sell="10000" type="none">
+    <questReward>
+      <quest>NPC Rodrigo</quest>
+    </questReward>
   </item>
   <item looktype="2599" name="Ritual Candle" type="none">
     <droppedBy>
@@ -2654,6 +3674,12 @@
       <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
+  <item looktype="2575" name="Round shield" sell="108" type="shield" vocation="warrior">
+    <defences hit_def="17" level="66"/>
+    <soldBy>
+      <shop>Sam's Armoury (612 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="6437" name="Royal neck cooler" sell="64" type="chain">
     <defences fire_def="25" hit_def="5" level="79"/>
     <droppedBy>
@@ -2672,6 +3698,9 @@
       <monster looktype="5122" name="Orc Leader"/>
       <monster looktype="5122" name="Orc Raider"/>
     </droppedBy>
+    <soldBy>
+      <shop>Mine Shop (2250 gp) [31891,31968,8]</shop>
+    </soldBy>
   </item>
   <item looktype="5169" name="Ruby ring" sell="58" type="ring">
     <defences fire_def="15" level="56"/>
@@ -2754,8 +3783,17 @@
       <monster looktype="6405" name="Shogun"/>
     </droppedBy>
   </item>
+  <item looktype="5532" name="Sanctification cloak" type="armour" vocation="wizard">
+    <defences energy_def="21" holy_def="43" level="79"/>
+    <questReward>
+      <quest>NPC Dugysoul</quest>
+    </questReward>
+  </item>
   <item looktype="5534" name="Sanctification hood" type="helmet" vocation="wizard">
     <defences energy_def="13" holy_def="27" level="79"/>
+    <questReward>
+      <quest>NPC Dugysoul</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Gorgoros</container>
       <container>Bag of Orthoma</container>
@@ -2763,6 +3801,9 @@
   </item>
   <item looktype="5533" name="Sanctification legs" type="legs" vocation="wizard">
     <defences energy_def="16" holy_def="32" level="79"/>
+    <questReward>
+      <quest>NPC Dugysoul</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Gorgoros</container>
       <container>Bag of Orthoma</container>
@@ -2777,6 +3818,9 @@
   </item>
   <item looktype="5535" name="Sanctification ward" type="shield" vocation="wizard">
     <defences energy_def="13" holy_def="27" level="79"/>
+    <questReward>
+      <quest>NPC Dugysoul</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum</container>
       <container>Bag of Coliseum Master</container>
@@ -2796,6 +3840,9 @@
       <monster looktype="5379" name="Smeliot"/>
       <monster looktype="5379" name="Yeti"/>
     </droppedBy>
+    <soldBy>
+      <shop>Mine Shop (2250 gp) [31891,31968,8]</shop>
+    </soldBy>
   </item>
   <item looktype="6515" name="Scepter of damn" type="weapon" vocation="wizard">
     <attacks hit_attack="4-34" holy_attack="75-215" level="111" mana="25"/>
@@ -2818,10 +3865,31 @@
       <container>Bag of Coliseum</container>
     </containedIn>
   </item>
+  <item looktype="5280" name="Scorpion Pet" type="addpet">
+    <soldBy>
+      <shop>Wharpets (30000 gp) [31947,32019,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5144" name="Scorpion stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5589" name="Searing inferno" type="weapon" vocation="warrior">
+    <attacks fire_attack="44-225" level="119"/>
+    <questReward>
+      <quest>NPC Ceara</quest>
+    </questReward>
+  </item>
   <item looktype="5558" name="Shadow mask" sell="550" type="mask">
     <containedIn>
       <container>Bag of Halloween</container>
     </containedIn>
+  </item>
+  <item looktype="2569" name="Shadow stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5250" name="Shadow's Bones" type="none">
     <droppedBy>
@@ -2895,6 +3963,17 @@
       <monster looktype="5635" name="Minotaur"/>
       <monster looktype="5640" name="Shadow"/>
     </droppedBy>
+    <soldBy>
+      <shop>Ghulmor Others (532 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (532 gp) [31985,31990,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5131" name="Shock halberd" sell="28" type="weapon" vocation="warrior">
+    <attacks energy_attack="1-38" hit_attack="1-10" level="21"/>
+    <soldBy>
+      <shop>Ghulmor Others (615 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (615 gp) [31985,31990,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6454" name="Shogun armour" sell="53" type="armour" vocation="warrior">
     <defences energy_def="10" hit_def="20" level="39"/>
@@ -2932,6 +4011,12 @@
       <monster looktype="2569" name="Wolf"/>
     </droppedBy>
   </item>
+  <item looktype="2589" name="Shovel" sell="13" type="shovel">
+    <soldBy>
+      <shop>Mine Shop (50 gp) [31891,31968,8]</shop>
+      <shop>Orcish Goods (50 gp) [31982,31863,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="6450" name="Shuriken" sell="13" type="weapon" vocation="wizard">
     <attacks hit_attack="1-28" holy_attack="1-20" level="14" mana="5"/>
     <droppedBy>
@@ -2963,12 +4048,33 @@
       <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
+  <item looktype="5148" name="Skelpirate stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="5248" name="Skull ring" sell="78" type="ring">
     <defences fire_def="10" hit_def="10" ice_def="10" level="34"/>
     <droppedBy>
       <monster looktype="5385" name="Cleptoman"/>
       <monster looktype="5385" name="Skonkey"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Golzan</quest>
+    </questReward>
+  </item>
+  <item looktype="5294" name="Skullcleaver" type="weapon" vocation="warrior">
+    <attacks hit_attack="61-320" level="149"/>
+    <questReward>
+      <quest>NPC Rodiney</quest>
+    </questReward>
+  </item>
+  <item looktype="6470" name="Skylighter" sell="10" type="weapon" vocation="warrior">
+    <attacks energy_attack="1-34" level="15"/>
+    <soldBy>
+      <shop>Ghulmor Others (215 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (215 gp) [31985,31990,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5558" name="Slime mask" sell="550" type="mask">
     <droppedBy>
@@ -2978,6 +4084,11 @@
       <monster isBoss="true" looktype="5642" name="VoltHound"/>
       <monster isBoss="true" looktype="6660" name="Warer"/>
     </droppedBy>
+  </item>
+  <item looktype="8485" name="Slot Machine Token" sell="20" type="script">
+    <soldBy>
+      <shop>Aurea Games (150 gp) [31973,31999,8]</shop>
+    </soldBy>
   </item>
   <item looktype="5464" name="Small Dungeon Ring" type="ring">
     <containedIn>
@@ -3058,6 +4169,10 @@
       <monster looktype="5130" name="Wudu"/>
       <monster looktype="5379" name="Yeti"/>
     </droppedBy>
+    <soldBy>
+      <shop>Essential Supplies (360 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (250 gp) [31957,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5569" name="Small mana potion" sell="68" type="potion">
     <consumable mp="450"/>
@@ -3134,6 +4249,10 @@
       <monster looktype="5130" name="Wudu"/>
       <monster looktype="5379" name="Yeti"/>
     </droppedBy>
+    <soldBy>
+      <shop>Essential Supplies (270 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (180 gp) [31957,31984,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5558" name="Snake mask" sell="550" type="mask">
     <droppedBy>
@@ -3144,11 +4263,20 @@
       <monster isBoss="true" looktype="6660" name="Warer"/>
     </droppedBy>
   </item>
+  <item looktype="5591" name="Solar flare" type="weapon" vocation="wizard">
+    <attacks fire_attack="70-281" level="119" mana="28"/>
+    <questReward>
+      <quest>NPC Ceara</quest>
+    </questReward>
+  </item>
   <item looktype="5141" name="Soul rod" sell="38" type="weapon" vocation="wizard">
     <attacks holy_attack="1-90" level="31" mana="9"/>
     <droppedBy>
       <monster looktype="5380" name="Banthera"/>
     </droppedBy>
+    <soldBy>
+      <shop>Sacred Yabura (440 gp) [31977,32223,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5261" name="Soulcleaver" sell="55" type="weapon" vocation="warrior">
     <attacks hit_attack="12-26" holy_attack="10-70" level="50"/>
@@ -3186,12 +4314,68 @@
     <droppedBy>
       <monster looktype="5121" name="Skeleton"/>
     </droppedBy>
+    <soldBy>
+      <shop>Ghulmor Others (216 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (216 gp) [31985,31990,7]</shop>
+      <shop>Wizard Zoran (276 gp) [31945,31983,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6525" name="Sparking plug" sell="85" type="weapon" vocation="wizard">
     <attacks energy_attack="1-89" level="29" mana="9"/>
     <droppedBy>
       <monster looktype="6403" name="Ninjaman"/>
     </droppedBy>
+  </item>
+  <item looktype="2608" name="Spell book" sell="4" type="book">
+    <soldBy>
+      <shop>Essential Supplies (15 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (15 gp) [31957,31984,7]</shop>
+      <shop>Lisa's Tome Store (15 gp) [31962,32017,8]</shop>
+    </soldBy>
+  </item>
+  <item looktype="6420" name="Spell book" sell="4" type="book">
+    <soldBy>
+      <shop>Essential Supplies (15 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (15 gp) [31957,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="6421" name="Spell book" sell="4" type="book">
+    <soldBy>
+      <shop>Essential Supplies (15 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (15 gp) [31957,31984,7]</shop>
+      <shop>Lisa's Tome Store (15 gp) [31962,32017,8]</shop>
+    </soldBy>
+  </item>
+  <item looktype="6422" name="Spell book" sell="4" type="book">
+    <soldBy>
+      <shop>Essential Supplies (15 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (15 gp) [31957,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="6425" name="Spell book" sell="4" type="book">
+    <soldBy>
+      <shop>Lisa's Tome Store (15 gp) [31962,32017,8]</shop>
+    </soldBy>
+  </item>
+  <item looktype="6427" name="Spell book" sell="4" type="book">
+    <soldBy>
+      <shop>Lisa's Tome Store (15 gp) [31962,32017,8]</shop>
+    </soldBy>
+  </item>
+  <item looktype="8455" name="Spell book" sell="4" type="book">
+    <soldBy>
+      <shop>Lisa's Tome Store (15 gp) [31962,32017,8]</shop>
+    </soldBy>
+  </item>
+  <item looktype="8456" name="Spell book" sell="4" type="book">
+    <soldBy>
+      <shop>Lisa's Tome Store (15 gp) [31962,32017,8]</shop>
+    </soldBy>
+  </item>
+  <item looktype="8481" name="Spell book" sell="4" type="book">
+    <soldBy>
+      <shop>Lisa's Tome Store (30 gp) [31962,32017,8]</shop>
+    </soldBy>
   </item>
   <item looktype="8487" name="Spell book" sell="4" type="book">
     <containedIn>
@@ -3206,6 +4390,29 @@
       <monster looktype="2566" name="Lizarogue"/>
       <monster looktype="2566" name="Lizazzin"/>
     </droppedBy>
+    <soldBy>
+      <shop>Sam's Armoury (140 gp) [31954,31984,7]</shop>
+    </soldBy>
+    <questReward>
+      <quest>NPC Bamfred</quest>
+    </questReward>
+  </item>
+  <item looktype="5476" name="Spell student shield" sell="31" type="shield" vocation="wizard">
+    <defences hit_def="5" level="12"/>
+    <soldBy>
+      <shop>Sam's Armoury (160 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5383" name="Spell student shirt" sell="47" type="armour" vocation="wizard">
+    <defences hit_def="8" level="11"/>
+    <soldBy>
+      <shop>Sam's Armoury (220 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5280" name="Spells 139" type="none">
+    <questReward>
+      <quest>NPC Patolino</quest>
+    </questReward>
   </item>
   <item looktype="5394" name="Spellwielder hat" sell="32" type="helmet" vocation="wizard">
     <defences hit_def="10" level="25"/>
@@ -3235,6 +4442,36 @@
       <monster looktype="2567" name="Gigantula"/>
     </droppedBy>
   </item>
+  <item looktype="5698" name="Spirit health potion" sell="300" type="potion">
+    <consumable hp="4800"/>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (1950 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (1950 gp) [31904,31823,7]</shop>
+      <shop>Castle Rock Potions (1950 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (1950 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (1950 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (1950 gp) [32280,32205,7]</shop>
+      <shop>Melbano Potions (1950 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (1950 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (1950 gp) [31987,32082,7]</shop>
+      <shop>Underground Potions (1950 gp) [31968,32254,13]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5700" name="Spirit mana potion" sell="200" type="potion">
+    <consumable mp="3600"/>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (1500 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (1500 gp) [31904,31823,7]</shop>
+      <shop>Castle Rock Potions (1500 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (1500 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (1500 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (1500 gp) [32280,32205,7]</shop>
+      <shop>Melbano Potions (1500 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (1500 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (1500 gp) [31987,32082,7]</shop>
+      <shop>Underground Potions (1500 gp) [31968,32254,13]</shop>
+    </soldBy>
+  </item>
   <item looktype="5699" name="Spirit might potion" sell="400" type="potion">
     <consumable hp="4800" mp="3600"/>
     <droppedBy>
@@ -3255,6 +4492,12 @@
       <monster looktype="6412" name="Fouldrake"/>
       <monster isBoss="true" looktype="0" name="Kul'Krak'u"/>
     </droppedBy>
+  </item>
+  <item looktype="5300" name="Spiritslayer" type="weapon" vocation="warrior">
+    <attacks holy_attack="61-320" level="149"/>
+    <questReward>
+      <quest>NPC Rodiney</quest>
+    </questReward>
   </item>
   <item looktype="5183" name="Spiritual amulet" sell="33" type="chain">
     <defences holy_def="10" level="49"/>
@@ -3289,6 +4532,12 @@
     <droppedBy>
       <monster looktype="2569" name="Werewolf"/>
     </droppedBy>
+  </item>
+  <item looktype="5225" name="Staff of forgetting" sell="35" type="weapon" vocation="wizard">
+    <attacks holy_attack="1-28" level="8" mana="2"/>
+    <soldBy>
+      <shop>Wizard Zoran (236 gp) [31945,31983,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6522" name="Staff of pain" type="weapon" vocation="wizard">
     <attacks hit_attack="60-233" level="99" mana="23"/>
@@ -3352,6 +4601,27 @@
       <monster looktype="5638" name="Dragon"/>
     </droppedBy>
   </item>
+  <item looktype="5415" name="Sworder armour" sell="23" type="armour" vocation="warrior">
+    <defences hit_def="5" level="6"/>
+    <soldBy>
+      <shop>Sam's Armoury (156 gp) [31954,31984,7]</shop>
+    </soldBy>
+    <questReward>
+      <quest>NPC Lupy</quest>
+    </questReward>
+  </item>
+  <item looktype="5417" name="Sworder helmet" sell="11" type="helmet" vocation="warrior">
+    <defences hit_def="3" level="5"/>
+    <soldBy>
+      <shop>Sam's Armoury (72 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5416" name="Sworder legs" sell="10" type="legs" vocation="warrior">
+    <defences hit_def="3" level="4"/>
+    <soldBy>
+      <shop>Sam's Armoury (68 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="6405" name="Syorta ore" type="none">
     <droppedBy>
       <monster looktype="5635" name="Minorrior"/>
@@ -3371,6 +4641,18 @@
       <container>Bag of Ghulmor</container>
       <container>Bag of Lucifero</container>
     </containedIn>
+  </item>
+  <item looktype="5280" name="Teleport to Town" sell="100" type="script">
+    <soldBy>
+      <shop>Ghulmor Others (20000 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (20000 gp) [31985,31990,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5586" name="Tempest blade" type="weapon" vocation="warrior">
+    <attacks energy_attack="45-225" level="119"/>
+    <questReward>
+      <quest>NPC Ceara</quest>
+    </questReward>
   </item>
   <item looktype="5544" name="Tempest cape" sell="2000" type="armour" vocation="wizard">
     <defences energy_def="35" level="65"/>
@@ -3422,6 +4704,12 @@
       <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
+  <item looktype="5302" name="Thunderstorm" type="weapon" vocation="warrior">
+    <attacks energy_attack="61-320" level="149"/>
+    <questReward>
+      <quest>NPC Rodiney</quest>
+    </questReward>
+  </item>
   <item looktype="5247" name="Tide evoker" sell="45" type="weapon" vocation="wizard">
     <attacks energy_attack="1-25" ice_attack="1-120" level="49" mana="13"/>
     <droppedBy>
@@ -3436,6 +4724,9 @@
   </item>
   <item looktype="5547" name="To-maga aegis" type="shield" vocation="wizard">
     <defences energy_def="27" ice_def="13" level="79"/>
+    <questReward>
+      <quest>NPC Dug</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum</container>
       <container>Bag of Coliseum Master</container>
@@ -3444,8 +4735,29 @@
       <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
+  <item looktype="5544" name="To-maga cape" type="armour" vocation="wizard">
+    <defences energy_def="43" ice_def="21" level="79"/>
+    <questReward>
+      <quest>NPC Dug</quest>
+    </questReward>
+  </item>
+  <item looktype="5546" name="To-maga hood" type="helmet" vocation="wizard">
+    <defences energy_def="27" ice_def="13" level="79"/>
+    <questReward>
+      <quest>NPC Dug</quest>
+    </questReward>
+  </item>
+  <item looktype="5545" name="To-maga trousers" type="legs" vocation="wizard">
+    <defences energy_def="32" ice_def="16" level="79"/>
+    <questReward>
+      <quest>NPC Dug</quest>
+    </questReward>
+  </item>
   <item looktype="5541" name="To-sabaki deflector" type="shield" vocation="warrior">
     <defences energy_def="21" ice_def="10" level="79"/>
+    <questReward>
+      <quest>NPC Dug</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Coliseum</container>
       <container>Bag of Coliseum Master</container>
@@ -3453,6 +4765,24 @@
       <container>Bag of Valentine's Day Master</container>
       <container>Especial Bag of Halloween</container>
     </containedIn>
+  </item>
+  <item looktype="5539" name="To-sabaki greaves" type="legs" vocation="warrior">
+    <defences energy_def="27" ice_def="13" level="79"/>
+    <questReward>
+      <quest>NPC Dug</quest>
+    </questReward>
+  </item>
+  <item looktype="5538" name="To-sabaki harness" type="armour" vocation="warrior">
+    <defences energy_def="37" ice_def="18" level="79"/>
+    <questReward>
+      <quest>NPC Dug</quest>
+    </questReward>
+  </item>
+  <item looktype="5540" name="To-sabaki helm" type="helmet" vocation="warrior">
+    <defences energy_def="21" ice_def="10" level="79"/>
+    <questReward>
+      <quest>NPC Dug</quest>
+    </questReward>
   </item>
   <item looktype="5542" name="To-sabaki Ring" sell="77" type="ring">
     <defences energy_def="22" ice_def="7" level="79"/>
@@ -3478,11 +4808,20 @@
       <monster looktype="6407" name="Long"/>
       <monster looktype="2570" name="Ooze"/>
     </droppedBy>
+    <soldBy>
+      <shop>Mine Shop (2250 gp) [31891,31968,8]</shop>
+    </soldBy>
   </item>
   <item looktype="5558" name="Treant mask" sell="550" type="mask">
     <droppedBy>
       <monster isBoss="true" looktype="6915" name="AcidWorm"/>
     </droppedBy>
+  </item>
+  <item looktype="5134" name="Troll cleaver" sell="44" type="weapon" vocation="warrior">
+    <attacks fire_attack="1-50" hit_attack="1-15" level="29"/>
+    <soldBy>
+      <shop>Sacred Yabura (420 gp) [31977,32223,7]</shop>
+    </soldBy>
   </item>
   <item looktype="6584" name="Twinkling emerald" type="none">
     <droppedBy>
@@ -3503,7 +4842,6 @@
       <monster looktype="5382" name="Frost Bear"/>
       <monster looktype="5379" name="Frostily"/>
       <monster looktype="5382" name="Icy Bear"/>
-      <monster looktype="5382" name="Polar Bear"/>
       <monster looktype="5383" name="Sabrerus"/>
       <monster looktype="5379" name="Smeliot"/>
       <monster looktype="5383" name="Walrull"/>
@@ -3516,23 +4854,29 @@
       <monster isBoss="true" looktype="5640" name="The Twishade"/>
     </droppedBy>
   </item>
-  <item looktype="5419" name="unknown_ring_heart3" type="none">
-    <droppedBy>
-      <monster looktype="5382" name="Polar Bear"/>
-    </droppedBy>
-  </item>
   <item looktype="5558" name="Vampire mask" sell="550" type="mask">
     <containedIn>
       <container>Bag of Halloween</container>
     </containedIn>
   </item>
   <item looktype="5280" name="Vampire Pet" type="addpet">
+    <questReward>
+      <quest>NPC Hallow</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Halloween</container>
       <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
+  <item looktype="5149" name="Vampire stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="8488" name="Vampirism Vigor" type="egg">
+    <questReward>
+      <quest>NPC Hallow</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Halloween</container>
       <container>Christmas Gift</container>
@@ -3574,6 +4918,10 @@
       <monster looktype="5126" name="Tarmonted"/>
       <monster looktype="5126" name="Tormonted"/>
     </droppedBy>
+    <soldBy>
+      <shop>Ghulmor Others (260 gp) [32269,32201,7]</shop>
+      <shop>Jhon's Others (260 gp) [31985,31990,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5532" name="Warden cloak" sell="2000" type="armour" vocation="wizard">
     <defences holy_def="35" level="65"/>
@@ -3590,6 +4938,12 @@
       <monster isBoss="true" looktype="0" name="The Fouldrake"/>
       <monster isBoss="true" looktype="0" name="The Wisper"/>
     </droppedBy>
+  </item>
+  <item looktype="5490" name="Warrior dress" sell="20" type="armour" vocation="warrior">
+    <defences energy_def="13" hit_def="5" level="22"/>
+    <soldBy>
+      <shop>Sacred Yabura (800 gp) [31977,32223,7]</shop>
+    </soldBy>
   </item>
   <item looktype="2595" name="Warwood" type="none">
     <droppedBy>
@@ -3609,6 +4963,11 @@
       <container>Especial Bag of Halloween</container>
     </containedIn>
   </item>
+  <item looktype="5413" name="Wedding Ring" type="script">
+    <questReward>
+      <quest>NPC Casador</quest>
+    </questReward>
+  </item>
   <item looktype="5231" name="White pearl" sell="55" type="none">
     <droppedBy>
       <monster looktype="6662" name="Elite Borc"/>
@@ -3620,6 +4979,18 @@
       <monster looktype="6662" name="Orc Hunter"/>
       <monster looktype="6663" name="Worc"/>
     </droppedBy>
+  </item>
+  <item looktype="5437" name="Wielder amulet" sell="24" type="chain">
+    <defences hit_def="6" level="28"/>
+    <soldBy>
+      <shop>Meepo Yabura (248 gp) [32051,32295,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5438" name="Wielder ring" sell="34" type="ring">
+    <defences hit_def="8" level="27"/>
+    <soldBy>
+      <shop>Sacred Yabura (256 gp) [31977,32223,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5158" name="Winter legs" sell="78" type="legs" vocation="wizard">
     <defences hit_def="16" ice_def="5" level="57"/>
@@ -3634,6 +5005,12 @@
       <monster isBoss="true" looktype="6915" name="AcidWorm"/>
     </droppedBy>
   </item>
+  <item looktype="2581" name="Wizard's hat" sell="99" type="helmet" vocation="wizard">
+    <defences energy_def="20" level="59"/>
+    <soldBy>
+      <shop>Sam's Armoury (1200 gp) [31954,31984,7]</shop>
+    </soldBy>
+  </item>
   <item looktype="5558" name="Wolf mask" sell="550" type="mask">
     <droppedBy>
       <monster isBoss="true" looktype="6659" name="Creature"/>
@@ -3645,6 +5022,16 @@
     <containedIn>
       <container>Bag of Dragon Rutting</container>
     </containedIn>
+  </item>
+  <item looktype="5280" name="Wolf Pet" type="addpet">
+    <soldBy>
+      <shop>Wharpets (25000 gp) [31947,32019,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="6475" name="Wolf stone" type="spawnpet">
+    <soldBy>
+      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
+    </soldBy>
   </item>
   <item looktype="5254" name="Yellow dragon egg" type="egg">
     <consumable regen="2"/>
