@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<items count="604" generatedAt="2026-02-14T15:32:04.767Z">
+<items count="604" generatedAt="2026-02-14T17:21:26.224Z">
   <item looktype="6495" name="Abominatio's Skin" sell="70" type="none">
     <droppedBy>
       <monster looktype="6659" name="Abominatio"/>
@@ -53,6 +53,30 @@
     <questReward>
       <quest>NPC Rodiney</quest>
     </questReward>
+    <variants>
+      <variant hit_attack="131-596" type="silver"/>
+      <variant hit_attack="131-599" type="silver"/>
+      <variant hit_attack="132-602" type="silver"/>
+      <variant hit_attack="132-605" type="silver"/>
+      <variant hit_attack="133-608" type="silver"/>
+      <variant hit_attack="133-611" type="silver"/>
+      <variant hit_attack="134-614" type="silver"/>
+      <variant hit_attack="134-617" type="silver"/>
+      <variant hit_attack="135-620" type="silver"/>
+      <variant hit_attack="135-623" type="silver"/>
+      <variant hit_attack="136-626" type="silver"/>
+      <variant hit_attack="136-629" type="silver"/>
+      <variant hit_attack="137-632" type="silver"/>
+      <variant hit_attack="138-636" type="blue"/>
+      <variant hit_attack="138-640" type="blue"/>
+      <variant hit_attack="140-644" type="blue"/>
+      <variant hit_attack="140-648" type="blue"/>
+      <variant hit_attack="142-652" type="blue"/>
+      <variant hit_attack="143-657" type="gold"/>
+      <variant hit_attack="143-662" type="gold"/>
+      <variant hit_attack="145-667" type="gold"/>
+      <variant hit_attack="145-672" type="gold"/>
+    </variants>
   </item>
   <item looktype="2573" name="Amulet of earth" sell="56" type="chain">
     <defences energy_def="20" level="79"/>
@@ -106,6 +130,36 @@
     <questReward>
       <quest>NPC Elder</quest>
     </questReward>
+    <variants>
+      <variant fire_attack="45-246" ice_attack="53-289" type="silver"/>
+      <variant fire_attack="46-252" ice_attack="48-262" type="silver"/>
+      <variant fire_attack="48-260" ice_attack="52-281" type="silver"/>
+      <variant fire_attack="48-262" ice_attack="49-268" type="silver"/>
+      <variant fire_attack="48-262" ice_attack="50-273" type="silver"/>
+      <variant fire_attack="48-262" ice_attack="52-284" type="silver"/>
+      <variant fire_attack="49-265" ice_attack="51-276" type="silver"/>
+      <variant fire_attack="49-268" ice_attack="48-262" type="silver"/>
+      <variant fire_attack="49-268" ice_attack="50-273" type="silver"/>
+      <variant fire_attack="50-273" ice_attack="48-262" type="silver"/>
+      <variant fire_attack="50-273" ice_attack="47-257" type="silver"/>
+      <variant fire_attack="50-273" ice_attack="50-271" type="silver"/>
+      <variant fire_attack="51-279" ice_attack="50-271" type="silver"/>
+      <variant fire_attack="52-281" ice_attack="50-271" type="silver"/>
+      <variant fire_attack="53-289" ice_attack="48-260" type="silver"/>
+      <variant fire_attack="51-276" ice_attack="53-287" type="blue"/>
+      <variant fire_attack="51-276" ice_attack="54-292" type="blue"/>
+      <variant fire_attack="51-276" ice_attack="54-295" type="blue"/>
+      <variant fire_attack="52-281" ice_attack="52-281" type="blue"/>
+      <variant fire_attack="53-287" ice_attack="52-284" type="blue"/>
+      <variant fire_attack="53-289" ice_attack="49-268" type="blue"/>
+      <variant fire_attack="53-289" ice_attack="50-273" type="blue"/>
+      <variant fire_attack="55-298" ice_attack="49-268" type="blue"/>
+      <variant fire_attack="54-292" ice_attack="53-289" type="gold"/>
+      <variant fire_attack="54-292" ice_attack="54-292" type="gold"/>
+      <variant fire_attack="55-295" ice_attack="54-290" type="gold"/>
+      <variant fire_attack="56-298" ice_attack="55-292" type="gold"/>
+      <variant fire_attack="57-299" ice_attack="56-295" type="gold"/>
+    </variants>
   </item>
   <item looktype="5382" name="Apprentice bonnet" sell="11" type="helmet" vocation="wizard">
     <defences hit_def="3" level="5"/>
@@ -219,12 +273,74 @@
     <questReward>
       <quest>NPC Eldyrhit</quest>
     </questReward>
+    <variants>
+      <variant hit_attack="18-207" holy_attack="19-216" type="silver"/>
+      <variant hit_attack="19-221" holy_attack="19-225" type="silver"/>
+      <variant hit_attack="19-225" holy_attack="19-223" type="silver"/>
+      <variant hit_attack="22-202" holy_attack="22-202" type="silver"/>
+      <variant hit_attack="22-202" holy_attack="24-216" type="silver"/>
+      <variant hit_attack="23-211" holy_attack="24-214" type="silver"/>
+      <variant hit_attack="24-214" holy_attack="22-200" type="silver"/>
+      <variant hit_attack="24-214" holy_attack="24-220" type="silver"/>
+      <variant hit_attack="24-214" holy_attack="25-223" type="silver"/>
+      <variant hit_attack="24-216" holy_attack="26-238" type="silver"/>
+      <variant hit_attack="24-218" holy_attack="24-218" type="silver"/>
+      <variant hit_attack="24-220" holy_attack="24-218" type="silver"/>
+      <variant hit_attack="24-220" holy_attack="25-225" type="silver"/>
+      <variant hit_attack="25-223" holy_attack="22-202" type="silver"/>
+      <variant hit_attack="25-223" holy_attack="23-211" type="silver"/>
+      <variant hit_attack="26-231" holy_attack="26-231" type="blue"/>
+      <variant hit_attack="26-231" holy_attack="26-238" type="blue"/>
+      <variant hit_attack="26-234" holy_attack="25-223" type="blue"/>
+      <variant hit_attack="26-234" holy_attack="25-225" type="blue"/>
+      <variant hit_attack="26-234" holy_attack="26-238" type="blue"/>
+      <variant hit_attack="27-240" holy_attack="24-220" type="blue"/>
+      <variant hit_attack="27-240" holy_attack="25-227" type="blue"/>
+      <variant hit_attack="27-240" holy_attack="26-234" type="blue"/>
+      <variant hit_attack="27-243" holy_attack="24-220" type="blue"/>
+      <variant hit_attack="27-243" holy_attack="25-225" type="blue"/>
+      <variant hit_attack="26-238" holy_attack="27-240" type="gold"/>
+      <variant hit_attack="27-240" holy_attack="26-238" type="gold"/>
+      <variant hit_attack="27-240" holy_attack="27-240" type="gold"/>
+      <variant hit_attack="27-243" holy_attack="26-238" type="gold"/>
+      <variant hit_attack="27-243" holy_attack="27-243" type="gold"/>
+    </variants>
   </item>
   <item looktype="8480" name="Astral Scepter" type="weapon" vocation="wizard">
     <attacks hit_attack="50-271" holy_attack="50-271" level="129" mana="28"/>
     <questReward>
       <quest>NPC Eldyrhit</quest>
     </questReward>
+    <variants>
+      <variant hit_attack="45-246" holy_attack="53-289" type="silver"/>
+      <variant hit_attack="46-252" holy_attack="48-262" type="silver"/>
+      <variant hit_attack="48-260" holy_attack="52-281" type="silver"/>
+      <variant hit_attack="48-262" holy_attack="49-268" type="silver"/>
+      <variant hit_attack="48-262" holy_attack="50-273" type="silver"/>
+      <variant hit_attack="48-262" holy_attack="52-284" type="silver"/>
+      <variant hit_attack="49-265" holy_attack="51-276" type="silver"/>
+      <variant hit_attack="49-268" holy_attack="48-262" type="silver"/>
+      <variant hit_attack="49-268" holy_attack="50-273" type="silver"/>
+      <variant hit_attack="50-273" holy_attack="48-262" type="silver"/>
+      <variant hit_attack="50-273" holy_attack="47-257" type="silver"/>
+      <variant hit_attack="50-273" holy_attack="50-271" type="silver"/>
+      <variant hit_attack="51-279" holy_attack="50-271" type="silver"/>
+      <variant hit_attack="52-281" holy_attack="50-271" type="silver"/>
+      <variant hit_attack="53-289" holy_attack="48-260" type="silver"/>
+      <variant hit_attack="51-276" holy_attack="53-287" type="blue"/>
+      <variant hit_attack="51-276" holy_attack="54-292" type="blue"/>
+      <variant hit_attack="51-276" holy_attack="54-295" type="blue"/>
+      <variant hit_attack="52-281" holy_attack="52-281" type="blue"/>
+      <variant hit_attack="53-287" holy_attack="52-284" type="blue"/>
+      <variant hit_attack="53-289" holy_attack="49-268" type="blue"/>
+      <variant hit_attack="53-289" holy_attack="50-273" type="blue"/>
+      <variant hit_attack="55-298" holy_attack="49-268" type="blue"/>
+      <variant hit_attack="54-292" holy_attack="53-289" type="gold"/>
+      <variant hit_attack="54-292" holy_attack="54-292" type="gold"/>
+      <variant hit_attack="55-295" holy_attack="54-290" type="gold"/>
+      <variant hit_attack="56-298" holy_attack="55-292" type="gold"/>
+      <variant hit_attack="57-299" holy_attack="56-295" type="gold"/>
+    </variants>
   </item>
   <item looktype="8462" name="Attack Vigor" type="egg">
     <containedIn>
@@ -496,6 +612,30 @@
     <questReward>
       <quest>NPC Ceara</quest>
     </questReward>
+    <variants>
+      <variant holy_attack="63-252" type="silver"/>
+      <variant holy_attack="63-255" type="silver"/>
+      <variant holy_attack="64-258" type="silver"/>
+      <variant holy_attack="65-261" type="silver"/>
+      <variant holy_attack="65-264" type="silver"/>
+      <variant holy_attack="66-266" type="silver"/>
+      <variant holy_attack="67-269" type="silver"/>
+      <variant holy_attack="67-272" type="silver"/>
+      <variant holy_attack="68-275" type="silver"/>
+      <variant holy_attack="69-278" type="silver"/>
+      <variant holy_attack="70-281" type="silver"/>
+      <variant holy_attack="70-283" type="silver"/>
+      <variant holy_attack="71-286" type="silver"/>
+      <variant holy_attack="72-289" type="blue"/>
+      <variant holy_attack="72-292" type="blue"/>
+      <variant holy_attack="73-295" type="blue"/>
+      <variant holy_attack="74-297" type="blue"/>
+      <variant holy_attack="74-300" type="blue"/>
+      <variant holy_attack="75-303" type="gold"/>
+      <variant holy_attack="76-306" type="gold"/>
+      <variant holy_attack="77-309" type="gold"/>
+      <variant holy_attack="77-310" type="gold"/>
+    </variants>
   </item>
   <item looktype="6474" name="Branding stamp" sell="49" type="weapon" vocation="wizard">
     <attacks hit_attack="1-20" ice_attack="1-20" level="12" mana="3"/>
@@ -560,6 +700,36 @@
     <questReward>
       <quest>NPC Eldyr</quest>
     </questReward>
+    <variants>
+      <variant energy_attack="45-246" holy_attack="53-289" type="silver"/>
+      <variant energy_attack="46-252" holy_attack="48-262" type="silver"/>
+      <variant energy_attack="48-260" holy_attack="52-281" type="silver"/>
+      <variant energy_attack="48-262" holy_attack="49-268" type="silver"/>
+      <variant energy_attack="48-262" holy_attack="50-273" type="silver"/>
+      <variant energy_attack="48-262" holy_attack="52-284" type="silver"/>
+      <variant energy_attack="49-265" holy_attack="51-276" type="silver"/>
+      <variant energy_attack="49-268" holy_attack="48-262" type="silver"/>
+      <variant energy_attack="49-268" holy_attack="50-273" type="silver"/>
+      <variant energy_attack="50-273" holy_attack="48-262" type="silver"/>
+      <variant energy_attack="50-273" holy_attack="47-257" type="silver"/>
+      <variant energy_attack="50-273" holy_attack="50-271" type="silver"/>
+      <variant energy_attack="51-279" holy_attack="50-271" type="silver"/>
+      <variant energy_attack="52-281" holy_attack="50-271" type="silver"/>
+      <variant energy_attack="53-289" holy_attack="48-260" type="silver"/>
+      <variant energy_attack="51-276" holy_attack="53-287" type="blue"/>
+      <variant energy_attack="51-276" holy_attack="54-292" type="blue"/>
+      <variant energy_attack="51-276" holy_attack="54-295" type="blue"/>
+      <variant energy_attack="52-281" holy_attack="52-281" type="blue"/>
+      <variant energy_attack="53-287" holy_attack="52-284" type="blue"/>
+      <variant energy_attack="53-289" holy_attack="49-268" type="blue"/>
+      <variant energy_attack="53-289" holy_attack="50-273" type="blue"/>
+      <variant energy_attack="55-298" holy_attack="49-268" type="blue"/>
+      <variant energy_attack="54-292" holy_attack="53-289" type="gold"/>
+      <variant energy_attack="54-292" holy_attack="54-292" type="gold"/>
+      <variant energy_attack="55-295" holy_attack="54-290" type="gold"/>
+      <variant energy_attack="56-298" holy_attack="55-292" type="gold"/>
+      <variant energy_attack="57-299" holy_attack="56-295" type="gold"/>
+    </variants>
   </item>
   <item looktype="6536" name="Cell key" sell="10" type="none">
     <droppedBy>
@@ -648,6 +818,30 @@
     <questReward>
       <quest>NPC Ceara</quest>
     </questReward>
+    <variants>
+      <variant hit_attack="63-252" type="silver"/>
+      <variant hit_attack="63-255" type="silver"/>
+      <variant hit_attack="64-258" type="silver"/>
+      <variant hit_attack="65-261" type="silver"/>
+      <variant hit_attack="65-264" type="silver"/>
+      <variant hit_attack="66-266" type="silver"/>
+      <variant hit_attack="67-269" type="silver"/>
+      <variant hit_attack="67-272" type="silver"/>
+      <variant hit_attack="68-275" type="silver"/>
+      <variant hit_attack="69-278" type="silver"/>
+      <variant hit_attack="70-281" type="silver"/>
+      <variant hit_attack="70-283" type="silver"/>
+      <variant hit_attack="71-286" type="silver"/>
+      <variant hit_attack="72-289" type="blue"/>
+      <variant hit_attack="72-292" type="blue"/>
+      <variant hit_attack="73-295" type="blue"/>
+      <variant hit_attack="74-297" type="blue"/>
+      <variant hit_attack="74-300" type="blue"/>
+      <variant hit_attack="75-303" type="gold"/>
+      <variant hit_attack="76-306" type="gold"/>
+      <variant hit_attack="77-309" type="gold"/>
+      <variant hit_attack="77-310" type="gold"/>
+    </variants>
   </item>
   <item looktype="6516" name="Claymore of damn" type="weapon" vocation="warrior">
     <attacks hit_attack="2-20" holy_attack="70-160" level="111"/>
@@ -937,6 +1131,30 @@
     <questReward>
       <quest>NPC Ceara</quest>
     </questReward>
+    <variants>
+      <variant ice_attack="40-202" type="silver"/>
+      <variant ice_attack="40-204" type="silver"/>
+      <variant ice_attack="41-207" type="silver"/>
+      <variant ice_attack="41-209" type="silver"/>
+      <variant ice_attack="42-211" type="silver"/>
+      <variant ice_attack="42-213" type="silver"/>
+      <variant ice_attack="43-216" type="silver"/>
+      <variant ice_attack="43-218" type="silver"/>
+      <variant ice_attack="44-220" type="silver"/>
+      <variant ice_attack="44-222" type="silver"/>
+      <variant ice_attack="45-225" type="silver"/>
+      <variant ice_attack="45-227" type="silver"/>
+      <variant ice_attack="45-229" type="silver"/>
+      <variant ice_attack="46-231" type="blue"/>
+      <variant ice_attack="46-234" type="blue"/>
+      <variant ice_attack="47-236" type="blue"/>
+      <variant ice_attack="47-238" type="blue"/>
+      <variant ice_attack="48-240" type="blue"/>
+      <variant ice_attack="48-243" type="gold"/>
+      <variant ice_attack="49-245" type="gold"/>
+      <variant ice_attack="49-247" type="gold"/>
+      <variant ice_attack="50-248" type="gold"/>
+    </variants>
   </item>
   <item looktype="5522" name="Deepfrozen hood" type="helmet" vocation="wizard">
     <defences hit_def="13" ice_def="27" level="79"/>
@@ -1034,6 +1252,30 @@
     <questReward>
       <quest>NPC Ceara</quest>
     </questReward>
+    <variants>
+      <variant holy_attack="40-202" type="silver"/>
+      <variant holy_attack="40-204" type="silver"/>
+      <variant holy_attack="41-207" type="silver"/>
+      <variant holy_attack="41-209" type="silver"/>
+      <variant holy_attack="42-211" type="silver"/>
+      <variant holy_attack="42-213" type="silver"/>
+      <variant holy_attack="43-216" type="silver"/>
+      <variant holy_attack="43-218" type="silver"/>
+      <variant holy_attack="44-220" type="silver"/>
+      <variant holy_attack="44-222" type="silver"/>
+      <variant holy_attack="45-225" type="silver"/>
+      <variant holy_attack="45-227" type="silver"/>
+      <variant holy_attack="45-229" type="silver"/>
+      <variant holy_attack="46-231" type="blue"/>
+      <variant holy_attack="46-234" type="blue"/>
+      <variant holy_attack="47-236" type="blue"/>
+      <variant holy_attack="47-238" type="blue"/>
+      <variant holy_attack="48-240" type="blue"/>
+      <variant holy_attack="48-243" type="gold"/>
+      <variant holy_attack="49-245" type="gold"/>
+      <variant holy_attack="49-247" type="gold"/>
+      <variant holy_attack="50-248" type="gold"/>
+    </variants>
   </item>
   <item looktype="5531" name="Divine Amulet" sell="56" type="chain">
     <defences holy_def="20" level="79"/>
@@ -1356,6 +1598,30 @@
     <questReward>
       <quest>NPC Rodiney</quest>
     </questReward>
+    <variants>
+      <variant energy_attack="131-596" type="silver"/>
+      <variant energy_attack="131-599" type="silver"/>
+      <variant energy_attack="132-602" type="silver"/>
+      <variant energy_attack="132-605" type="silver"/>
+      <variant energy_attack="133-608" type="silver"/>
+      <variant energy_attack="133-611" type="silver"/>
+      <variant energy_attack="134-614" type="silver"/>
+      <variant energy_attack="134-617" type="silver"/>
+      <variant energy_attack="135-620" type="silver"/>
+      <variant energy_attack="135-623" type="silver"/>
+      <variant energy_attack="136-626" type="silver"/>
+      <variant energy_attack="136-629" type="silver"/>
+      <variant energy_attack="137-632" type="silver"/>
+      <variant energy_attack="138-636" type="blue"/>
+      <variant energy_attack="138-640" type="blue"/>
+      <variant energy_attack="140-644" type="blue"/>
+      <variant energy_attack="140-648" type="blue"/>
+      <variant energy_attack="142-652" type="blue"/>
+      <variant energy_attack="143-657" type="gold"/>
+      <variant energy_attack="143-662" type="gold"/>
+      <variant energy_attack="145-667" type="gold"/>
+      <variant energy_attack="145-672" type="gold"/>
+    </variants>
   </item>
   <item looktype="5181" name="Ember rune" sell="98" type="weapon" vocation="wizard">
     <attacks fire_attack="1-100" level="36" mana="9"/>
@@ -1493,6 +1759,30 @@
     <questReward>
       <quest>NPC Rodiney</quest>
     </questReward>
+    <variants>
+      <variant fire_attack="131-596" type="silver"/>
+      <variant fire_attack="131-599" type="silver"/>
+      <variant fire_attack="132-602" type="silver"/>
+      <variant fire_attack="132-605" type="silver"/>
+      <variant fire_attack="133-608" type="silver"/>
+      <variant fire_attack="133-611" type="silver"/>
+      <variant fire_attack="134-614" type="silver"/>
+      <variant fire_attack="134-617" type="silver"/>
+      <variant fire_attack="135-620" type="silver"/>
+      <variant fire_attack="135-623" type="silver"/>
+      <variant fire_attack="136-626" type="silver"/>
+      <variant fire_attack="136-629" type="silver"/>
+      <variant fire_attack="137-632" type="silver"/>
+      <variant fire_attack="138-636" type="blue"/>
+      <variant fire_attack="138-640" type="blue"/>
+      <variant fire_attack="140-644" type="blue"/>
+      <variant fire_attack="140-648" type="blue"/>
+      <variant fire_attack="142-652" type="blue"/>
+      <variant fire_attack="143-657" type="gold"/>
+      <variant fire_attack="143-662" type="gold"/>
+      <variant fire_attack="145-667" type="gold"/>
+      <variant fire_attack="145-672" type="gold"/>
+    </variants>
   </item>
   <item looktype="5550" name="Eternal Winter" type="weapon" vocation="warrior">
     <attacks ice_attack="14-161" level="74"/>
@@ -1532,6 +1822,30 @@
     <questReward>
       <quest>NPC Rodiney</quest>
     </questReward>
+    <variants>
+      <variant ice_attack="131-596" type="silver"/>
+      <variant ice_attack="131-599" type="silver"/>
+      <variant ice_attack="132-602" type="silver"/>
+      <variant ice_attack="132-605" type="silver"/>
+      <variant ice_attack="133-608" type="silver"/>
+      <variant ice_attack="133-611" type="silver"/>
+      <variant ice_attack="134-614" type="silver"/>
+      <variant ice_attack="134-617" type="silver"/>
+      <variant ice_attack="135-620" type="silver"/>
+      <variant ice_attack="135-623" type="silver"/>
+      <variant ice_attack="136-626" type="silver"/>
+      <variant ice_attack="136-629" type="silver"/>
+      <variant ice_attack="137-632" type="silver"/>
+      <variant ice_attack="138-636" type="blue"/>
+      <variant ice_attack="138-640" type="blue"/>
+      <variant ice_attack="140-644" type="blue"/>
+      <variant ice_attack="140-648" type="blue"/>
+      <variant ice_attack="142-652" type="blue"/>
+      <variant ice_attack="143-657" type="gold"/>
+      <variant ice_attack="143-662" type="gold"/>
+      <variant ice_attack="145-667" type="gold"/>
+      <variant ice_attack="145-672" type="gold"/>
+    </variants>
   </item>
   <item looktype="5558" name="Evilare mask" sell="550" type="mask">
     <droppedBy>
@@ -2115,6 +2429,30 @@
     <questReward>
       <quest>NPC Rodiney</quest>
     </questReward>
+    <variants>
+      <variant ice_attack="101-469" type="silver"/>
+      <variant ice_attack="101-472" type="silver"/>
+      <variant ice_attack="102-475" type="silver"/>
+      <variant ice_attack="102-478" type="silver"/>
+      <variant ice_attack="103-481" type="silver"/>
+      <variant ice_attack="103-484" type="silver"/>
+      <variant ice_attack="104-487" type="silver"/>
+      <variant ice_attack="104-490" type="silver"/>
+      <variant ice_attack="105-493" type="silver"/>
+      <variant ice_attack="105-496" type="silver"/>
+      <variant ice_attack="106-499" type="silver"/>
+      <variant ice_attack="106-502" type="silver"/>
+      <variant ice_attack="107-505" type="silver"/>
+      <variant ice_attack="108-509" type="blue"/>
+      <variant ice_attack="108-513" type="blue"/>
+      <variant ice_attack="110-517" type="blue"/>
+      <variant ice_attack="110-521" type="blue"/>
+      <variant ice_attack="112-525" type="blue"/>
+      <variant ice_attack="113-530" type="gold"/>
+      <variant ice_attack="113-535" type="gold"/>
+      <variant ice_attack="115-540" type="gold"/>
+      <variant ice_attack="115-545" type="gold"/>
+    </variants>
   </item>
   <item looktype="5164" name="Glacier chain" sell="48" type="chain">
     <defences hit_def="5" ice_def="10" level="49"/>
@@ -2333,6 +2671,30 @@
     <questReward>
       <quest>NPC Rodiney</quest>
     </questReward>
+    <variants>
+      <variant fire_attack="101-469" type="silver"/>
+      <variant fire_attack="101-472" type="silver"/>
+      <variant fire_attack="102-475" type="silver"/>
+      <variant fire_attack="102-478" type="silver"/>
+      <variant fire_attack="103-481" type="silver"/>
+      <variant fire_attack="103-484" type="silver"/>
+      <variant fire_attack="104-487" type="silver"/>
+      <variant fire_attack="104-490" type="silver"/>
+      <variant fire_attack="105-493" type="silver"/>
+      <variant fire_attack="105-496" type="silver"/>
+      <variant fire_attack="106-499" type="silver"/>
+      <variant fire_attack="106-502" type="silver"/>
+      <variant fire_attack="107-505" type="silver"/>
+      <variant fire_attack="108-509" type="blue"/>
+      <variant fire_attack="108-513" type="blue"/>
+      <variant fire_attack="110-517" type="blue"/>
+      <variant fire_attack="110-521" type="blue"/>
+      <variant fire_attack="112-525" type="blue"/>
+      <variant fire_attack="113-530" type="gold"/>
+      <variant fire_attack="113-535" type="gold"/>
+      <variant fire_attack="115-540" type="gold"/>
+      <variant fire_attack="115-545" type="gold"/>
+    </variants>
   </item>
   <item looktype="5502" name="Hellfire breastplate" type="armour" vocation="warrior">
     <defences fire_def="37" holy_def="18" level="79"/>
@@ -2441,6 +2803,30 @@
     <questReward>
       <quest>NPC Ceara</quest>
     </questReward>
+    <variants>
+      <variant ice_attack="63-252" type="silver"/>
+      <variant ice_attack="63-255" type="silver"/>
+      <variant ice_attack="64-258" type="silver"/>
+      <variant ice_attack="65-261" type="silver"/>
+      <variant ice_attack="65-264" type="silver"/>
+      <variant ice_attack="66-266" type="silver"/>
+      <variant ice_attack="67-269" type="silver"/>
+      <variant ice_attack="67-272" type="silver"/>
+      <variant ice_attack="68-275" type="silver"/>
+      <variant ice_attack="69-278" type="silver"/>
+      <variant ice_attack="70-281" type="silver"/>
+      <variant ice_attack="70-283" type="silver"/>
+      <variant ice_attack="71-286" type="silver"/>
+      <variant ice_attack="72-289" type="blue"/>
+      <variant ice_attack="72-292" type="blue"/>
+      <variant ice_attack="73-295" type="blue"/>
+      <variant ice_attack="74-297" type="blue"/>
+      <variant ice_attack="74-300" type="blue"/>
+      <variant ice_attack="75-303" type="gold"/>
+      <variant ice_attack="76-306" type="gold"/>
+      <variant ice_attack="77-309" type="gold"/>
+      <variant ice_attack="77-310" type="gold"/>
+    </variants>
   </item>
   <item looktype="5149" name="Ice discus" sell="38" type="weapon" vocation="wizard">
     <attacks ice_attack="1-114" level="40" mana="11"/>
@@ -2492,6 +2878,30 @@
     <questReward>
       <quest>NPC Rodiney</quest>
     </questReward>
+    <variants>
+      <variant holy_attack="131-596" type="silver"/>
+      <variant holy_attack="131-599" type="silver"/>
+      <variant holy_attack="132-602" type="silver"/>
+      <variant holy_attack="132-605" type="silver"/>
+      <variant holy_attack="133-608" type="silver"/>
+      <variant holy_attack="133-611" type="silver"/>
+      <variant holy_attack="134-614" type="silver"/>
+      <variant holy_attack="134-617" type="silver"/>
+      <variant holy_attack="135-620" type="silver"/>
+      <variant holy_attack="135-623" type="silver"/>
+      <variant holy_attack="136-626" type="silver"/>
+      <variant holy_attack="136-629" type="silver"/>
+      <variant holy_attack="137-632" type="silver"/>
+      <variant holy_attack="138-636" type="blue"/>
+      <variant holy_attack="138-640" type="blue"/>
+      <variant holy_attack="140-644" type="blue"/>
+      <variant holy_attack="140-648" type="blue"/>
+      <variant holy_attack="142-652" type="blue"/>
+      <variant holy_attack="143-657" type="gold"/>
+      <variant holy_attack="143-662" type="gold"/>
+      <variant holy_attack="145-667" type="gold"/>
+      <variant holy_attack="145-672" type="gold"/>
+    </variants>
   </item>
   <item looktype="5201" name="Jade ring" sell="37" type="ring">
     <defences hit_def="5" holy_def="10" level="34"/>
@@ -3268,12 +3678,60 @@
     <questReward>
       <quest>NPC Sidna</quest>
     </questReward>
+    <variants>
+      <variant energy_attack="81-319" type="silver"/>
+      <variant energy_attack="81-322" type="silver"/>
+      <variant energy_attack="82-325" type="silver"/>
+      <variant energy_attack="82-328" type="silver"/>
+      <variant energy_attack="83-331" type="silver"/>
+      <variant energy_attack="83-334" type="silver"/>
+      <variant energy_attack="84-337" type="silver"/>
+      <variant energy_attack="84-340" type="silver"/>
+      <variant energy_attack="85-343" type="silver"/>
+      <variant energy_attack="85-346" type="silver"/>
+      <variant energy_attack="86-349" type="silver"/>
+      <variant energy_attack="86-352" type="silver"/>
+      <variant energy_attack="87-355" type="silver"/>
+      <variant energy_attack="88-359" type="blue"/>
+      <variant energy_attack="88-363" type="blue"/>
+      <variant energy_attack="90-367" type="blue"/>
+      <variant energy_attack="90-371" type="blue"/>
+      <variant energy_attack="92-375" type="blue"/>
+      <variant energy_attack="93-380" type="gold"/>
+      <variant energy_attack="93-385" type="gold"/>
+      <variant energy_attack="95-390" type="gold"/>
+      <variant energy_attack="95-395" type="gold"/>
+    </variants>
   </item>
   <item looktype="8471" name="Mutabour Scepter" type="weapon" vocation="wizard">
     <attacks energy_attack="91-379" level="139" mana="33"/>
     <questReward>
       <quest>NPC Sidna</quest>
     </questReward>
+    <variants>
+      <variant energy_attack="91-379" type="silver"/>
+      <variant energy_attack="91-382" type="silver"/>
+      <variant energy_attack="92-385" type="silver"/>
+      <variant energy_attack="92-388" type="silver"/>
+      <variant energy_attack="93-391" type="silver"/>
+      <variant energy_attack="93-394" type="silver"/>
+      <variant energy_attack="94-397" type="silver"/>
+      <variant energy_attack="94-400" type="silver"/>
+      <variant energy_attack="95-403" type="silver"/>
+      <variant energy_attack="95-406" type="silver"/>
+      <variant energy_attack="96-409" type="silver"/>
+      <variant energy_attack="96-412" type="silver"/>
+      <variant energy_attack="97-415" type="silver"/>
+      <variant energy_attack="98-419" type="blue"/>
+      <variant energy_attack="98-423" type="blue"/>
+      <variant energy_attack="100-427" type="blue"/>
+      <variant energy_attack="100-431" type="blue"/>
+      <variant energy_attack="102-435" type="blue"/>
+      <variant energy_attack="103-440" type="gold"/>
+      <variant energy_attack="103-445" type="gold"/>
+      <variant energy_attack="105-450" type="gold"/>
+      <variant energy_attack="105-455" type="gold"/>
+    </variants>
   </item>
   <item looktype="6519" name="Mutilator" type="weapon" vocation="warrior">
     <attacks hit_attack="20-205" level="99"/>
@@ -3594,6 +4052,38 @@
     <questReward>
       <quest>NPC Eldyr</quest>
     </questReward>
+    <variants>
+      <variant energy_attack="18-207" holy_attack="19-216" type="silver"/>
+      <variant energy_attack="19-221" holy_attack="19-225" type="silver"/>
+      <variant energy_attack="19-225" holy_attack="19-223" type="silver"/>
+      <variant energy_attack="22-202" holy_attack="22-202" type="silver"/>
+      <variant energy_attack="22-202" holy_attack="24-216" type="silver"/>
+      <variant energy_attack="23-211" holy_attack="24-214" type="silver"/>
+      <variant energy_attack="24-214" holy_attack="22-200" type="silver"/>
+      <variant energy_attack="24-214" holy_attack="24-220" type="silver"/>
+      <variant energy_attack="24-214" holy_attack="25-223" type="silver"/>
+      <variant energy_attack="24-216" holy_attack="26-238" type="silver"/>
+      <variant energy_attack="24-218" holy_attack="24-218" type="silver"/>
+      <variant energy_attack="24-220" holy_attack="24-218" type="silver"/>
+      <variant energy_attack="24-220" holy_attack="25-225" type="silver"/>
+      <variant energy_attack="25-223" holy_attack="22-202" type="silver"/>
+      <variant energy_attack="25-223" holy_attack="23-211" type="silver"/>
+      <variant energy_attack="26-231" holy_attack="26-231" type="blue"/>
+      <variant energy_attack="26-231" holy_attack="26-238" type="blue"/>
+      <variant energy_attack="26-234" holy_attack="25-223" type="blue"/>
+      <variant energy_attack="26-234" holy_attack="25-225" type="blue"/>
+      <variant energy_attack="26-234" holy_attack="26-238" type="blue"/>
+      <variant energy_attack="27-240" holy_attack="24-220" type="blue"/>
+      <variant energy_attack="27-240" holy_attack="25-227" type="blue"/>
+      <variant energy_attack="27-240" holy_attack="26-234" type="blue"/>
+      <variant energy_attack="27-243" holy_attack="24-220" type="blue"/>
+      <variant energy_attack="27-243" holy_attack="25-225" type="blue"/>
+      <variant energy_attack="26-238" holy_attack="27-240" type="gold"/>
+      <variant energy_attack="27-240" holy_attack="26-238" type="gold"/>
+      <variant energy_attack="27-240" holy_attack="27-240" type="gold"/>
+      <variant energy_attack="27-243" holy_attack="26-238" type="gold"/>
+      <variant energy_attack="27-243" holy_attack="27-243" type="gold"/>
+    </variants>
   </item>
   <item looktype="5259" name="Purple dragon egg" type="egg">
     <consumable hp="50" mp="50"/>
@@ -3606,18 +4096,98 @@
     <questReward>
       <quest>NPC Ceara</quest>
     </questReward>
+    <variants>
+      <variant energy_attack="63-252" type="silver"/>
+      <variant energy_attack="63-255" type="silver"/>
+      <variant energy_attack="64-258" type="silver"/>
+      <variant energy_attack="65-261" type="silver"/>
+      <variant energy_attack="65-264" type="silver"/>
+      <variant energy_attack="66-266" type="silver"/>
+      <variant energy_attack="67-269" type="silver"/>
+      <variant energy_attack="67-272" type="silver"/>
+      <variant energy_attack="68-275" type="silver"/>
+      <variant energy_attack="69-278" type="silver"/>
+      <variant energy_attack="70-281" type="silver"/>
+      <variant energy_attack="70-283" type="silver"/>
+      <variant energy_attack="71-286" type="silver"/>
+      <variant energy_attack="72-289" type="blue"/>
+      <variant energy_attack="72-292" type="blue"/>
+      <variant energy_attack="73-295" type="blue"/>
+      <variant energy_attack="74-297" type="blue"/>
+      <variant energy_attack="74-300" type="blue"/>
+      <variant energy_attack="75-303" type="gold"/>
+      <variant energy_attack="76-306" type="gold"/>
+      <variant energy_attack="77-309" type="gold"/>
+      <variant energy_attack="77-310" type="gold"/>
+    </variants>
   </item>
   <item looktype="5593" name="Reaper of worlds" type="weapon" vocation="warrior">
     <attacks fire_attack="25-223" ice_attack="25-223" level="129"/>
     <questReward>
       <quest>NPC Elder</quest>
     </questReward>
+    <variants>
+      <variant fire_attack="18-207" ice_attack="19-216" type="silver"/>
+      <variant fire_attack="19-221" ice_attack="19-225" type="silver"/>
+      <variant fire_attack="19-225" ice_attack="19-223" type="silver"/>
+      <variant fire_attack="22-202" ice_attack="22-202" type="silver"/>
+      <variant fire_attack="22-202" ice_attack="24-216" type="silver"/>
+      <variant fire_attack="23-211" ice_attack="24-214" type="silver"/>
+      <variant fire_attack="24-214" ice_attack="22-200" type="silver"/>
+      <variant fire_attack="24-214" ice_attack="24-220" type="silver"/>
+      <variant fire_attack="24-214" ice_attack="25-223" type="silver"/>
+      <variant fire_attack="24-216" ice_attack="26-238" type="silver"/>
+      <variant fire_attack="24-218" ice_attack="24-218" type="silver"/>
+      <variant fire_attack="24-220" ice_attack="24-218" type="silver"/>
+      <variant fire_attack="24-220" ice_attack="25-225" type="silver"/>
+      <variant fire_attack="25-223" ice_attack="22-202" type="silver"/>
+      <variant fire_attack="25-223" ice_attack="23-211" type="silver"/>
+      <variant fire_attack="26-231" ice_attack="26-231" type="blue"/>
+      <variant fire_attack="26-231" ice_attack="26-238" type="blue"/>
+      <variant fire_attack="26-234" ice_attack="25-223" type="blue"/>
+      <variant fire_attack="26-234" ice_attack="25-225" type="blue"/>
+      <variant fire_attack="26-234" ice_attack="26-238" type="blue"/>
+      <variant fire_attack="27-240" ice_attack="24-220" type="blue"/>
+      <variant fire_attack="27-240" ice_attack="25-227" type="blue"/>
+      <variant fire_attack="27-240" ice_attack="26-234" type="blue"/>
+      <variant fire_attack="27-243" ice_attack="24-220" type="blue"/>
+      <variant fire_attack="27-243" ice_attack="25-225" type="blue"/>
+      <variant fire_attack="26-238" ice_attack="27-240" type="gold"/>
+      <variant fire_attack="27-240" ice_attack="26-238" type="gold"/>
+      <variant fire_attack="27-240" ice_attack="27-240" type="gold"/>
+      <variant fire_attack="27-243" ice_attack="26-238" type="gold"/>
+      <variant fire_attack="27-243" ice_attack="27-243" type="gold"/>
+    </variants>
   </item>
   <item looktype="6541" name="Reapers claw" type="weapon" vocation="warrior">
     <attacks hit_attack="45-225" level="119"/>
     <questReward>
       <quest>NPC Ceara</quest>
     </questReward>
+    <variants>
+      <variant hit_attack="40-202" type="silver"/>
+      <variant hit_attack="40-204" type="silver"/>
+      <variant hit_attack="41-207" type="silver"/>
+      <variant hit_attack="41-209" type="silver"/>
+      <variant hit_attack="42-211" type="silver"/>
+      <variant hit_attack="42-213" type="silver"/>
+      <variant hit_attack="43-216" type="silver"/>
+      <variant hit_attack="43-218" type="silver"/>
+      <variant hit_attack="44-220" type="silver"/>
+      <variant hit_attack="44-222" type="silver"/>
+      <variant hit_attack="45-225" type="silver"/>
+      <variant hit_attack="45-227" type="silver"/>
+      <variant hit_attack="45-229" type="silver"/>
+      <variant hit_attack="46-231" type="blue"/>
+      <variant hit_attack="46-234" type="blue"/>
+      <variant hit_attack="47-236" type="blue"/>
+      <variant hit_attack="47-238" type="blue"/>
+      <variant hit_attack="48-240" type="blue"/>
+      <variant hit_attack="48-243" type="gold"/>
+      <variant hit_attack="49-245" type="gold"/>
+      <variant hit_attack="49-247" type="gold"/>
+      <variant hit_attack="50-248" type="gold"/>
+    </variants>
   </item>
   <item looktype="2587" name="Red defroster" type="none">
     <droppedBy>
@@ -3880,6 +4450,30 @@
     <questReward>
       <quest>NPC Ceara</quest>
     </questReward>
+    <variants>
+      <variant fire_attack="40-202" type="silver"/>
+      <variant fire_attack="40-204" type="silver"/>
+      <variant fire_attack="41-207" type="silver"/>
+      <variant fire_attack="41-209" type="silver"/>
+      <variant fire_attack="42-211" type="silver"/>
+      <variant fire_attack="42-213" type="silver"/>
+      <variant fire_attack="43-216" type="silver"/>
+      <variant fire_attack="43-218" type="silver"/>
+      <variant fire_attack="44-220" type="silver"/>
+      <variant fire_attack="44-222" type="silver"/>
+      <variant fire_attack="45-225" type="silver"/>
+      <variant fire_attack="45-227" type="silver"/>
+      <variant fire_attack="45-229" type="silver"/>
+      <variant fire_attack="46-231" type="blue"/>
+      <variant fire_attack="46-234" type="blue"/>
+      <variant fire_attack="47-236" type="blue"/>
+      <variant fire_attack="47-238" type="blue"/>
+      <variant fire_attack="48-240" type="blue"/>
+      <variant fire_attack="48-243" type="gold"/>
+      <variant fire_attack="49-245" type="gold"/>
+      <variant fire_attack="49-247" type="gold"/>
+      <variant fire_attack="50-248" type="gold"/>
+    </variants>
   </item>
   <item looktype="5558" name="Shadow mask" sell="550" type="mask">
     <containedIn>
@@ -4068,6 +4662,30 @@
     <questReward>
       <quest>NPC Rodiney</quest>
     </questReward>
+    <variants>
+      <variant hit_attack="101-469" type="silver"/>
+      <variant hit_attack="101-472" type="silver"/>
+      <variant hit_attack="102-475" type="silver"/>
+      <variant hit_attack="102-478" type="silver"/>
+      <variant hit_attack="103-481" type="silver"/>
+      <variant hit_attack="103-484" type="silver"/>
+      <variant hit_attack="104-487" type="silver"/>
+      <variant hit_attack="104-490" type="silver"/>
+      <variant hit_attack="105-493" type="silver"/>
+      <variant hit_attack="105-496" type="silver"/>
+      <variant hit_attack="106-499" type="silver"/>
+      <variant hit_attack="106-502" type="silver"/>
+      <variant hit_attack="107-505" type="silver"/>
+      <variant hit_attack="108-509" type="blue"/>
+      <variant hit_attack="108-513" type="blue"/>
+      <variant hit_attack="110-517" type="blue"/>
+      <variant hit_attack="110-521" type="blue"/>
+      <variant hit_attack="112-525" type="blue"/>
+      <variant hit_attack="113-530" type="gold"/>
+      <variant hit_attack="113-535" type="gold"/>
+      <variant hit_attack="115-540" type="gold"/>
+      <variant hit_attack="115-545" type="gold"/>
+    </variants>
   </item>
   <item looktype="6470" name="Skylighter" sell="10" type="weapon" vocation="warrior">
     <attacks energy_attack="1-34" level="15"/>
@@ -4268,6 +4886,30 @@
     <questReward>
       <quest>NPC Ceara</quest>
     </questReward>
+    <variants>
+      <variant fire_attack="63-252" type="silver"/>
+      <variant fire_attack="63-255" type="silver"/>
+      <variant fire_attack="64-258" type="silver"/>
+      <variant fire_attack="65-261" type="silver"/>
+      <variant fire_attack="65-264" type="silver"/>
+      <variant fire_attack="66-266" type="silver"/>
+      <variant fire_attack="67-269" type="silver"/>
+      <variant fire_attack="67-272" type="silver"/>
+      <variant fire_attack="68-275" type="silver"/>
+      <variant fire_attack="69-278" type="silver"/>
+      <variant fire_attack="70-281" type="silver"/>
+      <variant fire_attack="70-283" type="silver"/>
+      <variant fire_attack="71-286" type="silver"/>
+      <variant fire_attack="72-289" type="blue"/>
+      <variant fire_attack="72-292" type="blue"/>
+      <variant fire_attack="73-295" type="blue"/>
+      <variant fire_attack="74-297" type="blue"/>
+      <variant fire_attack="74-300" type="blue"/>
+      <variant fire_attack="75-303" type="gold"/>
+      <variant fire_attack="76-306" type="gold"/>
+      <variant fire_attack="77-309" type="gold"/>
+      <variant fire_attack="77-310" type="gold"/>
+    </variants>
   </item>
   <item looktype="5141" name="Soul rod" sell="38" type="weapon" vocation="wizard">
     <attacks holy_attack="1-90" level="31" mana="9"/>
@@ -4498,6 +5140,30 @@
     <questReward>
       <quest>NPC Rodiney</quest>
     </questReward>
+    <variants>
+      <variant holy_attack="101-469" type="silver"/>
+      <variant holy_attack="101-472" type="silver"/>
+      <variant holy_attack="102-475" type="silver"/>
+      <variant holy_attack="102-478" type="silver"/>
+      <variant holy_attack="103-481" type="silver"/>
+      <variant holy_attack="103-484" type="silver"/>
+      <variant holy_attack="104-487" type="silver"/>
+      <variant holy_attack="104-490" type="silver"/>
+      <variant holy_attack="105-493" type="silver"/>
+      <variant holy_attack="105-496" type="silver"/>
+      <variant holy_attack="106-499" type="silver"/>
+      <variant holy_attack="106-502" type="silver"/>
+      <variant holy_attack="107-505" type="silver"/>
+      <variant holy_attack="108-509" type="blue"/>
+      <variant holy_attack="108-513" type="blue"/>
+      <variant holy_attack="110-517" type="blue"/>
+      <variant holy_attack="110-521" type="blue"/>
+      <variant holy_attack="112-525" type="blue"/>
+      <variant holy_attack="113-530" type="gold"/>
+      <variant holy_attack="113-535" type="gold"/>
+      <variant holy_attack="115-540" type="gold"/>
+      <variant holy_attack="115-545" type="gold"/>
+    </variants>
   </item>
   <item looktype="5183" name="Spiritual amulet" sell="33" type="chain">
     <defences holy_def="10" level="49"/>
@@ -4653,6 +5319,30 @@
     <questReward>
       <quest>NPC Ceara</quest>
     </questReward>
+    <variants>
+      <variant energy_attack="40-202" type="silver"/>
+      <variant energy_attack="40-204" type="silver"/>
+      <variant energy_attack="41-207" type="silver"/>
+      <variant energy_attack="41-209" type="silver"/>
+      <variant energy_attack="42-211" type="silver"/>
+      <variant energy_attack="42-213" type="silver"/>
+      <variant energy_attack="43-216" type="silver"/>
+      <variant energy_attack="43-218" type="silver"/>
+      <variant energy_attack="44-220" type="silver"/>
+      <variant energy_attack="44-222" type="silver"/>
+      <variant energy_attack="45-225" type="silver"/>
+      <variant energy_attack="45-227" type="silver"/>
+      <variant energy_attack="45-229" type="silver"/>
+      <variant energy_attack="46-231" type="blue"/>
+      <variant energy_attack="46-234" type="blue"/>
+      <variant energy_attack="47-236" type="blue"/>
+      <variant energy_attack="47-238" type="blue"/>
+      <variant energy_attack="48-240" type="blue"/>
+      <variant energy_attack="48-243" type="gold"/>
+      <variant energy_attack="49-245" type="gold"/>
+      <variant energy_attack="49-247" type="gold"/>
+      <variant energy_attack="50-248" type="gold"/>
+    </variants>
   </item>
   <item looktype="5544" name="Tempest cape" sell="2000" type="armour" vocation="wizard">
     <defences energy_def="35" level="65"/>
@@ -4709,6 +5399,30 @@
     <questReward>
       <quest>NPC Rodiney</quest>
     </questReward>
+    <variants>
+      <variant energy_attack="101-469" type="silver"/>
+      <variant energy_attack="101-472" type="silver"/>
+      <variant energy_attack="102-475" type="silver"/>
+      <variant energy_attack="102-478" type="silver"/>
+      <variant energy_attack="103-481" type="silver"/>
+      <variant energy_attack="103-484" type="silver"/>
+      <variant energy_attack="104-487" type="silver"/>
+      <variant energy_attack="104-490" type="silver"/>
+      <variant energy_attack="105-493" type="silver"/>
+      <variant energy_attack="105-496" type="silver"/>
+      <variant energy_attack="106-499" type="silver"/>
+      <variant energy_attack="106-502" type="silver"/>
+      <variant energy_attack="107-505" type="silver"/>
+      <variant energy_attack="108-509" type="blue"/>
+      <variant energy_attack="108-513" type="blue"/>
+      <variant energy_attack="110-517" type="blue"/>
+      <variant energy_attack="110-521" type="blue"/>
+      <variant energy_attack="112-525" type="blue"/>
+      <variant energy_attack="113-530" type="gold"/>
+      <variant energy_attack="113-535" type="gold"/>
+      <variant energy_attack="115-540" type="gold"/>
+      <variant energy_attack="115-545" type="gold"/>
+    </variants>
   </item>
   <item looktype="5247" name="Tide evoker" sell="45" type="weapon" vocation="wizard">
     <attacks energy_attack="1-25" ice_attack="1-120" level="49" mana="13"/>
