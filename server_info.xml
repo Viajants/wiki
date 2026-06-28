@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1763305102904</GeneratedAt>
-  <PlayersOnline>1</PlayersOnline>
-  <TodayPeak>4</TodayPeak>
-  <TotalPlayers>5531</TotalPlayers>
+  <GeneratedAt>1782680715815</GeneratedAt>
+  <WorldId>200</WorldId>
+  <PlayersOnline>0</PlayersOnline>
+  <TodayPeak>0</TodayPeak>
+  <TotalPlayers>9223</TotalPlayers>
+  <Season>
+    <Id>9</Id>
+    <Start>1781452751</Start>
+    <End>1784044751</End>
+    <TimeRemaining>15d 18h</TimeRemaining>
+  </Season>
 </ServerInfo>
