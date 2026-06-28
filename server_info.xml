@@ -11,7 +11,12 @@
     <End>1784044751</End>
     <TimeRemaining>15d 17h</TimeRemaining>
   </Season>
-  <JailedPlayers count="10">
+  <JailedPlayers count="11">
+    <Player>
+      <Name>Kingdois</Name>
+      <EntryDate>2026-06-28 19:53:29</EntryDate>
+      <Duration>1440</Duration>
+    </Player>
     <Player>
       <Name>Kingwarr</Name>
       <EntryDate>2026-06-28 19:53:29</EntryDate>
