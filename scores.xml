@@ -12,7 +12,7 @@
 <guild>New Age</guild>
 <quota>0</quota>
 <patent></patent>
-<deaths>2026-06-28 17:33:32:-1073741823:Viper:0;</deaths>
+<deaths></deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">1</rank>
@@ -30,7 +30,7 @@
 <guild>G O D</guild>
 <quota>0</quota>
 <patent></patent>
-<deaths></deaths>
+<deaths>2026-06-28 17:33:32:-1073741823:Viper:0;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">2</rank>
@@ -43,7 +43,7 @@
 <stats>
 <level>513</level>
 <vocation>warrior</vocation>
-<exppoints>57251276824</exppoints>
+<exppoints>57251277824</exppoints>
 <achievement>230</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
