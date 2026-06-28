@@ -73,7 +73,7 @@
       <Duration>129600</Duration>
     </Player>
   </JailedPlayers>
-  <BannedPlayers count="32">
+  <BannedPlayers count="33">
     <Player>
       <Name>Bankgold</Name>
       <DaysRemaining>106751970534</DaysRemaining>
